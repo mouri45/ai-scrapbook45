@@ -7,6 +7,12 @@
 
 # カテゴリ
 
+**AI 企業/LLM 関連ニュース**：[OpenAI](#openai) | [Google](#google) | [Anthropic](#anthropic) | [MS/GitHub](#msgithub) | [ローカル LLM](#ローカル-llm) | [その他 LLM 関連](#その他-llm-関連)
+
+**注目トピック**：[AI コーディング](#ai-コーディング) | [MCP](#mcp) | [AI エージェント](#ai-エージェント) | [ロボティクス](#ロボティクス)
+
+**ツール/サービス**：[開発/情報系](#気になるツールサービス-1開発情報系) | [画像/動画/3D 等](#気になるツールサービス-2画像動画3d音声音楽生成認識技術xrゲーム関連等) | [その他](#その他-1)
+
 # AI 企業/LLM 関連ニュース
 
 ## OpenAI
@@ -125,9 +131,9 @@ Claude 4 モデルに最適なプロンプトエンジニアリング手法
 
 ## MS/GitHub
 
-### [オープンな“エージェント型 Web”の構築に向け　今年も AI 全振りな「Microsoft Build」まとめ](https://ascii.jp/elem/000/004/271/4271006/)
+### [オープンな"エージェント型 Web"の構築に向け　今年も AI 全振りな「Microsoft Build」まとめ](https://ascii.jp/elem/000/004/271/4271006/)
 
-![オープンな“エージェント型Web”の構築に向け　今年もAI全振りな「Microsoft Build」まとめ](https://ascii.jp/img/2025/05/21/4211991/xl/d9a9715fa9dfdb7d.jpg?20200122)
+![オープンな"エージェント型Web"の構築に向け　今年もAI全振りな「Microsoft Build」まとめ](https://ascii.jp/img/2025/05/21/4211991/xl/d9a9715fa9dfdb7d.jpg?20200122)
 
 Microsoft は、開発者向け年次イベント「Microsoft Build 2025」を開催。「オープンなエージェント型 Web（Agentic Web）」という世界観を含め、今年も AI 一色で、数多くのアップデートが発表された。
 
