@@ -1,0 +1,3034 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-06-03T14:37:27.368Z",
+  "description": "2025/05/14から2025/06/03の期間の気になったニュース",
+  "ogpData": [
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Cloud Run GPUs, now GA, makes running AI workloads easier for everyone    1. Cloud Run GPU  「Cloud Run」は、「Google Cloud」のサーバレスランタイムです。本日 (2025年6月3日)、「Cloud Run」における「NVIDIA GPU」サポートの一般提供が開始されました。これにより、様々なユースケースに対応するパワフルなランタイムが実現し、コスト効率も非常に優れています。  GPUとCPUの両方で、以下のメリットを享受",
+        "image": "https://assets.st-note.com/production/uploads/images/193855341/rectangle_large_type_2_5ccb7761184afe51137b03f75179e34e.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Cloud Run GPU の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n6b26d1e47325"
+      },
+      "savedAt": "2025-06-03T08:08:12.018Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "Cloud Run GPU の概要｜npaka",
+      "url": "https://note.com/npaka/n/n6b26d1e47325"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「しっかり考えて！！！たくさん考えて！！！考えて！！！ https://t.co/LzuMzbrmkX」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-03T08:06:33.861Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「しっかり考えて！！！たくさん考えて！！！考えて！！！ https://t.co/LzuMzbrmkX」 / X",
+      "url": "https://x.com/schroneko/status/1929601929669497323"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのあいびぃさん: 「CLAUDE .md に書いておくと適当に鳴らしてくれます。\n~/.claude/setting.json に \"Bash(afplay:*)\" 追加しておくと accept も不要でオススメです。 https://t.co/TpaPlfDxVb」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-03T08:05:23.755Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Xユーザーのあいびぃさん: 「CLAUDE .md に書いておくと適当に鳴らしてくれます。 ~/.claude/setting.json に \"Bash(afplay:*)\" 追加しておくと accept も不要でオススメです。 https://t.co/TpaPlfDxVb」 / X",
+      "url": "https://x.com/ivy432hz/status/1929534887582707998"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "米Googleが、AIメモアプリ「NotebookLM」に一般公開機能を追加した。これまで、情報を集約した「ノートブック」を外部に共有する際は、閲覧権限を一人ずつ設定する必要があったが、新機能により「リンクを知っている人全員が閲覧できる」形で公開可能になった。",
+        "image": "https://image.itmedia.co.jp/aiplus/articles/2506/03/cover_news091.png",
+        "siteName": "ITmedia AI＋",
+        "title": "NotebookLMに一般公開機能　「リンクを知っていれば誰でも見られる」形で共有可能に",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news091.html"
+      },
+      "savedAt": "2025-06-03T08:01:44.927Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "NotebookLMに一般公開機能　「リンクを知っていれば誰でも見られる」形で共有可能に - ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2506/03/news091.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Meta is prioritizing shipping an ultralight  Horizon OS headset with a tethered compute puck in 2026, and might not ship a new traditional form factor Quest until 2027.",
+        "image": "https://www.uploadvr.com/content/images/size/w1200/2025/06/Meta-Reality-Labs-white.png",
+        "siteName": "UploadVR",
+        "title": "Meta Prioritizing Ultra-Light Headset With Puck Over Traditional Quest 4",
+        "type": "article",
+        "url": "https://www.uploadvr.com/meta-prioritizing-puffin-for-2026-pushing-out-quest-4-to-2027/"
+      },
+      "savedAt": "2025-06-03T08:00:55.424Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "XR/ゲーム"
+      ],
+      "title": "Meta Prioritizing Ultra-Light Headset With Puck Over Traditional Quest 4",
+      "url": "https://www.uploadvr.com/meta-prioritizing-puffin-for-2026-pushing-out-quest-4-to-2027/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「Claude Code で特にこの辺りは毎日使っています！\n\nctrl + f: 一文字前に\nctrl + b: 一文字後ろに\nctrl + h: 一文字前を削除\nctrl + d: 一文字後ろを削除\nctrl + k: 行の最後まで削除\nctrl + p: 上に移動（履歴のひとつ前に）\nctrl + n: 下に移動（履歴のひとつ後ろに）」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-03T07:59:57.241Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "自分用"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「Claude Code で特にこの辺りは毎日使っています！ ctrl + f: 一文字前に ctrl + b: 一文字後ろに ctrl + h: 一文字前を削除 ctrl + d: 一文字後ろを削除 ctrl + k: 行の最後まで削除 ctrl + p: 上に移動（履歴のひとつ前に） ctrl + n: 下に移動（履歴のひとつ後ろに）」 / X",
+      "url": "https://x.com/schroneko/status/1929763043355009457"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "傍で人のターミナルの操作を見ていて, なんともいえない気持ちになることがあります.ubuntu@b215f2bf0b47:~$ echo hello world                                       ^ &lt;- カーソル位置「入力コマ…",
+        "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTQ5ODU1JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTc2MTIzMTgyP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWVlZTgzNDFlZjM4ZTRiM2Y0NWJkODU0MjQyNTE1OGYx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df6d246fc63108dbd7acf2fdea2741fa9?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJTlGJUUzJTgzJThBJUUzJTgzJUFCJTJGJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUFCJUUzJTgxJUE3JUUzJTgxJUFFJUU1JThBJUI5JUU3JThFJTg3JUU3JTlBJTg0JUUzJTgxJUFBJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgyJUJEJUUzJTgzJUFCJUU3JUE3JUJCJUU1JThCJTk1JTJGJUU2JTk2JTg3JUU1JUFEJTk3JUUzJTgxJUFFJUU1JTg5JThBJUU5JTk5JUE0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NDIyMjk2OTFlYWI3YmYyYmMwMjg5ZTc1OWNlY2E3MTU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrX3VjaGlkYV9fX19fJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NjUzN2IxYjVmMDRhYTBmYWJlYTdmODkyMGYwYzcxMTc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=3ca85fcd4f536fd9aa3089baf20c9003",
+        "siteName": "Qiita",
+        "title": "ターミナル/シェルでの効率的なカーソル移動/文字の削除 - Qiita",
+        "type": "article",
+        "url": "https://qiita.com/k_uchida_____/items/c02d7317f29bc1a2db69"
+      },
+      "savedAt": "2025-06-03T07:58:07.911Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "自分用"
+      ],
+      "title": "ターミナル/シェルでの効率的なカーソル移動/文字の削除 #初心者向け - Qiita",
+      "url": "https://qiita.com/k_uchida_____/items/c02d7317f29bc1a2db69"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのまさお@AI駆動開発さん: 「正直、ClaudeCodeでMCP連携するのがめんどくさい...\n\n✅そんなあなたにオススメのコマンドを共有します\n\nこのコマンドを使うと、ClaudeのDesktopアプリに設定しているMCPサーバーの設定を反映することができます！\n\n```\nclaude mcp add-from-claude-desktop\n```\n\n便利なので、覚えておきたい。 https://t.co/5Adt6J9OD1」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-03T07:57:39.960Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Xユーザーのまさお@AI駆動開発さん: 「正直、ClaudeCodeでMCP連携するのがめんどくさい... ✅そんなあなたにオススメのコマンドを共有します このコマンドを使うと、ClaudeのDesktopアプリに設定しているMCPサーバーの設定を反映することができます！ ``` claude mcp add-from-claude-desktop ``` 便利なので、覚えておきたい。 https://t.co/5Adt6J9OD1」 / X",
+      "url": "https://x.com/AI_masaou/status/1929736799003230623"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--2lkgbhMk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E7%2596%25B2%25E3%2582%258C%25E3%2580%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25A8%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25B7%259D%25E5%25B0%25BB%25E4%25BA%25AE%25E7%259C%259F%2520%2528Ryoma%2520Kawajiri%2529%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1MmQ1TEtsTDFvLVJUaXI0cjQzVnd5S2w0RHJWZDZKV082MDgtaGY9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "「AIエージェント疲れ」の原因と対策",
+        "type": "article",
+        "url": "https://zenn.dev/tellernovel_inc/articles/ai-agent-fatigue"
+      },
+      "savedAt": "2025-06-03T07:56:48.212Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "記事・ポスト"
+      ],
+      "title": "「AIエージェント疲れ」の原因と対策",
+      "url": "https://zenn.dev/tellernovel_inc/articles/ai-agent-fatigue"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Appleはオープンソースのゲームエンジン「Godot（ゴドー）」が、新たにvisionOSをサポートする計画を発表しました。この対応により、Apple Vision Pro向けの開発ツールの選択肢が広がります。 vis […]",
+        "image": "https://assets.moguravr.com/uploads/2025/05/b8e8d392eb4cada16282bfb851090f0b-kix.7oc5us7lx048-jpg.webp",
+        "siteName": "Mogura VR News",
+        "title": "オープンソースのゲームエンジン「Godot」にvisionOSが対応へ",
+        "type": "article",
+        "url": "https://www.moguravr.com/apple-godot-visionos-support/"
+      },
+      "savedAt": "2025-06-03T07:54:29.090Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "XR/ゲーム"
+      ],
+      "title": "オープンソースのゲームエンジン「Godot」にvisionOSが対応へ - Mogura VR News",
+      "url": "https://www.moguravr.com/apple-godot-visionos-support/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「Claude Code 1.0.8 のアップデート内容 https://t.co/2yJU9lc8xL」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-03T07:53:39.089Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「Claude Code 1.0.8 のアップデート内容 https://t.co/2yJU9lc8xL」 / X",
+      "url": "https://x.com/schroneko/status/1929578975325495436"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI 始めました！というと、ミーハーな感じがありますが、15年ほどやってきたソフトウェアエンジニアとしてのキャリアは終わりにして、2カ月程前から AI エンジニアになりました。ここ5年程は、過去の経験の切り売りしかしていない感じがずっとあったのですが、全く新しいことを始めて1から勉強し直しているところでとても楽しいです。",
+        "image": "https://blog.riywo.com/og-image/2025/06/from-software-engineer-to-ai-engineer/image.png",
+        "siteName": "",
+        "title": "ソフトウェアエンジニアから AI エンジニアへスキルチェンジ - As a Futurist...",
+        "type": "article",
+        "url": "https://blog.riywo.com/2025/06/from-software-engineer-to-ai-engineer/"
+      },
+      "savedAt": "2025-06-03T07:52:40.924Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "社員必読",
+        "記事・ポスト"
+      ],
+      "title": "ソフトウェアエンジニアから AI エンジニアへスキルチェンジ - As a Futurist...",
+      "url": "https://blog.riywo.com/2025/06/from-software-engineer-to-ai-engineer/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI コーディングエージェント徹底比較：Google Jules、OpenAI Codex、Anthropic Claude Code Action2025年はAIコーディングエージェントの競争が…",
+        "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYyMDk4NiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTcxMTI3MjcxND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1lODA3NDU5ZGJiNDdhYTdlYjE2ZTA3MjdkZDFiMDQ5Yw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D37e1189e43269a4b3061b971e372979a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjAlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTUlQkUlQjklRTUlQkElOTUlRTYlQUYlOTQlRTglQkMlODMlRUYlQkMlOUFHb29nbGUlMjBKdWxlcyVFMyU4MCU4MU9wZW5BSSUyMENvZGV4JUUzJTgwJTgxQW50aHJvcGljJTIwQ2xhdWRlJTIwQ29kZSUyMEFjJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzdhNjVmMDc1ZDNkNjhiNTA0ZGViZmVkZTQ3NmIwNDQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlvY2NpaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTJlNjQ1ZmIwMWNmMGVkZmFmMTVjOTljNmU2YjBiMzJi&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1e6465f9b00ea5474c0f328c7d772dea",
+        "siteName": "Qiita",
+        "title": "AI コーディングエージェント徹底比較：Google Jules、OpenAI Codex、Anthropic Claude Code Action - Qiita",
+        "type": "article",
+        "url": "https://qiita.com/shioccii/items/8842842597d2b6cd0f01"
+      },
+      "savedAt": "2025-06-03T07:48:21.862Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "AI コーディングエージェント徹底比較：Google Jules、OpenAI Codex、Anthropic Claude Code Action #AIエージェント - Qiita",
+      "url": "https://qiita.com/shioccii/items/8842842597d2b6cd0f01"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--W3760pwe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Firebase%2520AI%2520Logic%2520for%2520Unity%25E7%2599%25BA%25E8%25A1%25A8%25EF%25BC%2581XR%25E4%25BD%2593%25E9%25A8%2593%25E3%2581%25ABGemini%25E3%2582%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:FumiyaHr%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RkMzA4MzIwZTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%259B%25E3%2583%25AD%25E3%2583%25A9%25E3%2583%259C%25E3%2581%25AE%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dwa0c0REFqSWJBbHpvM1lJR2FkdjhMTDJLT0pnTUZmOTN5NTdoPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Firebase AI Logic for Unity発表！XR体験にGeminiを",
+        "type": "article",
+        "url": "https://zenn.dev/hololab/articles/firebase-ai-logic-unity-androidxr"
+      },
+      "savedAt": "2025-06-03T07:45:22.169Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "XR/ゲーム"
+      ],
+      "title": "Firebase AI Logic for Unity発表！XR体験にGeminiを",
+      "url": "https://zenn.dev/hololab/articles/firebase-ai-logic-unity-androidxr"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "\nブラウザで動作する3Dモデル自動生成AIツール「Tripo Studio」、ベータ版が無償で公開\n画像やテキストをもとにモデルを自動生成できるツール。パーツごとの分割編集や、自動リギングなども可能\nローポリモデル作成機能や、ブラシでテクスチャにディテールの追加などが可能な機能も搭載\n\n",
+        "image": "https://gamemakers.jp/cms/wp-content/uploads/2025/06/7d11af4d8582c5fe85facc789d779234.jpg",
+        "siteName": "ゲームづくりの最新情報やアイデアを紹介！｜ゲームメーカーズ",
+        "title": "画像やテキストから3Dモデルを自動生成できるAIツール「Tripo Studio」、ベータ版が一般公開。公式Webサイトにて無償提供中｜ゲームメーカーズ",
+        "type": "website",
+        "url": ""
+      },
+      "savedAt": "2025-06-02T15:59:16.176Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "メディア系等",
+        "XR/ゲーム"
+      ],
+      "title": "画像やテキストから3Dモデルを自動生成できるAIツール「Tripo Studio」、ベータ版が一般公開。公式Webサイトにて無償提供中｜ゲームメーカーズ",
+      "url": "https://gamemakers.jp/article/2025_06_02_105130/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Principles of Building AI Agents is a book about building agents. It's written by a veteran of web development, focuses on the substance without hype or buzzwords.",
+        "image": "https://mastra.ai/api/og/book",
+        "siteName": "",
+        "title": "Principles of Building AI Agents",
+        "type": "website",
+        "url": ""
+      },
+      "savedAt": "2025-06-02T14:46:28.004Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "AIエージェント"
+      ],
+      "title": "Principles of Building AI Agents",
+      "url": "https://mastra.ai/book"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "本日、Forkwell さんに悪ふざけに付き合ってもらってイベントやりました。ありがとうございます。「転職したらMCPサーバーだった件」 🎵🧭 というタイトルで登壇しました！\n\n🔍 イベント詳細:\n- イベント名: 転職したらMCPサーバーだった件\n- 公式URL: https://forkwe&hellip;",
+        "image": "https://files.speakerdeck.com/presentations/58bfea5b32124d2e9b68be833ee052eb/slide_0.jpg?35102814",
+        "siteName": "Speaker Deck",
+        "title": "転職したらMCPサーバーだった件",
+        "type": "website",
+        "url": "https://speakerdeck.com/nwiizo/zhuan-zhi-sitaramcpsabadatutajian?slide=21"
+      },
+      "savedAt": "2025-06-02T14:36:32.418Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "MCP"
+      ],
+      "title": "転職したらMCPサーバーだった件 - Speaker Deck",
+      "url": "https://speakerdeck.com/nwiizo/zhuan-zhi-sitaramcpsabadatutajian"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI Studio または任意の MCP クライアントから Gemma やアプリを Cloud Run にデプロイできます。",
+        "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/AI_deployment_made_easy_on_cloud_run.max-2500x2500.jpg",
+        "siteName": "Google Cloud 公式ブログ",
+        "title": "AI のデプロイが簡単に: AI Studio または MCP 対応 AI エージェントからアプリを Cloud Run にデプロイ | Google Cloud 公式ブログ",
+        "type": "website",
+        "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/ai-studio-to-cloud-run-and-cloud-run-mcp-server"
+      },
+      "savedAt": "2025-06-02T14:29:24.643Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "AI のデプロイが簡単に: AI Studio または MCP 対応 AI エージェントからアプリを Cloud Run にデプロイ | Google Cloud 公式ブログ",
+      "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/ai-studio-to-cloud-run-and-cloud-run-mcp-server"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "「xAI API」の「Live Search」を試したので、まとめました。   ・Live Search    【注意】「Live Search」機能はベータ版のため、2025年6月5日まで無料で利用できます。この無料ベータ期間中にLive Searchご利用することで、ユーザーは、サービス向上のため、ユーザーの「Live Search」リクエストデータをxAIと共有することに同意したものとみなされます。ベータ期間中に「Live Search」を利用する場合は、新しいAPIキーを作成することを推奨します。   1. Live Search  「Grok」にリアルタイムの情報検索機能を組",
+        "image": "https://assets.st-note.com/production/uploads/images/191490600/rectangle_large_type_2_ec3ecb865d814a42ce06edf6085a34d0.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "xAI API の Live Search を試す｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/ne80abb1c584b"
+      },
+      "savedAt": "2025-06-02T11:54:52.201Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "その他LLM"
+      ],
+      "title": "xAI API の Live Search を試す｜npaka",
+      "url": "https://note.com/npaka/n/ne80abb1c584b"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Googleが、AI開発プラットフォームのHugging Faceに公開されているAIモデルをユーザーがスマートフォンから実行できるようにするアプリ「Google AI Edge Gallery」を2025年5月21日に公開しています。Google AI Edge Galleryは記事作成時点でAndroid版がリリースされており、iOS版は近日登場予定となっています。",
+        "image": "https://i.gzn.jp/img/2025/06/02/google-ai-edge-gallery/00.png",
+        "siteName": "GIGAZINE",
+        "title": "GoogleはAIモデルをスマホにダウンロードしてローカルで実行できるアプリ「Google AI Edge Gallery」をひっそりとリリースしている",
+        "type": "article",
+        "url": "https://gigazine.net/news/20250602-google-ai-edge-gallery/"
+      },
+      "savedAt": "2025-06-02T11:44:12.481Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "GoogleはAIモデルをスマホにダウンロードしてローカルで実行できるアプリ「Google AI Edge Gallery」をひっそりとリリースしている - GIGAZINE",
+      "url": "https://gigazine.net/news/20250602-google-ai-edge-gallery/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Microsoftは、開発者向け年次イベント「Microsoft Build 2025」を開催。「オープンなエージェント型Web（Agentic Web）」という世界観を含め、今年もAI一色で、数多くのアップデートが発表された。",
+        "image": "https://ascii.jp/img/2025/05/21/4211991/xl/d9a9715fa9dfdb7d.jpg?20200122",
+        "siteName": "ASCII.jp",
+        "title": "オープンな“エージェント型Web”の構築に向け　今年もAI全振りな「Microsoft Build」まとめ",
+        "type": "article",
+        "url": "https://ascii.jp/elem/000/004/271/4271006/"
+      },
+      "savedAt": "2025-06-02T11:43:33.875Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "MS/GitHub"
+      ],
+      "title": "ASCII.jp：オープンな“エージェント型Web”の構築に向け　今年もAI全振りな「Microsoft Build」まとめ",
+      "url": "https://ascii.jp/elem/000/004/271/4271006/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Claude 4モデルに最適なプロンプトエンジニアリング手法",
+        "image": "https://anthropic.mintlify.app/_next/image?url=%2Fapi%2Fog%3Fdivision%3DDocumentation%26mode%3Dlight%26title%3DClaude%2B4%2B%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%26description%3DClaude%2B4%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AB%25E6%259C%2580%25E9%2581%25A9%25E3%2581%25AA%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E6%2589%258B%25E6%25B3%2595%26logoLight%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fanthropic%252Flogo%252Flight.svg%26logoDark%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fanthropic%252Flogo%252Fdark.svg%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E&w=1200&q=100",
+        "siteName": "",
+        "title": "Claude 4 プロンプトエンジニアリングのベストプラクティス - Anthropic",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-02T11:33:59.511Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Anthropic"
+      ],
+      "title": "Claude 4 プロンプトエンジニアリングのベストプラクティス - Anthropic",
+      "url": "https://docs.anthropic.com/ja/docs/build-with-claude/prompt-engineering/claude-4-best-practices"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "OpenAIは23日、AIがブラウザを操作し、タスクを実行するAIエージェント「Operator」のモデルを「OpenAI o3」ベースとして強化した。",
+        "image": "https://www.watch.impress.co.jp/img/ipw/list/2016/957/op1.jpg",
+        "siteName": "Impress Watch",
+        "title": "OpenAI、ブラウザ操作エージェント「Operator」がo3ベースに強化",
+        "type": "article",
+        "url": "https://www.watch.impress.co.jp/docs/news/2016957.html"
+      },
+      "savedAt": "2025-06-02T06:52:17.384Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "OpenAI"
+      ],
+      "title": "OpenAI、ブラウザ操作エージェント「Operator」がo3ベースに強化 - Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2016957.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "OpenAIの「Responses API」は「ウェブ検索」「ファイル検索」「コンピューターの操作」などの機能を備えたAPIで、OpenAIのAIモデルを用いたAIエージェントの作成に適しています。そんなResponses APIがツール間のデータ連携方法を定めるプロトコル「Model Context Protocol(MCP)」に対応し、API経由でOpenAI以外のサービスにアクセスできるようになりました。また、Responses APIで画像生成機能も使えるようになっています。",
+        "image": "https://i.gzn.jp/img/2025/05/22/openai-responses-api-mcp/00.png",
+        "siteName": "GIGAZINE",
+        "title": "OpenAIのエージェント構築用API「Responses API」がMCPに対応し他のツールとの連携が容易に＆Responses APIで画像生成機能も利用可能に",
+        "type": "article",
+        "url": "https://gigazine.net/news/20250522-openai-responses-api-mcp/"
+      },
+      "savedAt": "2025-06-02T06:50:06.082Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "OpenAI"
+      ],
+      "title": "OpenAIのエージェント構築用API「Responses API」がMCPに対応し他のツールとの連携が容易に＆Responses APIで画像生成機能も利用可能に - GIGAZINE",
+      "url": "https://gigazine.net/news/20250522-openai-responses-api-mcp/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "iPhoneやiPodなど数々のApple製品のデザインを担当してきたジョニー・アイブ氏が立ち上げたAIハードウェア企業の「io」を、AI企業のOpenAIが買収すると発表しました。",
+        "image": "https://i.gzn.jp/img/2025/05/22/openai-buy-jony-ive-io/00_m.jpg",
+        "siteName": "GIGAZINE",
+        "title": "OpenAIがAppleの元デザイナーであるジョニー・アイブのデバイススタートアップ「io」を買収、「世界がこれまでに見た中で最もクール」なAIハードウェアを開発中で2026年にも発売予定",
+        "type": "article",
+        "url": "https://gigazine.net/news/20250522-openai-buy-jony-ive-io/"
+      },
+      "savedAt": "2025-06-02T06:48:46.576Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "OpenAI"
+      ],
+      "title": "OpenAIがAppleの元デザイナーであるジョニー・アイブのデバイススタートアップ「io」を買収、「世界がこれまでに見た中で最もクール」なAIハードウェアを開発中で2026年にも発売予定 - GIGAZINE",
+      "url": "https://gigazine.net/news/20250522-openai-buy-jony-ive-io/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "OpenAIは17日、コーディングエージェントとなる「Codex」のプレビュー版を公開した。複数のタスクを並列処理できるクラウドベースのソフトウェア開発エージェントで、ChatGPTからCodexを立ち上げて、コーディングやコーディングに関する質問への回答、バグの修正、レビュー用のプルリクエストの対応などのタスクを実行できる。",
+        "image": "https://www.watch.impress.co.jp/img/ipw/list/2014/968/open01.jpg",
+        "siteName": "Impress Watch",
+        "title": "OpenAI、新コーディングエージェント「Codex」を公開",
+        "type": "article",
+        "url": "https://www.watch.impress.co.jp/docs/news/2014968.html"
+      },
+      "savedAt": "2025-06-02T06:27:44.566Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "OpenAI"
+      ],
+      "title": "OpenAI、新コーディングエージェント「Codex」を公開 - Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2014968.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのまつにぃさん: 「GoogleがCloud Run MCPサーバを公開です。\n\nMCP経由でコードを直接Cloud Runにデプロイ可能に。\nAI Studio→Cloud Runのワンクリック導線とも連携し、これから学んでいこうという際のLLMアプリの敷居がより下がっていきますね。\n\n私もそろそろなんか作ろうかな。\n\nhttps://t.co/pmZ7SOcLUS」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T19:21:25.265Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Google",
+        "MCP"
+      ],
+      "title": "Xユーザーのまつにぃさん: 「GoogleがCloud Run MCPサーバを公開です。 MCP経由でコードを直接Cloud Runにデプロイ可能に。 AI Studio→Cloud Runのワンクリック導線とも連携し、これから学んでいこうという際のLLMアプリの敷居がより下がっていきますね。 私もそろそろなんか作ろうかな。 https://t.co/pmZ7SOcLUS」 / X",
+      "url": "https://x.com/yugen_matuni/status/1928278851953574209"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--uU5QUk-L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%2520%25C3%2597%2520GitHub%25E3%2581%25A7PR%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%258C%25E3%2582%2581%25E3%2581%25A1%25E3%2582%2583%25E3%2581%258F%25E3%2581%25A1%25E3%2582%2583%25E6%25A5%25BD%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%25282025%252F5%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kaikai%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y5MGQxMmNiMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:dely%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WTJFWjFkektTVEg3WUNLSzNQRHR4S0JfNGVIUDUwcmxrUVUxV01JQT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Cursor × GitHubでPRレビューがめちゃくちゃ楽になった話(2025/5)",
+        "type": "article",
+        "url": "https://zenn.dev/dely_jp/articles/abe6a40a384985"
+      },
+      "savedAt": "2025-06-01T19:20:58.219Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "Cursor × GitHubでPRレビューがめちゃくちゃ楽になった話(2025/5)",
+      "url": "https://zenn.dev/dely_jp/articles/abe6a40a384985"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "GeminiのCanvas機能が、Google I/O 2025の発表で大幅にアップデートしました！  今回は、その機能と活用方法を徹底解説します。   コアコンセプトと主な提供価値  Canvasの中核には、Googleの現時点で最も高性能なAIモデルであるGemini 2.5 Proが搭載されており、これにより直感的かつパワフルな操作性と高度な生成能力が実現されています 。  GoogleはCanvasを「書く・コードする・創造する」を一つの空間で実現し、アイデアからプロトタイプまでを文字通り数分で形にできるツールとして位置づけています。  ユーザーは、自然言語で指示を与えるだけで",
+        "image": "https://assets.st-note.com/production/uploads/images/192765681/rectangle_large_type_2_fc9b952a6ada66c232b9141c2d406402.png?fit=bounds&quality=85&width=1280",
+        "siteName": "ChatGPT研究所",
+        "title": "【大幅進化】Gemini Canvasの活用事例を徹底解説｜ChatGPT研究所",
+        "type": "article",
+        "url": "https://chatgpt-lab.com/n/n7c0671b5934f"
+      },
+      "savedAt": "2025-06-01T19:20:19.697Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Google",
+        "ツール・サービス"
+      ],
+      "title": "【大幅進化】Gemini Canvasの活用事例を徹底解説｜ChatGPT研究所",
+      "url": "https://chatgpt-lab.com/n/n7c0671b5934f"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI検索エンジンの「Perplexity」が、有料プランのPerplexity Proユーザー向けにレポートやスプレッドシート、ダッシュボード、アプリなどの複雑で高度なコンテンツを自動生成できる「Perplexity Labs」を発表しました。",
+        "image": "https://i.gzn.jp/img/2025/05/30/perplexity-labs/00.png",
+        "siteName": "GIGAZINE",
+        "title": "Perplexityがプロンプトを入力するだけで「アプリ自動開発」や「レポート自動生成」などの高度なタスクを実行できる「Perplexity Labs」を発表",
+        "type": "article",
+        "url": "https://gigazine.net/news/20250530-perplexity-labs/"
+      },
+      "savedAt": "2025-06-01T19:19:58.213Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "ツール・サービス",
+        "自分用"
+      ],
+      "title": "Perplexityがプロンプトを入力するだけで「アプリ自動開発」や「レポート自動生成」などの高度なタスクを実行できる「Perplexity Labs」を発表 - GIGAZINE",
+      "url": "https://gigazine.net/news/20250530-perplexity-labs/?utm_source=x&utm_medium=sns&utm_campaign=x_post&utm_content=20250530-perplexity-labs"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "こんにちは！ニケです！ 皆さん、Claude Code 使っていますでしょうか？  2025年5月22日にAnthropic社の開発者向けイベントでClaude4シリーズが発表されました。 Sonnet3.5 および 3.7の期間が長かったので、心待ちにしていたかとも多いと思います。    発表内容はこちらの記事にまとまっているので気になる方はチェックしてみましょう。  \n\n\nAnthropic の Code with Claude に関する発表まとめ\n\n\n\n\n\nzenn.dev\n\n\n\n \n そしてそれと同時に&nbsp;Claude Code が正式リリースされました。 Claude",
+        "image": "https://assets.st-note.com/production/uploads/images/192562931/rectangle_large_type_2_8526339583b4ee2d5c2ab00a6720707e.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "私のシンプルなClaude Codeの使い方｜ニケちゃん",
+        "type": "article",
+        "url": "https://note.com/nike_cha_n/n/nee3503e7a617"
+      },
+      "savedAt": "2025-06-01T19:19:31.628Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "私のシンプルなClaude Codeの使い方｜ニケちゃん",
+      "url": "https://note.com/nike_cha_n/n/nee3503e7a617?sub_rt=share_pb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Amazonで水野 貴秀, 嶋地 直広, 熊谷 央一, 石上 玄也, 吉岡 健太郎のこれで使える3D LiDAR技術 基本から自動運転・セキュリティ・宇宙探査まで (設計技術シリーズ)。アマゾンならポイント還元本が多数。水野 貴秀, 嶋地 直広, 熊谷 央一, 石上 玄也, 吉岡 健太郎作品ほか、お急ぎ便対象商品は当日お届けも可能。またこれで使える3D LiDAR技術 基本から自動運転・セキュリティ・宇宙探査まで (設計技術シリーズ)もアマゾン配送商品なら通常配送無料。",
+        "image": "",
+        "siteName": "",
+        "title": "これで使える3D LiDAR技術 基本から自動運転・セキュリティ・宇宙探査まで (設計技術シリーズ) | 水野 貴秀, 嶋地 直広, 熊谷 央一, 石上 玄也, 吉岡 健太郎 |本 | 通販 | Amazon",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T19:19:23.691Z",
+      "tags": [
+        "まとめない",
+        "書籍"
+      ],
+      "title": "これで使える3D LiDAR技術 基本から自動運転・セキュリティ・宇宙探査まで (設計技術シリーズ) | 水野 貴秀, 嶋地 直広, 熊谷 央一, 石上 玄也, 吉岡 健太郎 |本 | 通販 | Amazon",
+      "url": "https://www.amazon.co.jp/dp/4910558470/ref=cm_sw_r_as_gl_apa_gl_i_VXV61T5RS94Y418T4ECG?linkCode=ml1&tag=arutema47-22"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--10eWGhWy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A8%25E6%259D%25A5%25E3%2581%259F%25EF%25BC%2581%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2582%25E3%2581%25ABUnity%252BCursor%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592ReSharper%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%259C%2580%25E4%25B8%258A%25E5%259C%259F%25E5%25B7%259D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNhMGJiNzAyYWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "やっと来た！まともにUnity+Cursor環境をReSharperを使って構築する",
+        "type": "article",
+        "url": "https://zenn.dev/mogami/articles/cursor-resharper-unity"
+      },
+      "savedAt": "2025-06-01T19:18:20.065Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "XR/ゲーム",
+        "自分用"
+      ],
+      "title": "やっと来た！まともにUnity+Cursor環境をReSharperを使って構築する",
+      "url": "https://zenn.dev/mogami/articles/cursor-resharper-unity"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "「Google Flow」で画像の中の世界の散策を試したのでまとめました。   1. Google Flow で画像の中の世界の散策  「Google Flow」の動画を拡張して、長尺ができる機能を使って、Google Flow で画像の中の世界の散策してみました。Soraの世界シミュレータの記事でもMinecraftを遊んでいたので、Veoでも似たようなことできるかになります。次のカメラの移動をプロンプトで入力して、Veo2(Fast)の2本の動画を生成し、気に入ったほう方を選択で進めています。   Google Flow で画像の中の世界の散策を試す。 コマンドは、前進、左右移動、",
+        "image": "https://assets.st-note.com/production/uploads/images/193175748/rectangle_large_type_2_f9682e426a84535fcfe35491a3fa5a3b.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Google Flow で画像の中の世界の散策を試す｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/ndeb2e828464b"
+      },
+      "savedAt": "2025-06-01T19:16:33.022Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "メディア系等"
+      ],
+      "title": "Google Flow で画像の中の世界の散策を試す｜npaka",
+      "url": "https://note.com/npaka/n/ndeb2e828464b?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI開発プラットフォームのHugging Faceが、オープンソースロボット「HopeJR」と「Reachy Mini」を発表しました。HopeJRは歩いたり腕を動かしたりできるフルサイズのヒューマノイドロボットで、Reach Miniはコミュニケーション可能なデスクトップユニットです。",
+        "image": "https://i.gzn.jp/img/2025/05/30/hugging-face-humanoid-robot/00_m.jpg",
+        "siteName": "GIGAZINE",
+        "title": "Hugging Faceがオープンソースのヒューマノイドロボット「HopeJR」とデスクトップユニット「Reachy Mini」を発表",
+        "type": "article",
+        "url": "https://gigazine.net/news/20250530-hugging-face-humanoid-robot/"
+      },
+      "savedAt": "2025-06-01T19:15:13.436Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "ロボット"
+      ],
+      "title": "Hugging Faceがオープンソースのヒューマノイドロボット「HopeJR」とデスクトップユニット「Reachy Mini」を発表 - GIGAZINE",
+      "url": "https://gigazine.net/news/20250530-hugging-face-humanoid-robot/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--DALL5bft--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BAI%25E7%2594%259F%25E6%2588%2590%255D%2520Claude%2520Code%25E3%2581%25ABClaude%2520Code%25E3%2581%25AEAgent%2520tool%25E3%2581%25AE%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kuu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM5NjkzNzE0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "[AI生成] Claude CodeにClaude CodeのAgent toolの解説を書かせた",
+        "type": "article",
+        "url": "https://zenn.dev/sushi/articles/5bf268afdaee66"
+      },
+      "savedAt": "2025-06-01T19:13:34.164Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "[AI生成] Claude CodeにClaude CodeのAgent toolの解説を書かせた",
+      "url": "https://zenn.dev/sushi/articles/5bf268afdaee66"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--WrQNwFgX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%25E3%2581%25AE%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588Jules%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yuuuto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg3YjJhZmQ1MTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Googleの新しいコーディングAIエージェントJulesを使ってみた",
+        "type": "article",
+        "url": "https://zenn.dev/yuulab/articles/2b11efc30ebc10"
+      },
+      "savedAt": "2025-06-01T19:13:05.581Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Google",
+        "AIコーディング"
+      ],
+      "title": "Googleの新しいコーディングAIエージェントJulesを使ってみた",
+      "url": "https://zenn.dev/yuulab/articles/2b11efc30ebc10"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのKさん: 「昨日リリースの3D生成Ai「TripoStudio」触ってみた。\n\n感想👏\n・トポロジーがかなり綺麗で、加工しやすそう\n・頂点数を減らしても綺麗\n・ログ残るのいい\n・テクスチャはまあまあ\n\n画像生成Aiとの組み合わせで簡易的な背景素材はAiだけでいけそう。\nさらに補足👇 https://t.co/kooH32HT61」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T19:12:55.155Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "メディア系等"
+      ],
+      "title": "XユーザーのKさん: 「昨日リリースの3D生成Ai「TripoStudio」触ってみた。 感想👏 ・トポロジーがかなり綺麗で、加工しやすそう ・頂点数を減らしても綺麗 ・ログ残るのいい ・テクスチャはまあまあ 画像生成Aiとの組み合わせで簡易的な背景素材はAiだけでいけそう。 さらに補足👇 https://t.co/kooH32HT61」 / X",
+      "url": "https://x.com/obakasahara/status/1929044852005609711"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--SVtk0YFv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E8%25A3%25BD%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E6%2599%2582%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E5%258C%25BA%25E5%2588%2587%25E3%2582%258B%25E3%2581%258B%25E3%2580%2581%25E3%2581%2582%25E3%2582%258B%25E3%2581%2584%25E3%2581%25AF%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AE%25E4%25B8%2580%25E6%258C%2587%25E9%2587%259D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:izm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI1NWJlMjU1YWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Unity製アプリを作る時のアーキテクチャをどこまで区切るか、あるいはレイヤードアーキテクチャの一指針",
+        "type": "article",
+        "url": "https://zenn.dev/izm/articles/2478583453b235"
+      },
+      "savedAt": "2025-06-01T19:11:37.798Z",
+      "tags": [
+        "まとめない",
+        "XR/ゲーム"
+      ],
+      "title": "Unity製アプリを作る時のアーキテクチャをどこまで区切るか、あるいはレイヤードアーキテクチャの一指針",
+      "url": "https://zenn.dev/izm/articles/2478583453b235"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのまさお@AI駆動開発さん: 「何個も並列でエージェントに開発させている時、どのウインドウが何をやっているか忘れてしまいがち\n\nそんな時におすすめなのが「peacock」\n\ncmd+shift+p(mac)でpeacockのコマンドを呼び出して、色を変えて色と紐づけて覚えておくのオススメです https://t.co/WgYq858FLd」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:59:50.013Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "AIコーディング"
+      ],
+      "title": "Xユーザーのまさお@AI駆動開発さん: 「何個も並列でエージェントに開発させている時、どのウインドウが何をやっているか忘れてしまいがち そんな時におすすめなのが「peacock」 cmd+shift+p(mac)でpeacockのコマンドを呼び出して、色を変えて色と紐づけて覚えておくのオススメです https://t.co/WgYq858FLd」 / X",
+      "url": "https://x.com/AI_masaou/status/1928397556653937087"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--qK-b-VdY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RooCode%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E3%2583%25AA%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25AF%25E3%2582%25BF%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E7%2594%25A8%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "RooCode に自動でリファクタさせるオーケストレーター用プロンプト",
+        "type": "article",
+        "url": "https://zenn.dev/mizchi/articles/ai-refactoring"
+      },
+      "savedAt": "2025-06-01T18:59:28.439Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "RooCode に自動でリファクタさせるオーケストレーター用プロンプト",
+      "url": "https://zenn.dev/mizchi/articles/ai-refactoring"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「Addy Osmani 氏の開発者向けプロンプトエンジニアリングプレイブック\n\nプロンプトの基本原則に始まり、デバッグ時、リファクタ時、実装時のプロンプトの良い例と悪い例、アンチパターンなどが記載。考え方のトレースに良いので要約にかけるのではなく、ぜひご一読ください。\nhttps://t.co/xlWUltbiol https://t.co/ITKEC7Ug43」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:58:59.503Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "AIコーディング"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「Addy Osmani 氏の開発者向けプロンプトエンジニアリングプレイブック プロンプトの基本原則に始まり、デバッグ時、リファクタ時、実装時のプロンプトの良い例と悪い例、アンチパターンなどが記載。考え方のトレースに良いので要約にかけるのではなく、ぜひご一読ください。 https://t.co/xlWUltbiol https://t.co/ITKEC7Ug43」 / X",
+      "url": "https://x.com/schroneko/status/1927384398229307714"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "　米Microsoftは5月19日（現地時間）、Webブラウザーに組み込まれたローカル小規模言語モデル（SLM）「Phi-4-mini」へアクセスするためのAPIを「Microsoft Edge」に試験導入したと発表した。",
+        "image": "https://forest.watch.impress.co.jp/img/wf/list/2017/479/microsoft_edge.jpg",
+        "siteName": "窓の杜",
+        "title": "「Edge」内蔵ローカル小規模言語モデル（SLM）「Phi-4-mini」のためのAPIが試験実装／「Prompt API」と「Writing Assistance API」が「Edge 138」でプレビュー",
+        "type": "article",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2017479.html"
+      },
+      "savedAt": "2025-06-01T18:57:43.054Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "MS/GitHub"
+      ],
+      "title": "「Edge」内蔵ローカル小規模言語モデル（SLM）「Phi-4-mini」のためのAPIが試験実装 - 窓の杜",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2017479.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "現在、iOSを始めAppleプラットフォームで動作するアプリはAppleのXcodeやSwift Playgroundを利用して開発＆デプロイする必要がありますが、macOS以外のWindowsやLinuxプラットフォーム環境でもiOSアプリをビルド＆デプロイできるツール「xtool」が新たに公開されています。",
+        "image": "https://applech2.com/wp-content/uploads/2025/05/xtool-for-Windows-and-Linux-Xcode-command-Hero.webp",
+        "siteName": "AAPL Ch.",
+        "title": "macOS以外のWindows/Linux環境でもXcodeを使わずにiOSアプリをビルド＆デプロイできる「xtool」がリリース。",
+        "type": "article",
+        "url": "https://applech2.com/archives/20250526-xtool-cross-platform-xcode-replacement.html"
+      },
+      "savedAt": "2025-06-01T18:56:11.124Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Web開発"
+      ],
+      "title": "macOS以外のWindows/Linux環境でもXcodeを使わずにiOSアプリをビルド＆デプロイできる「xtool」がリリース。 | AAPL Ch.",
+      "url": "https://applech2.com/archives/20250526-xtool-cross-platform-xcode-replacement.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのしば田 | Programming x AIさん: 「個人的AIスライド生成の最適解（結局HTML）：\n\n- MD形式で骨子を作る（Obsidian）\n↓\n- MDを元にスライド生成YAMLを生成（Claude Desktop）\n↓\n- YAMLプロンプトを元に、Opus 4にArtifactsを生成してもらう、気にいるまでは数回ガチャ（Claude Desktop）\n↓\n-」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:53:23.605Z",
+      "tags": [
+        "まとめない"
+      ],
+      "title": "Xユーザーのしば田 | Programming x AIさん: 「個人的AIスライド生成の最適解（結局HTML）： - MD形式で骨子を作る（Obsidian） ↓ - MDを元にスライド生成YAMLを生成（Claude Desktop） ↓ - YAMLプロンプトを元に、Opus 4にArtifactsを生成してもらう、気にいるまでは数回ガチャ（Claude Desktop） ↓ -」 / X",
+      "url": "https://x.com/KeisukeShibata_/status/1927667414281724414"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--A8w6qQhn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%258C%25E8%25A6%258B%25E3%2581%25A6%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%25E3%2580%2581React%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2581%258C%25E8%25A6%258B%25E3%2581%25A6%25E3%2582%258B%25E4%25B8%2596%25E7%2595%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:akfm_sato%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzllMzg2MWQ3OGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Reactチームが見てる世界、Reactユーザーが見てる世界",
+        "type": "article",
+        "url": "https://zenn.dev/akfm/articles/react-team-vision"
+      },
+      "savedAt": "2025-06-01T18:51:55.444Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Web開発"
+      ],
+      "title": "Reactチームが見てる世界、Reactユーザーが見てる世界",
+      "url": "https://zenn.dev/akfm/articles/react-team-vision"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのしば田 | Programming x AIさん: 「claude codeは/initすると.cursor/rulesとか.clinerulesを見にいってくれるのね」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:51:19.632Z",
+      "tags": [
+        "既読",
+        "まとめない",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Xユーザーのしば田 | Programming x AIさん: 「claude codeは/initすると.cursor/rulesとか.clinerulesを見にいってくれるのね」 / X",
+      "url": "https://x.com/KeisukeShibata_/status/1927586262631813252"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "本書を通して、ソフトウェアテストの知識・技術を体系的に学びます。そしてその中でテストによって次の課題にどのように対応していくか学び、現代的なソフトウェア開発に対応するため総合力・基礎力を強化します。\n\n\n開発成功や顧客満足実現をどう支えるか\n開発の高品質と高スピードの両立を支えるアプローチとは\nアジャイルや継続的デリバリー、DevOpsの導入にどう対応するか\nテスト自動化といったテスト技術導入を成功させるには\nチーム全体でテストを推進していくためには\n定番のテスト失敗要因に対しマネジメントでどう対策すべきか\n",
+        "image": "https://gihyo.jp/assets/images/ogp/2025/9784297149093.jpg",
+        "siteName": "技術評論社",
+        "title": "ソフトウェアテスト徹底指南書 | 技術評論社",
+        "type": "website",
+        "url": "https://gihyo.jp/book/2025/978-4-297-14909-3"
+      },
+      "savedAt": "2025-06-01T18:50:53.149Z",
+      "tags": [
+        "まとめない",
+        "自分用"
+      ],
+      "title": "ソフトウェアテスト徹底指南書 | 技術評論社",
+      "url": "https://gihyo.jp/book/2025/978-4-297-14909-3"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Googleが提供するアプリ開発プラットフォーム「Firebase」に、Unity向けの新たなAI機能統合用SDK「Firebase AI Logic SDK for Unity」が追加されました。開発者は、生成AIモデ […]",
+        "image": "https://assets.moguravr.com/uploads/2025/05/image2-1.png",
+        "siteName": "Mogura VR News",
+        "title": "Google「Firebase」にUnity向けAI活用SDKが登場 Geminiを組み込んだUnityプロジェクトを開発可能",
+        "type": "article",
+        "url": "https://www.moguravr.com/firebase-unity-sdk/"
+      },
+      "savedAt": "2025-06-01T18:50:40.827Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "メディア系等",
+        "XR/ゲーム",
+        "自分用"
+      ],
+      "title": "Google「Firebase」にUnity向けAI活用SDKが登場 Geminiを組み込んだUnityプロジェクトを開発可能 - Mogura VR News",
+      "url": "https://www.moguravr.com/firebase-unity-sdk/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのkorinVR（こりん）さん: 「というかCursor、8日前にAnysphere自身がC#拡張出してた https://t.co/uE1OuIVou0 なおUnity拡張はMSのC#拡張に依存していて動かず、デバッグとかするならDotRushが良いという話を見かけました」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:49:56.533Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "XR/ゲーム",
+        "自分用"
+      ],
+      "title": "XユーザーのkorinVR（こりん）さん: 「というかCursor、8日前にAnysphere自身がC#拡張出してた https://t.co/uE1OuIVou0 なおUnity拡張はMSのC#拡張に依存していて動かず、デバッグとかするならDotRushが良いという話を見かけました」 / X",
+      "url": "https://x.com/korinVR/status/1927929730583417069"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのIT naviさん: 「Gemini Deep Researchで日本語の音声概要が作成できるようになってた。 https://t.co/NAFp81JOWM」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:49:00.281Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "XユーザーのIT naviさん: 「Gemini Deep Researchで日本語の音声概要が作成できるようになってた。 https://t.co/NAFp81JOWM」 / X",
+      "url": "https://x.com/itnavi2022/status/1927760085754794296"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--xqL8v3Vx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E5%25AE%258C%25E5%2585%25A8%25E6%2594%25BB%25E7%2595%25A5Wiki%2528%25E9%259A%25A0%25E3%2581%2597%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E7%25B7%25A8%2520-%2520think%252C%25E6%258B%25A1%25E5%25BC%25B5%25E6%25A9%259F%25E8%2583%25BD%252C%25E6%2580%259D%25E8%2580%2583%25E4%25BA%2588%25E7%25AE%2597%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fbbp%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWdDZkJfU2dPc1FxMkZwYnZmWWM5N3QyQ3R0UzBVMC1lWXNLOTR1Zk5ZZXc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Claude Code完全攻略Wiki(隠しコマンド編 - think,拡張機能,思考予算)",
+        "type": "article",
+        "url": "https://zenn.dev/fbbp/articles/7aa9a46518a609"
+      },
+      "savedAt": "2025-06-01T18:26:13.431Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Claude Code完全攻略Wiki(隠しコマンド編 - think,拡張機能,思考予算)",
+      "url": "https://zenn.dev/fbbp/articles/7aa9a46518a609"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--VJ3E17fJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E8%25A4%2587%25E9%259B%2591%25E3%2581%2595%25E3%2582%2592%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E5%258F%25AF%25E8%25AA%25AD%25E6%2580%25A7%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258D%25E3%2582%2587%25E3%2581%2586%25E3%2581%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY1YzcxZDY5NDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AC%25E3%2583%2590%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E9%2596%258B%25E7%2599%25BA%25E9%2583%25A8%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NhNmNhZjM2NmYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "コードの複雑さを可視化して可読性を上げる方法",
+        "type": "article",
+        "url": "https://zenn.dev/levtech/articles/52036745249afa"
+      },
+      "savedAt": "2025-06-01T18:25:20.752Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Web開発",
+        "自分用"
+      ],
+      "title": "コードの複雑さを可視化して可読性を上げる方法",
+      "url": "https://zenn.dev/levtech/articles/52036745249afa"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--H7dC8_h---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E4%25BD%25BF%25E7%2594%25A8%25E6%2596%2599%25E9%2587%2591%25E3%2582%2592%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258BCLI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258Cccusage%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryoppippi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzNDU0MTQ1MTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Claude Codeの使用料金を可視化するCLIツール「ccusage」を作った",
+        "type": "article",
+        "url": "https://zenn.dev/ryoppippi/articles/6c9a8fe6629cd6"
+      },
+      "savedAt": "2025-06-01T18:23:54.642Z",
+      "tags": [
+        "既読",
+        "まとめない",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Claude Codeの使用料金を可視化するCLIツール「ccusage」を作った",
+      "url": "https://zenn.dev/ryoppippi/articles/6c9a8fe6629cd6"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのりくお | AI駆動開発 DreamCore開発者さん: 「Next.jsのアプリをAI駆動開発したい時はこのルールさえ入れてればOKです。 https://t.co/8pn4ez8Oo3」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:23:18.522Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "AIコーディング",
+        "記事・ポスト",
+        "Web開発"
+      ],
+      "title": "Xユーザーのりくお | AI駆動開発 DreamCore開発者さん: 「Next.jsのアプリをAI駆動開発したい時はこのルールさえ入れてればOKです。 https://t.co/8pn4ez8Oo3」 / X",
+      "url": "https://x.com/riku720720/status/1928260777846395253"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「===================\n【Claude Code GitHub Actions のMaxプラン活用に関する公式見解まとめ】\n===================\n先ほどGithubのissueで公式からの回答がシェアされたので以下まとめメモシェア📝\n\n■ エグゼクティブサマリー\nAnthropic社より、Claude CodeのGitHub Actions self-hosted https://t.co/91yqqchXwd」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:21:59.203Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト",
+        "自分用"
+      ],
+      "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「=================== 【Claude Code GitHub Actions のMaxプラン活用に関する公式見解まとめ】 =================== 先ほどGithubのissueで公式からの回答がシェアされたので以下まとめメモシェア📝 ■ エグゼクティブサマリー Anthropic社より、Claude CodeのGitHub Actions self-hosted https://t.co/91yqqchXwd」 / X",
+      "url": "https://x.com/akira_papa_IT/status/1928250388593135826"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのKinopee / きのぴーさん: 「Cursor 内で試せるレビューツールの比較（体感）\n\nCodeRabbit &gt;= Bug Finder（有償版）&gt;&gt;&gt;&gt;&gt; Bug Finder（無料版）\n\nCodeRabbit と Bug Finder は、それそれ違う問題に気づける。優劣より視点の違い。\nレビューにも完全はないし、レビューを読んでから反映しないとリグレされる場合もあるので注意。」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:21:07.591Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "AIコーディング",
+        "記事・ポスト",
+        "ツール・サービス"
+      ],
+      "title": "XユーザーのKinopee / きのぴーさん: 「Cursor 内で試せるレビューツールの比較（体感） CodeRabbit &gt;= Bug Finder（有償版）&gt;&gt;&gt;&gt;&gt; Bug Finder（無料版） CodeRabbit と Bug Finder は、それそれ違う問題に気づける。優劣より視点の違い。 レビューにも完全はないし、レビューを読んでから反映しないとリグレされる場合もあるので注意。」 / X",
+      "url": "https://x.com/kinopee_ai/status/1928290398436544605"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのりくお | AI駆動開発 DreamCore開発者さん: 「ClaudeCode公式も推奨している裏技↓\n\nPuppetter MCPを使うと勝手にブラウザをスクショして見てくれるようになる。 https://t.co/HmbFvErm5i」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:20:31.776Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Xユーザーのりくお | AI駆動開発 DreamCore開発者さん: 「ClaudeCode公式も推奨している裏技↓ Puppetter MCPを使うと勝手にブラウザをスクショして見てくれるようになる。 https://t.co/HmbFvErm5i」 / X",
+      "url": "https://x.com/riku720720/status/1928336193823068196"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--oKqSgMNy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%252F%2520%2528%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2529%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E5%2585%25A8%25E9%2583%25A8%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Oikon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFlNjI2MjNlZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Claude Codeの/ (スラッシュ)コマンドを全部試したので解説する",
+        "type": "article",
+        "url": "https://zenn.dev/oikon/articles/b14af9c62b4010"
+      },
+      "savedAt": "2025-06-01T18:19:58.873Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Claude Codeの/ (スラッシュ)コマンドを全部試したので解説する",
+      "url": "https://zenn.dev/oikon/articles/b14af9c62b4010"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--VamHMpmU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E4%25B8%25A6%25E5%2588%2597%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25AA%25E3%2582%2589%25E5%25BF%2585%25E9%25A0%2588%25E6%258A%2580%25E8%25A1%2593%25EF%25BC%2581%2520Git%2520Worktree%2520%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:siu%2520issiki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2c2TkJ2bU1JMEdKYTQ1bFFXZFh1eW55OG9xVFFfQmhyLUUyODBlWVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "AIエージェントで並列実装なら必須技術！ Git Worktree を理解する",
+        "type": "article",
+        "url": "https://zenn.dev/siu_issiki/articles/git_worktree"
+      },
+      "savedAt": "2025-06-01T18:18:22.092Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "AIコーディング",
+        "ツール・サービス"
+      ],
+      "title": "AIエージェントで並列実装なら必須技術！ Git Worktree を理解する",
+      "url": "https://zenn.dev/siu_issiki/articles/git_worktree"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのRyo Sato | Replit解体新書を運営中さん: 「まだあまり浸透してないですが、Claude Codeでは、コマンド経由でMCPサーバ追加できます。\nブラウザでのUIテスト自動化は、Playwrightが一番しっくりきました。トークンの消費もそこまで多くないんじゃないかな。\n\n下記コマンド一発で、Claude CodeにてplaywrightのMCPサーバが利用可能です。\n\n\"\"\" https://t.co/lGxWbAuyre」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:17:36.092Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "AIコーディング",
+        "MCP",
+        "記事・ポスト"
+      ],
+      "title": "XユーザーのRyo Sato | Replit解体新書を運営中さん: 「まだあまり浸透してないですが、Claude Codeでは、コマンド経由でMCPサーバ追加できます。 ブラウザでのUIテスト自動化は、Playwrightが一番しっくりきました。トークンの消費もそこまで多くないんじゃないかな。 下記コマンド一発で、Claude CodeにてplaywrightのMCPサーバが利用可能です。 \"\"\" https://t.co/lGxWbAuyre」 / X",
+      "url": "https://x.com/nobita2040/status/1928259010144391428"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--JnMidNi8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:stagewise%25E3%2581%25A8Cursor%25E3%2581%25A7%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E6%259C%2580%25E9%25AB%2598%25E3%2581%2599%25E3%2581%258E%25E3%2582%258B%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:RUI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l4VVMwY0t3RHdtTktYOVczRUxHWUVaMk8tVnVDNXFnSWI0QjQwcEE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "stagewiseとCursorでフロントエンド開発が最高すぎる件",
+        "type": "article",
+        "url": "https://zenn.dev/the_exile/articles/stagewise-witth-cursor"
+      },
+      "savedAt": "2025-06-01T18:14:40.449Z",
+      "tags": [
+        "未読",
+        "流し読",
+        "まとめる",
+        "AIコーディング",
+        "ツール・サービス"
+      ],
+      "title": "stagewiseとCursorでフロントエンド開発が最高すぎる件",
+      "url": "https://zenn.dev/the_exile/articles/stagewise-witth-cursor"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--7WfEPkQh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Microsoft%2520Build%25202025%25E3%2581%25AE%25E6%2596%25B0%25E7%2599%25BA%25E8%25A1%25A8%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2580%259030%25E9%2581%25B8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BE%25E3%2581%2599%25E3%2581%25BF%2520%252F%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ExNzA3YjIxM2QuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Galirage%2520Inc.%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M5ZDA3ZmI1ZGEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Microsoft Build 2025の新発表まとめ【30選】",
+        "type": "article",
+        "url": "https://zenn.dev/galirage/articles/microsoft-build-2025"
+      },
+      "savedAt": "2025-06-01T18:14:05.776Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "MS/GitHub"
+      ],
+      "title": "Microsoft Build 2025の新発表まとめ【30選】",
+      "url": "https://zenn.dev/galirage/articles/microsoft-build-2025"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--epqR_t2Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%259B%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%259E%25E3%2583%2583%25E3%2582%25B5%25E3%2583%25B3%2520%2528Masanori%2520Yos...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5MzkwNDBmYjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Claude Codeを使いこなせ！",
+        "type": "article",
+        "url": "https://zenn.dev/acntechjp/articles/5bf01d6b530b8d"
+      },
+      "savedAt": "2025-06-01T18:13:41.330Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Claude Codeを使いこなせ！",
+      "url": "https://zenn.dev/acntechjp/articles/5bf01d6b530b8d"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Mastra は A2A プロトコルをサポートしています。Mastra サーバーを構築することで A2A プロトコルに準拠したサーバーが立ち上がります。この記事では Mastra を使用して A2A プロトコルに準拠したサーバーを構築し、Mastra のクライアント SDK を使用して A2A プロトコルの仕様に従い通信を行う方法を紹介します。",
+        "image": "https://azukiazusa.dev/blog/ogp/mastra-a2a-protocol-support.png",
+        "siteName": "azukiazusaのテックブログ2",
+        "title": "Mastra の A2A プロトコルサポート",
+        "type": "article",
+        "url": "https://azukiazusa.dev/blog/mastra-a2a-protocol-support"
+      },
+      "savedAt": "2025-06-01T18:13:21.406Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIエージェント"
+      ],
+      "title": "Mastra の A2A プロトコルサポート",
+      "url": "https://azukiazusa.dev/blog/mastra-a2a-protocol-support/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "はじめに  どうも医者やめCTO、イコラです 前回の記事ではエンタメベンチャーLivetoonのCTOになったことを書きました！ \n そこから半年以上たって、ようやく弊社も最初のサービスをローンチしました！サービス開発についてはまた別記事にします！  \n\n\n3D AIキャラクターと会話できる新体験 “kaiwa”　モバイルブラウザ対応のお知らせ【株式会社Livetoon】\n\n\n株式会社Livetoonのプレスリリース（2025年5月2日 18時30分）3D AIキャラクターと会話できる新体験 “k\n\n\nprtimes.jp\n\n\n\n \n ということでCTOになってから半年経過して分かった",
+        "image": "https://assets.st-note.com/production/uploads/images/191726374/rectangle_large_type_2_73a22240714376a61a8059d636fab0b9.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "生成AI開発の難しさ。AIベンチャーのCTOを半年経験して｜イコラ",
+        "type": "article",
+        "url": "https://note.com/ikora/n/nf7964baf907d"
+      },
+      "savedAt": "2025-06-01T18:13:13.843Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "記事・ポスト"
+      ],
+      "title": "生成AI開発の難しさ。AIベンチャーのCTOを半年経験して｜イコラ",
+      "url": "https://note.com/ikora/n/nf7964baf907d"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "生成AIに「要件定義プロンプト」を作らせてみたら、未来が見えた話要件定義って何から書けばいいの？ 😕いつも同じような項目で悩んで時間がかかる… ⏳もっと効率よく、質の高い要件定義書を作りたい！…",
+        "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGOTA0NDUwJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjA3ODM5Mzg4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTUxYjRkZmQ2Mzc2Yzk0YzA5NzZkOWU0M2QyZWI4N2Ux%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D930dfeb12307b41350ffbec83a8d8597?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQUIlRTMlODAlOEMlRTglQTYlODElRTQlQkIlQjYlRTUlQUUlOUElRTclQkUlQTklRTMlODMlOTclRTMlODMlQUQlRTMlODMlQjMlRTMlODMlOTclRTMlODMlODglRTMlODAlOEQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlODklRTMlODElOUIlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTYlOUMlQUElRTYlOUQlQTUlRTMlODElOEMlRTglQTYlOEIlRTMlODElODglRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02YjE3OGIxMDlkZThmZmM1ZDNiMWY0OTRjNjVhNmNhMg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByYXdhamlmdTg3NTImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kMmNmZTFlZWFjZDg2ZWIzMTU5YmNkMGI5Nzg5OWZlOQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b9ea91717ce03cd4ccd755d96c03e4ed",
+        "siteName": "Qiita",
+        "title": "生成AIに「要件定義プロンプト」を作らせてみたら、未来が見えた話 - Qiita",
+        "type": "article",
+        "url": "https://qiita.com/rawajifu8752/items/759af7da8bc536f813a3"
+      },
+      "savedAt": "2025-06-01T18:12:37.532Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "生成AIに「要件定義プロンプト」を作らせてみたら、未来が見えた話 #Gemini - Qiita",
+      "url": "https://qiita.com/rawajifu8752/items/759af7da8bc536f813a3"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "おひさしぶりです。ひさふるです。先ほど(日本時間5月23日未明)に行われたAnthropicの開発者向けイベントCode with Claude内の発表で、コーディングエージェント\"Claude …",
+        "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMxLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY1NDQzNDk3OCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWNhNWJhYWZjYzc2ZTc2NDM5M2NiMGEyMTA3Y2Q0Yzkx%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPWI2ZGNiMjIwN2MxMjg1NTllNmI4M2Y1MzU3YzliZjZl%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dace8383dea5a7c617dc4558742b260ad?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMEFjdGlvbiVFMyU4MiU5MiVFMyU4MSU5NSVFMyU4MSVBMyVFMyU4MSU5RCVFMyU4MSU4RiVFMyU4MyVBQyVFMyU4MyU5MyVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiVFRiVCQyU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTkwYzE1MWE3ZWI4N2M2ZjhiMTYyN2ZhOTdlM2JlZGRh&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBreXVrbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMxMTY3MjE5MDQ5M2RiZGU0NzRmOTc1YzIxZjUwYmQx&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=bc4269246aa8103e696bc1e4d996b8e6",
+        "siteName": "Qiita",
+        "title": "Claude Code Actionをさっそくレビューしてみた！ - Qiita",
+        "type": "article",
+        "url": "https://qiita.com/kyuko/items/ad894bac5ba516683387"
+      },
+      "savedAt": "2025-06-01T18:11:52.119Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Claude Code Actionをさっそくレビューしてみた！ #AIエージェント - Qiita",
+      "url": "https://qiita.com/kyuko/items/ad894bac5ba516683387"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「Claude Code を使ったエージェンティックコーディングのベストプラクティスページに「think hard」や「ultrathink」などの言葉をプロンプトに含めると thinking budget が制御できることはあまり知られていない\n\nつまりトリガーが自然言語ではなく特定のフレーズなんですよね\nhttps://t.co/DTqKMX2tzh https://t.co/zrKIUocp3D」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:11:29.117Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Anthropic",
+        "記事・ポスト"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「Claude Code を使ったエージェンティックコーディングのベストプラクティスページに「think hard」や「ultrathink」などの言葉をプロンプトに含めると thinking budget が制御できることはあまり知られていない つまりトリガーが自然言語ではなく特定のフレーズなんですよね https://t.co/DTqKMX2tzh https://t.co/zrKIUocp3D」 / X",
+      "url": "https://x.com/schroneko/status/1926365076404982172"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--uXsDb0TF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Action%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%258C%25E3%2580%2581AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E3%2581%258B%25E3%2581%25AA%25E3%2582%258A%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Gota%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE3OGM0MmRlZjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Claude Code Actionのプロンプト設計が、AIエージェント開発にかなり参考になる件",
+        "type": "article",
+        "url": "https://zenn.dev/gotalab/articles/claudecode_9626d853742423"
+      },
+      "savedAt": "2025-06-01T18:10:50.109Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIエージェント"
+      ],
+      "title": "Claude Code Actionのプロンプト設計が、AIエージェント開発にかなり参考になる件",
+      "url": "https://zenn.dev/gotalab/articles/claudecode_9626d853742423"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--lYSodJyd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902025%25E5%25B9%25B45%25E6%259C%2588%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%25E3%2580%2591RAG%2520%25E3%2581%25AE%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yusuke%2520Satake%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczMjQwNDhhMDkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "【2025年5月完全版】RAG の教科書",
+        "type": "article",
+        "url": "https://zenn.dev/microsoft/articles/rag_textbook"
+      },
+      "savedAt": "2025-06-01T18:10:27.954Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "AIエージェント"
+      ],
+      "title": "【2025年5月完全版】RAG の教科書",
+      "url": "https://zenn.dev/microsoft/articles/rag_textbook"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのUedaさん: 「Whisk+Tsukasa_Speech\nWhiskで出力した動画にそれっぽく音声を手作業であてただけ https://t.co/n5IgBEafqx」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:09:49.534Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "XユーザーのUedaさん: 「Whisk+Tsukasa_Speech Whiskで出力した動画にそれっぽく音声を手作業であてただけ https://t.co/n5IgBEafqx」 / X",
+      "url": "https://x.com/megyo9/status/1926597829310488813"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--9jX3tcd4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E6%2593%258D%25E4%25BD%259C%25E7%25B3%25BB%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AEworkflow-use%25E3%2581%258C%25E3%2581%258B%25E3%2581%25AA%25E3%2582%258A%25E8%2589%25AF%25E3%2581%2595%25E3%2581%259D%25E3%2581%2586%25E3%2581%25AA%25E4%25BA%2588%25E6%2584%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikebowsan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUyNTM1ZTc4OGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "新しいブラウザ操作系エージェントのworkflow-useがかなり良さそうな予感",
+        "type": "article",
+        "url": "https://zenn.dev/headwaters/articles/ba0e911209ab38"
+      },
+      "savedAt": "2025-06-01T18:09:24.814Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIエージェント"
+      ],
+      "title": "新しいブラウザ操作系エージェントのworkflow-useがかなり良さそうな予感",
+      "url": "https://zenn.dev/headwaters/articles/ba0e911209ab38"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのSYMPHONICSさん: 「時雨堂さんが提供してくれているDTLN-aecを用いて、ダブルトークキャンセル同時通訳を作ってみました。マイク入力した日本語を英語に翻訳し、スピーカーから音声合成した英語が流れますが、かなり爆音で合成音声を流していても、その最中に喋った声さえもちゃんと音声認識してくれます。 https://t.co/LsWqZDQG2o」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:08:26.786Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "XユーザーのSYMPHONICSさん: 「時雨堂さんが提供してくれているDTLN-aecを用いて、ダブルトークキャンセル同時通訳を作ってみました。マイク入力した日本語を英語に翻訳し、スピーカーから音声合成した英語が流れますが、かなり爆音で合成音声を流していても、その最中に喋った声さえもちゃんと音声認識してくれます。 https://t.co/LsWqZDQG2o」 / X",
+      "url": "https://x.com/symphocell/status/1926522845888135478"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--XNUQ9Jqg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TSKaigi%25E8%25B3%2587%25E6%2596%2599%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiZGIzYmQ3ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "TSKaigi資料まとめ",
+        "type": "article",
+        "url": "https://zenn.dev/m_n/articles/a1189e28e43313"
+      },
+      "savedAt": "2025-06-01T18:08:16.745Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Web開発"
+      ],
+      "title": "TSKaigi資料まとめ",
+      "url": "https://zenn.dev/m_n/articles/a1189e28e43313"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Visual Studio Code（VS Code）の開発チームは、今後VS Code本体にAI関連機能を組み込んでいき、VS Codeのあらゆる機能面でAIの組み込みを容易にしていくことで、VS Codeを「オープンソースのAIエディタ...",
+        "image": "https://www.publickey1.jp/2025/GrUwdFPWkAAbiVE.jpg",
+        "siteName": "",
+        "title": "Visual Studio Codeが本体にAI関連機能を組み込みへ、「オープンソースのAIエディタ」になると表明",
+        "type": "article",
+        "url": "https://www.publickey1.jp/blog/25/visual_studio_codeaiai.html"
+      },
+      "savedAt": "2025-06-01T18:07:27.249Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "MS/GitHub"
+      ],
+      "title": "Visual Studio Codeが本体にAI関連機能を組み込みへ、「オープンソースのAIエディタ」になると表明 － Publickey",
+      "url": "https://www.publickey1.jp/blog/25/visual_studio_codeaiai.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "最近よく使われ始めたClineのシステムプロンプトを読んでみて理解を深めます",
+        "image": "https://files.speakerdeck.com/presentations/dd7b2bdac26145daa880fe806f5a5ded/slide_0.jpg?35089750",
+        "siteName": "Speaker Deck",
+        "title": "Clineプロンプト徹底解剖",
+        "type": "website",
+        "url": "https://speakerdeck.com/umeco/clinepuronputoche-di-jie-pou"
+      },
+      "savedAt": "2025-06-01T18:07:17.747Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIエージェント",
+        "自分用"
+      ],
+      "title": "Clineプロンプト徹底解剖 - Speaker Deck",
+      "url": "https://speakerdeck.com/umeco/clinepuronputoche-di-jie-pou"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Claude Code Action は Claude Code を GitHub Actions のワークフローに統合するためのアクションです。これを使用することで、GitHub 上でコードの生成やレビューを AI に依頼することができます。",
+        "image": "https://azukiazusa.dev/blog/ogp/claude-code-action-github-integration.png",
+        "siteName": "azukiazusaのテックブログ2",
+        "title": "Claude Code Action で Claude Code を GitHub に統合しよう",
+        "type": "article",
+        "url": "https://azukiazusa.dev/blog/claude-code-action-github-integration"
+      },
+      "savedAt": "2025-06-01T18:07:00.648Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Claude Code Action で Claude Code を GitHub に統合しよう",
+      "url": "https://azukiazusa.dev/blog/claude-code-action-github-integration/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--L5CJcMHk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:Agentic%2520Coding%2520%25E6%2584%259F%25E6%2583%25B3%25E6%2588%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25AC%25E3%2583%25AF%25E3%2583%2595%25E3%2583%259F%25E3%2583%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ4ZjEzMDVjMjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Agentic Coding 感想戦",
+        "type": "article",
+        "url": "https://zenn.dev/fumi_sagawa/articles/adc50605a4e1c5"
+      },
+      "savedAt": "2025-06-01T18:06:46.337Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "Agentic Coding 感想戦",
+      "url": "https://zenn.dev/fumi_sagawa/articles/adc50605a4e1c5"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--z-0OCvwy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E9%259A%259B%25E3%2581%25AEMAX%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%25E3%2581%25AERate%2520Limit%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2581%25B0%25E7%2594%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzlhMWM5YWI5NTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Claude Codeを使う際のMAXプランのRate Limitを理解する",
+        "type": "article",
+        "url": "https://zenn.dev/ks0318/articles/693e54b7b871d3"
+      },
+      "savedAt": "2025-06-01T18:05:54.321Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Claude Codeを使う際のMAXプランのRate Limitを理解する",
+      "url": "https://zenn.dev/ks0318/articles/693e54b7b871d3"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "「Google AI Studio」で「Gemini 2.5」の「TTS」を試したので、まとめました。   1. Speech generation  「Speech generation」は、「TTS」(Text-to-Speech) を使用して、テキストを単一または複数話者の音声に変換する機能です。自然言語で音声のスタイル、アクセント、ペース、トーンを指示できます。  現在提供されてる「Gemini 2.5」のTTSモデルは、次のとおりです。   ・gemini-2.5-pro-preview-tts ・gemini-2.5-flash-preview-tts   2. TTSの使",
+        "image": "https://assets.st-note.com/production/uploads/images/192295773/rectangle_large_type_2_6ced578ce71dd4ee967c9989f9e54a6f.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Google AI Studio で Gemini 2.5 の TTSを試す｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/nd59dad1bd7f4"
+      },
+      "savedAt": "2025-06-01T18:05:32.149Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "メディア系等"
+      ],
+      "title": "Google AI Studio で Gemini 2.5 の TTSを試す｜npaka",
+      "url": "https://note.com/npaka/n/nd59dad1bd7f4?sub_rt=share_pw"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのOpenAIさん: 「Operator 🤝 OpenAI o3\n\nOperator in ChatGPT has been updated with our latest reasoning model.\n\nhttps://t.co/gGhvuyz5HB」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T18:03:32.879Z",
+      "tags": [
+        "既読",
+        "まとめない",
+        "OpenAI"
+      ],
+      "title": "XユーザーのOpenAIさん: 「Operator 🤝 OpenAI o3 Operator in ChatGPT has been updated with our latest reasoning model. https://t.co/gGhvuyz5HB」 / X",
+      "url": "https://x.com/OpenAI/status/1925963018791178732"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--HXXTZyqJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25ABMCP%25E3%2582%2592%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BMCP%2520connector%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258B%25E3%2582%25B1%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIyNTVkODlmMjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "簡単にMCPを実行できるMCP connectorを試す",
+        "type": "article",
+        "url": "https://zenn.dev/nikechan/articles/4a87c0b7550df0"
+      },
+      "savedAt": "2025-06-01T18:03:15.360Z",
+      "tags": [
+        "未読",
+        "既読",
+        "まとめる",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "簡単にMCPを実行できるMCP connectorを試す",
+      "url": "https://zenn.dev/nikechan/articles/4a87c0b7550df0"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://files.speakerdeck.com/presentations/08da2bde980641e2a432d3907cc29fdb/slide_0.jpg?35173997",
+        "siteName": "Speaker Deck",
+        "title": "Cline&CursorによるAIコーディング徹底活用―Live Vibe Coding付き",
+        "type": "website",
+        "url": "https://speakerdeck.com/pharma_x_tech/cline-and-cursorniyoruaikodeinguche-di-huo-yong-live-vibe-codingfu-ki"
+      },
+      "savedAt": "2025-06-01T18:02:40.224Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "Cline&CursorによるAIコーディング徹底活用―Live Vibe Coding付き - Speaker Deck",
+      "url": "https://speakerdeck.com/pharma_x_tech/cline-and-cursorniyoruaikodeinguche-di-huo-yong-live-vibe-codingfu-ki"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・New capabilities for building agents on the Anthropic API    1. Anthropic API でエージェント構築するための新機能  本日 (2025年5月23日)、開発者がより強力なAIエージェントを構築できるようにする、「Anthropic API」の4つの新機能を発表しました。   ・Code execution tool ・ MCP connector ・ File API ・ Extended prompt caching   2. Code execution",
+        "image": "https://assets.st-note.com/production/uploads/images/191608394/rectangle_large_type_2_b86df2a9a6af983cd89d65e987262190.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Anthropic API でエージェント構築するための新機能｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n9d1cfd100c19"
+      },
+      "savedAt": "2025-06-01T18:02:23.761Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Anthropic"
+      ],
+      "title": "Anthropic API でエージェント構築するための新機能｜npaka",
+      "url": "https://note.com/npaka/n/n9d1cfd100c19?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「【💰 Cursor 料金メモシェア🔥Claude4 Opus, Sonnetも含めて本気でわかりやすくまとめました🙌料金表サイトもopusで作成＆公開シェア｜ブクマ推奨】\n\nClaude4 Opus, SonnetをCursorでも使えるようになったけど、\nCursor料金がわかりにくかったので以下まとめてみました！\nProプランだとClaude4 Opus, https://t.co/KRsV9THkLs」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T17:12:24.963Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "AIコーディング",
+        "自分用"
+      ],
+      "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「【💰 Cursor 料金メモシェア🔥Claude4 Opus, Sonnetも含めて本気でわかりやすくまとめました🙌料金表サイトもopusで作成＆公開シェア｜ブクマ推奨】 Claude4 Opus, SonnetをCursorでも使えるようになったけど、 Cursor料金がわかりにくかったので以下まとめてみました！ ProプランだとClaude4 Opus, https://t.co/KRsV9THkLs」 / X",
+      "url": "https://x.com/akira_papa_IT/status/1925755745833718014"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--CQeo4ulQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemma%25203%2520%25E3%2582%2592%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E4%25B8%258A%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%2520PWA%2520%25E3%2581%25B8%25E6%2590%25AD%25E8%25BC%2589%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shiba-hiro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2IxYTMzODNlYjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Gemma 3 をブラウザ上で動かして PWA へ搭載する",
+        "type": "article",
+        "url": "https://zenn.dev/shiba_hiro/articles/gemma-3-browser-react"
+      },
+      "savedAt": "2025-06-01T17:02:28.793Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "ローカルLLM",
+        "記事・ポスト",
+        "自分用"
+      ],
+      "title": "Gemma 3 をブラウザ上で動かして PWA へ搭載する",
+      "url": "https://zenn.dev/shiba_hiro/articles/gemma-3-browser-react"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI によるコーディングの支援はコード補完型からチャット型、そして自律型へと進化しています。この記事では現時点で主流となっているコーディングエージェントの種類とその特徴を整理したうえで、エンジニアの仕事の変化について考察します。",
+        "image": "https://azukiazusa.dev/blog/ogp/coding-agents-and-developers-work.png",
+        "siteName": "azukiazusaのテックブログ2",
+        "title": "コーディングエージェントの現状の整理とエンジニアの仕事の変化について",
+        "type": "article",
+        "url": "https://azukiazusa.dev/blog/coding-agents-and-developers-work"
+      },
+      "savedAt": "2025-06-01T16:54:16.617Z",
+      "tags": [
+        "未読",
+        "流し読",
+        "まとめる",
+        "記事・ポスト"
+      ],
+      "title": "コーディングエージェントの現状の整理とエンジニアの仕事の変化について",
+      "url": "https://azukiazusa.dev/blog/coding-agents-and-developers-work/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「Claude 4 におけるプロンプトエンジニアリングのベストプラクティス\nhttps://t.co/GE1J7doduD」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:54:01.015Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Anthropic"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「Claude 4 におけるプロンプトエンジニアリングのベストプラクティス https://t.co/GE1J7doduD」 / X",
+      "url": "https://x.com/schroneko/status/1925619629491204513"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "こんにちは、ハヤカワ五味です！  今回のGoogle I/Oは、ありがたいことに現地参加しております。Googleに招待されました。  私は、研究者ではなく社内外で生成AI推進をする立場ですので、技術的な詳細な解説や網羅的な情報は詳しい方にお任せするとして、一般ビジネスマン/消費者としてどのあたりを触ってみたら良いかや、社会においてどのように活用されそうかなどを簡潔にまとめてみたいと思います！  ※網羅的な説明は、ぬこぬこさんのやつがわかりやすかったです。  \n\n\nGoogle I/O の発表まとめ\n\n\n\n\n\nzenn.dev\n\n\n\n \n 私の方からは、主に以下の観点でお届けします。 ",
+        "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ea5e675f92090f484764ec887fc9b50a3fe0e613.png",
+        "siteName": "note（ノート）",
+        "title": "Google I/O 五味ちゃん的ふりかえり｜ハヤカワ五味",
+        "type": "article",
+        "url": "https://note.com/hayakawagomi/n/n90f54bb2f5ae"
+      },
+      "savedAt": "2025-06-01T16:53:33.107Z",
+      "tags": [
+        "流し読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "Google I/O 五味ちゃん的ふりかえり｜ハヤカワ五味",
+      "url": "https://note.com/hayakawagomi/n/n90f54bb2f5ae?sub_rt=share_pb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--DSasyEgp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Anthropic%2520%25E3%2581%25AE%2520Code%2520with%2520Claude%2520%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E7%2599%25BA%25E8%25A1%25A8%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AC%25E3%2581%2593%25E3%2581%25AC%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4ZDE4NWExYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Anthropic の Code with Claude に関する発表まとめ",
+        "type": "article",
+        "url": "https://zenn.dev/schroneko/articles/code-with-claude"
+      },
+      "savedAt": "2025-06-01T16:52:14.604Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "社員必読",
+        "Anthropic"
+      ],
+      "title": "Anthropic の Code with Claude に関する発表まとめ",
+      "url": "https://zenn.dev/schroneko/articles/code-with-claude"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "GPT-SoVITS v3 のダウンロード  以下のリンクから「GPT-SoVITS-v3lora-20250228.7z」をダウンロードして、7zの書庫ファイルを任意の場所に解凍する。  \n\n\nlj1995/GPT-SoVITS-windows-package at main\n\n\nWe’re on a journey to advance and democratize artificial inte\n\n\nhuggingface.co\n\n\n\n \n フォルダ内のgo-webui.batを起動するとブラウザ上でwebuiが起動します。 起動前にgo-webui.batをテキストエディタな",
+        "image": "https://assets.st-note.com/production/uploads/images/177530321/rectangle_large_type_2_9a22727ba76f7428aedc06d7e1e0b912.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "8秒の音声からAITuber用オリジナルキャラボイスを作る【モデルデータ制作】備忘録（2025年3月）GPT-SoVITS操作方法｜ろてじん",
+        "type": "article",
+        "url": "https://note.com/rotejin/n/n223647152295"
+      },
+      "savedAt": "2025-06-01T16:47:15.007Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "8秒の音声からAITuber用オリジナルキャラボイスを作る【モデルデータ制作】備忘録（2025年3月）GPT-SoVITS操作方法｜ろてじん",
+      "url": "https://note.com/rotejin/n/n223647152295"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Googleの年次開発者会議「Google I/O 2025」取材のため、カリフォルニア州・マウンテンビューを訪れている。今年も会場は、Google本社近くのショアライン・アンフィシアターだ。",
+        "image": "https://www.watch.impress.co.jp/img/ipw/list/2015/990/m03.jpg",
+        "siteName": "Impress Watch",
+        "title": "コアな技術を現実に Google I/O基調講演にみる「グーグルらしさ」",
+        "type": "article",
+        "url": "https://www.watch.impress.co.jp/docs/topic/2015990.html"
+      },
+      "savedAt": "2025-06-01T16:46:22.663Z",
+      "tags": [
+        "未読",
+        "流し読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "コアな技術を現実に Google I/O基調講演にみる「グーグルらしさ」 - Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2015990.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "「Data Engineering Study #23 Data orchestration 特集」の発表資料です\nイベントページ: https://forkwell.connpass.com/event/310011/",
+        "image": "https://files.speakerdeck.com/presentations/82ce687c41ff4bfc803cc8c86aad453d/slide_0.jpg?29187248",
+        "siteName": "Speaker Deck",
+        "title": "ワークフローオーケストレーション入門",
+        "type": "website",
+        "url": "https://speakerdeck.com/nsakki55/wakuhurookesutoresiyonru-men"
+      },
+      "savedAt": "2025-06-01T16:46:11.262Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "記事・ポスト"
+      ],
+      "title": "ワークフローオーケストレーション入門 - Speaker Deck",
+      "url": "https://speakerdeck.com/nsakki55/wakuhurookesutoresiyonru-men"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "最近Obsidianを活用してツェッテルカステン（Zettelkasten）を実践する、という話をよく見かけます。  CursorとObsidianの相性は良いらしく、特に非エンジニアの人でそれらのツールを駆使して生産性をあげているという人が増えているのだとか。Cursor好きの僕としては気になってしまうので、試してみることにしました。  実際、Cursorだけだと情報が流れていく感じがあって、うまく情報をストックできていない悩みがありました。一応、ファイルは残るのですが、人間にとって検索性が優れているわけではないのです（AIはいい感じにファイルを探せる機能が実装されている）。  また",
+        "image": "https://assets.st-note.com/production/uploads/images/191409489/rectangle_large_type_2_a40ea305f0abdb69a021b81682511ae4.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Obsidian・Cursorをフル活用してAI駆動でアウトプットしていく｜Shu",
+        "type": "article",
+        "url": "https://note.com/shu127/n/n61115b0b8c64"
+      },
+      "savedAt": "2025-06-01T16:43:45.372Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "記事・ポスト"
+      ],
+      "title": "Obsidian・Cursorをフル活用してAI駆動でアウトプットしていく｜Shu",
+      "url": "https://note.com/shu127/n/n61115b0b8c64"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "VoltAgent は TypeScript で AI を活用したアプリケーションを構築するためのツールキットです。VoltAgent Console を使用すると、エージェントの状態をリアルタイムで確認したり、エージェントのワークフローを可視化できる点が特徴です。",
+        "image": "https://azukiazusa.dev/blog/ogp/typescript-ai-agent-voltagent.png",
+        "siteName": "azukiazusaのテックブログ2",
+        "title": "TypeScript で AI エージェントを構築する VoltAgent",
+        "type": "article",
+        "url": "https://azukiazusa.dev/blog/typescript-ai-agent-voltagent"
+      },
+      "savedAt": "2025-06-01T16:43:36.952Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "ツール・サービス"
+      ],
+      "title": "TypeScript で AI エージェントを構築する VoltAgent",
+      "url": "https://azukiazusa.dev/blog/typescript-ai-agent-voltagent/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "GoogleがI/O 2025で医療特化型AIモデル「MedGemma」を発表。Gemma 3をベースに、4Bのマルチモーダル版と27Bのテキスト版の2種類を提供。医療画像の分析、レポート生成、患者トリアージなど、開発者がヘルスケアAIアプリを効率的に構築できるオープンモデルとして注目を集めている。",
+        "image": "https://innovatopia.jp/wp-content/uploads/2025/05/Google-MedGemma発表医療画像とテキスト理解のオープンAIモデルで医療アプリ開発を加速.png",
+        "siteName": "innovaTopia -（イノベトピア） - ーTech for Human Evolutionー",
+        "title": "Google MedGemma発表：医療画像とテキスト理解のオープンAIモデルで医療アプリ開発を加速 - イノベトピア",
+        "type": "article",
+        "url": "https://innovatopia.jp/healthcare/healthcare-news/55132/"
+      },
+      "savedAt": "2025-06-01T16:42:32.286Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "Google MedGemma発表：医療画像とテキスト理解のオープンAIモデルで医療アプリ開発を加速 - イノベトピア",
+      "url": "https://innovatopia.jp/healthcare/healthcare-news/55132/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのwebbigdataさん: 「その他の既報も含むジェマ3兄弟\n\nMedGemma\n医療用テキスト／画像理解モデルの4B（マルチモーダル）および27B（テキスト推論のみ）huggingfaceで公開済み\n\nSignGemma\n今年後半にリリース予定の手話理解モデル\n\nDolphinGemma\n近夏オープンモデル化予定のイルカの音声を入力して音声を出力するモデル」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:42:23.389Z",
+      "tags": [
+        "既読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "Xユーザーのwebbigdataさん: 「その他の既報も含むジェマ3兄弟 MedGemma 医療用テキスト／画像理解モデルの4B（マルチモーダル）および27B（テキスト推論のみ）huggingfaceで公開済み SignGemma 今年後半にリリース予定の手話理解モデル DolphinGemma 近夏オープンモデル化予定のイルカの音声を入力して音声を出力するモデル」 / X",
+      "url": "https://x.com/webbigdata/status/1925242971777319334"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "　米Microsoftは5月19日（日本時間）、「GitHub Copilot Chat」拡張機能を「MIT」ライセンス下でオープンソースとし、「Visual Studio Code」のコア機能に統合する方針を明らかにした。今後数週間以内に実施される。",
+        "image": "https://forest.watch.impress.co.jp/img/wf/list/2015/425/image_top.jpg",
+        "siteName": "窓の杜",
+        "title": "Visual Studio CodeのAI機能の核「GitHub Copilot Chat」拡張機能がオープンソースに／門戸を開き、透明性を向上させることでAIエディターへの転身を図る",
+        "type": "article",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2015425.html"
+      },
+      "savedAt": "2025-06-01T16:35:15.181Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "MS/GitHub"
+      ],
+      "title": "Visual Studio CodeのAI機能の核「GitHub Copilot Chat」拡張機能がオープンソースに - 窓の杜",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2015425.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "米Googleは、AIメモツール「NotebookLM」のスマートフォンアプリ（iOS／Android）の提供を始めた。共有アイコンからのソース追加や音声要約など、主要な機能を搭載した初期バージョンとして提供する。",
+        "image": "https://image.itmedia.co.jp/aiplus/articles/2505/20/cover_news118.jpg",
+        "siteName": "ITmedia AI＋",
+        "title": "NotebookLMに、待望のスマホアプリ登場　Podcast機能はバックグラウンド再生・オフライン再生に対応",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/aiplus/articles/2505/20/news118.html"
+      },
+      "savedAt": "2025-06-01T16:34:56.252Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "NotebookLMに、待望のスマホアプリ登場　Podcast機能はバックグラウンド再生・オフライン再生に対応 - ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2505/20/news118.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "米Googleが、モバイルデバイス向けの新しいAIモデル「Gemma 3n」を発表した。スマートフォンやタブレットなどのモバイルデバイス上で直接動作する高性能なマルチモーダルAIで、テキスト、画像、音声、動画を理解・処理できる能力を備える。",
+        "image": "https://image.itmedia.co.jp/aiplus/articles/2505/21/cover_news109.jpg",
+        "siteName": "ITmedia AI＋",
+        "title": "Googleが軽量AIモデル「Gemma 3n」を発表　スマホ上で高性能マルチモーダルAI　Claude 3.7 Sonnetに肉薄",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/aiplus/articles/2505/21/news109.html"
+      },
+      "savedAt": "2025-06-01T16:34:11.708Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "Googleが軽量AIモデル「Gemma 3n」を発表　スマホ上で高性能マルチモーダルAI　Claude 3.7 Sonnetに肉薄：Google I/O 2025 - ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2505/21/news109.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--AK-WuL0v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520I%252FO%2520%25E3%2581%25AE%25E7%2599%25BA%25E8%25A1%25A8%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AC%25E3%2581%2593%25E3%2581%25AC%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4ZDE4NWExYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Google I/O の発表まとめ",
+        "type": "article",
+        "url": "https://zenn.dev/schroneko/articles/google-io-2025"
+      },
+      "savedAt": "2025-06-01T16:33:51.638Z",
+      "tags": [
+        "未読",
+        "既読",
+        "まとめる",
+        "社員必読",
+        "Google"
+      ],
+      "title": "Google I/O の発表まとめ",
+      "url": "https://zenn.dev/schroneko/articles/google-io-2025"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "　米Googleは5月20日（現地時間）、開発者向けカンファレンス「Google I/O 2025」で、新しい「Google Labs」プロジェクト「Stitch」を発表した。簡単なプロンプトや画像を与えるだけで、AIが複雑なUIデザインとフロントエンドコードを数分で生成してくれる。ちょっとしたアイデアをその場でモックアップにしてくれる魅力的な試みだ。",
+        "image": "https://forest.watch.impress.co.jp/img/wf/list/2018/093/image1.png",
+        "siteName": "窓の杜",
+        "title": "思いついたアプリデザインをAIが形に ～「Stitch」がGoogle Labsに登場／頭脳は「Gemini 2.5 Pro」、コードを吐いたり「Figma」への貼り付けも可能",
+        "type": "article",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2018093.html"
+      },
+      "savedAt": "2025-06-01T16:32:30.725Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "思いついたアプリデザインをAIが形に ～「Stitch」がGoogle Labsに登場 - 窓の杜",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2018093.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--EjweYNV3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520Stitch%2520AI%25E3%2581%25A7%25E5%258A%25B9%25E6%259E%259C%25E7%259A%2584%25E3%2581%25AAUI%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BPrompt%2520Guide%25202025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258D%25E3%2582%2587%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZlNGVhN2QzODAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Google Stitch AIで効果的なUIデザインを実現するPrompt Guide 2025",
+        "type": "article",
+        "url": "https://zenn.dev/kimkiyong/articles/c374722c03f84e"
+      },
+      "savedAt": "2025-06-01T16:32:17.302Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Google",
+        "AIコーディング"
+      ],
+      "title": "Google Stitch AIで効果的なUIデザインを実現するPrompt Guide 2025",
+      "url": "https://zenn.dev/kimkiyong/articles/c374722c03f84e"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのKAJI | 梶谷健人さん: 「OpenAIのRealtime APIはいまのところReasoningモデルじゃない4oしかないけど、こちらはGemini 2.5 ProやFlashのThinkingモードも選べる。\n\n軽いやり取りは通常の2.5 Flashで捌いて難しい処理に入ったらそれらにモデル切り替えるような運用できると良いかも。」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:31:21.862Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "XユーザーのKAJI | 梶谷健人さん: 「OpenAIのRealtime APIはいまのところReasoningモデルじゃない4oしかないけど、こちらはGemini 2.5 ProやFlashのThinkingモードも選べる。 軽いやり取りは通常の2.5 Flashで捌いて難しい処理に入ったらそれらにモデル切り替えるような運用できると良いかも。」 / X",
+      "url": "https://x.com/kajikent/status/1925040918127915036"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「DeepWiki のリモート MCP サーバきた！\nhttps://t.co/7r1aWG1YsQ https://t.co/ZYFBNgRI3f」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:30:24.303Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "MCP"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「DeepWiki のリモート MCP サーバきた！ https://t.co/7r1aWG1YsQ https://t.co/ZYFBNgRI3f」 / X",
+      "url": "https://x.com/schroneko/status/1925293633768759623"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのニケちゃんさん: 「単純にあのクソ高API使わなくてもXを検索できるようになったのが強い」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:30:11.080Z",
+      "tags": [
+        "未読",
+        "既読",
+        "まとめない",
+        "その他LLM"
+      ],
+      "title": "Xユーザーのニケちゃんさん: 「単純にあのクソ高API使わなくてもXを検索できるようになったのが強い」 / X",
+      "url": "https://x.com/tegnike/status/1925329296324743224"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「PayPal だけではなく Stripe もか！\n\nあらゆる AI エージェントから決済できる\n\n「予算いくらで好きに使って良いからなんとかして成果出して」ってのができそう\nhttps://t.co/ypUReMna0s https://t.co/e7xqbaMnY6」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:29:57.644Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "MCP"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「PayPal だけではなく Stripe もか！ あらゆる AI エージェントから決済できる 「予算いくらで好きに使って良いからなんとかして成果出して」ってのができそう https://t.co/ypUReMna0s https://t.co/e7xqbaMnY6」 / X",
+      "url": "https://x.com/schroneko/status/1925301214293758071"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのChatGPT研究所さん: 「【速報】OpenAI API、リモートMCPに対応\n\nOpenAI Responses APIがModel Context Protocol (MCP) をサポート開始しました。モデルがリモートMCPサーバー上の外部ツールを呼び出し可能となり、機能拡張を実現します。 https://t.co/eaJTk8oaut」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:29:44.288Z",
+      "tags": [
+        "既読",
+        "まとめない",
+        "OpenAI"
+      ],
+      "title": "XユーザーのChatGPT研究所さん: 「【速報】OpenAI API、リモートMCPに対応 OpenAI Responses APIがModel Context Protocol (MCP) をサポート開始しました。モデルがリモートMCPサーバー上の外部ツールを呼び出し可能となり、機能拡張を実現します。 https://t.co/eaJTk8oaut」 / X",
+      "url": "https://x.com/ctgptlb/status/1925213002867114065"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "2025年の新卒研修の資料です。",
+        "image": "https://files.speakerdeck.com/presentations/fbafff7033fc48398fa2c79595ae319d/slide_0.jpg?35101996",
+        "siteName": "Speaker Deck",
+        "title": "Software Architecture in an AI-Driven World",
+        "type": "website",
+        "url": "https://speakerdeck.com/atty303/software-architecture-in-an-ai-driven-world"
+      },
+      "savedAt": "2025-06-01T16:29:13.304Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "Software Architecture in an AI-Driven World - Speaker Deck",
+      "url": "https://speakerdeck.com/atty303/software-architecture-in-an-ai-driven-world"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--3WrZ7Eqk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DeepWiki%2520MCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%258C%25E5%2587%25BA%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258B%25E3%2582%25B1%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIyNTVkODlmMjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "DeepWiki MCPサーバーが出たので試す",
+        "type": "article",
+        "url": "https://zenn.dev/nikechan/articles/b988cf067a8c56"
+      },
+      "savedAt": "2025-06-01T16:28:22.519Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "MCP"
+      ],
+      "title": "DeepWiki MCPサーバーが出たので試す",
+      "url": "https://zenn.dev/nikechan/articles/b988cf067a8c56"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "「Android」 で「Gemma-3n」を試してみたのでまとめました。   前回 \n 1. Google AI Edge Gallery  「Google AI Edge Gallery」は、最先端の生成AIモデルのパワーを直接体験できる実験的なアプリです。Android&nbsp; (現在提供中)とiOS (近日提供開始)のデバイスで完全に動作します。  今回は、「Google AI Edge Gallery」で「Gemma-3n」を実行してみます。      2. Gemma-3n-E2B-it の実行  「Gemma-3n-E2B-it」の実行手順は、次のとおりです。  (1)",
+        "image": "https://assets.st-note.com/production/uploads/images/191367630/rectangle_large_type_2_22f11daeb55132a5aa07fc8114bdb4aa.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Android  で Gemma-3n を試す｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/ndd6847a764ba"
+      },
+      "savedAt": "2025-06-01T16:28:12.581Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "記事・ポスト"
+      ],
+      "title": "Android で Gemma-3n を試す｜npaka",
+      "url": "https://note.com/npaka/n/ndd6847a764ba?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのdさん: 「OpenAI、iPhoneデザイナーのジョニー・アイブ氏のAIデバイス企業を65億ドル（約9,300億円）で買収\n\n- 最初のAIデバイスは、2026年に発売される予定\n- OpenAIはio社の約55名のハードウェアエンジニア、ソフトウェア開発者らを獲得\n- OpenAIのすべてのデザイン、ソフトウェアも含めた業務を引き継ぐ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:27:33.396Z",
+      "tags": [
+        "既読",
+        "まとめない",
+        "OpenAI"
+      ],
+      "title": "Xユーザーのdさん: 「OpenAI、iPhoneデザイナーのジョニー・アイブ氏のAIデバイス企業を65億ドル（約9,300億円）で買収 - 最初のAIデバイスは、2026年に発売される予定 - OpenAIはio社の約55名のハードウェアエンジニア、ソフトウェア開発者らを獲得 - OpenAIのすべてのデザイン、ソフトウェアも含めた業務を引き継ぐ」 / X",
+      "url": "https://x.com/d_1d2d/status/1925285477424537927"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの月読いおり 🧠さん: 「Google AI Studioにとんでもない機能が追加されています！！\n\n誰もが待ち望んでいた（おもに私が）\n\n『対話を、オーディオ生成する機能』です！\n\nNotebookLMのPodcastを、自分で台本から作れます。\n\n説明が難しいので、ビデオを見てください。 https://t.co/o7aXsKAjd0」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T16:27:11.755Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "記事・ポスト"
+      ],
+      "title": "Xユーザーの月読いおり 🧠さん: 「Google AI Studioにとんでもない機能が追加されています！！ 誰もが待ち望んでいた（おもに私が） 『対話を、オーディオ生成する機能』です！ NotebookLMのPodcastを、自分で台本から作れます。 説明が難しいので、ビデオを見てください。 https://t.co/o7aXsKAjd0」 / X",
+      "url": "https://x.com/tukiyomiiori/status/1925190655053328440"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Build advanced, intelligent agents with ease using Google's ADK, Agent Engine, and A2A protocol, designed for robust development, and streamlined workflows.",
+        "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/GFD_IO25_18_Whats_New_with_Agents.2e16d0ba.fill-1200x600.png",
+        "siteName": "",
+        "title": "What's new with Agents: ADK, Agent Engine, and A2A Enhancements",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T15:57:50.616Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "What's new with Agents: ADK, Agent Engine, and A2A Enhancements - Google Developers Blog",
+      "url": "https://developers.googleblog.com/en/agents-adk-agent-engine-a2a-enhancements-google-io/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのdさん: 「Google I/O 2025まとめ\n\n- AIコーディングエージェント「Jules」\n- AI映画制作ツール「Flow」\n- AIビデオコミュニケーションプラットフォーム「Google Beam」\n- 新AI検索「AIモード」\n- Imagen 4、Veo 3、Lyria 2、Astra、他にも色々\n\nスレッドにまとめていきます↓」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T15:57:05.828Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "Xユーザーのdさん: 「Google I/O 2025まとめ - AIコーディングエージェント「Jules」 - AI映画制作ツール「Flow」 - AIビデオコミュニケーションプラットフォーム「Google Beam」 - 新AI検索「AIモード」 - Imagen 4、Veo 3、Lyria 2、Astra、他にも色々 スレッドにまとめていきます↓」 / X",
+      "url": "https://x.com/d_1d2d/status/1924921973030932742"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Googleは、同社が開発中の自律型のコーディングエージェント「Jules」ベータ版を公開しました。ウェイティングリストに登録したユーザーに対して順次公開が始まっています。 Julesは昨年（2024年）12月にGemini 2.0が公開さ...",
+        "image": "https://www.publickey1.jp/2025/jules-beta01.png",
+        "siteName": "",
+        "title": "Google、自律型コーディングエージェント「Jules」をベータ公開",
+        "type": "article",
+        "url": "https://www.publickey1.jp/blog/25/googlejules.html"
+      },
+      "savedAt": "2025-06-01T15:56:42.625Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "Google"
+      ],
+      "title": "Google、自律型コーディングエージェント「Jules」をベータ公開 － Publickey",
+      "url": "https://www.publickey1.jp/blog/25/googlejules.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのkats@プロモデザイナーさん: 「【超簡単！イケてるネオン文字の作り方】\n①ネオン風のフォント文字を入力\n②内側・外側に光をつける\n③リアルなぼやっとした光を加える\n\n詳細はnoteで解説してます！ https://t.co/odcrRIrf2G」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T15:56:09.372Z",
+      "tags": [
+        "まとめない",
+        "自分用"
+      ],
+      "title": "Xユーザーのkats@プロモデザイナーさん: 「【超簡単！イケてるネオン文字の作り方】 ①ネオン風のフォント文字を入力 ②内側・外側に光をつける ③リアルなぼやっとした光を加える 詳細はnoteで解説してます！ https://t.co/odcrRIrf2G」 / X",
+      "url": "https://x.com/katsedi10/status/1924778628224602596"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのChatGPT研究所さん: 「Google新テキスト拡散モデル「Gemini Diffusion」の出力が早すぎる...\n\n・並列生成技術を活用することにより、驚異的な低遅延でのテキスト生成を実現\n・既存の高速モデル「2.0 Flash Light」と比較して、5倍の生成速度を達成 https://t.co/fky4E6HF4J」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T15:56:01.627Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "XユーザーのChatGPT研究所さん: 「Google新テキスト拡散モデル「Gemini Diffusion」の出力が早すぎる... ・並列生成技術を活用することにより、驚異的な低遅延でのテキスト生成を実現 ・既存の高速モデル「2.0 Flash Light」と比較して、5倍の生成速度を達成 https://t.co/fky4E6HF4J」 / X",
+      "url": "https://x.com/ctgptlb/status/1924885263618371972"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Googleは年次開発者会議Google I/Oにて、XRデバイス専用OS「Android XR」を搭載したグラス型デバイスについて発表しました。 Googleは、同社が展開するAI「Gemini」と音声や表示でコミュニ […]",
+        "image": "https://assets.moguravr.com/uploads/2025/05/76a632ccf51aa5bd75c1be0d864c3826-kix.6o0utfcrqdrp-jpg.webp",
+        "siteName": "MoguLive",
+        "title": "GoogleのGemini搭載グラス、メガネメーカー2社と提携し開発中 Android XRの続報も",
+        "type": "article",
+        "url": "https://www.moguravr.com/androidxr-glasses/"
+      },
+      "savedAt": "2025-06-01T15:55:47.293Z",
+      "tags": [
+        "まとめない",
+        "XR/ゲーム"
+      ],
+      "title": "GoogleのGemini搭載グラス、メガネメーカー2社と提携し開発中 Android XRの続報も - MoguLive",
+      "url": "https://www.moguravr.com/androidxr-glasses/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのChatGPT研究所さん: 「【速報】Geminiアプリ新機能「Agent Mode」登場\n\n・物件探し/日程調整/比較表作成など、Geminiが自律実行\n・今後、MCP統合、パーソナライズ強化も予定\n・サブスクライバー向けに近日登場予定 https://t.co/0PCCsjYtj4」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T15:55:36.687Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "XユーザーのChatGPT研究所さん: 「【速報】Geminiアプリ新機能「Agent Mode」登場 ・物件探し/日程調整/比較表作成など、Geminiが自律実行 ・今後、MCP統合、パーソナライズ強化も予定 ・サブスクライバー向けに近日登場予定 https://t.co/0PCCsjYtj4」 / X",
+      "url": "https://x.com/ctgptlb/status/1924886408222982202"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Microsoftは年次開発者会議「Build 2025」を開催。基調講演で、GitHub Copilotの機能強化やAzure AI Foundry ModelsでのxAIのGrok導入などを発表した。",
+        "image": "https://image.itmedia.co.jp/news/articles/2505/20/cover_news097.jpg",
+        "siteName": "ITmedia NEWS",
+        "title": "Microsoft Build 2025基調講演まとめ　テーマは「AIエージェント時代」",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/news/articles/2505/20/news097.html"
+      },
+      "savedAt": "2025-06-01T15:55:17.286Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "MS/GitHub"
+      ],
+      "title": "Microsoft Build 2025基調講演まとめ　テーマは「AIエージェント時代」 - ITmedia NEWS",
+      "url": "https://www.itmedia.co.jp/news/articles/2505/20/news097.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python. - micro...",
+        "image": "https://opengraph.githubassets.com/bedeeecef4d390b81d49b0a131f0a38586cadfd0e6cbf9f994479be5c0d596bc/microsoft/mcp-for-beginners",
+        "siteName": "GitHub",
+        "title": "microsoft/mcp-for-beginners: This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python.",
+        "type": "object",
+        "url": "https://github.com/microsoft/mcp-for-beginners"
+      },
+      "savedAt": "2025-06-01T11:06:12.475Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "MCP"
+      ],
+      "title": "microsoft/mcp-for-beginners: This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python.",
+      "url": "https://github.com/microsoft/mcp-for-beginners"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのMasahiro Yamaguchi ᯅ STYLYさん: 「Vision Pro用のEnterprise Camera AccessPluginをバージョンアップして、Unity6 + PolySpatial 2.2.4で問題なく動作するようになりました\n\n@edo_m18 のブログ記事をOpenAI Codexに投げて、Swift &lt;&gt; C#のテクスチャ転送をポインタ経由で行うように改善してもらった\n\nhttps://t.co/Lvx6TPvnGZ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T11:05:53.223Z",
+      "tags": [
+        "XR/ゲーム"
+      ],
+      "title": "XユーザーのMasahiro Yamaguchi ᯅ STYLYさん: 「Vision Pro用のEnterprise Camera AccessPluginをバージョンアップして、Unity6 + PolySpatial 2.2.4で問題なく動作するようになりました @edo_m18 のブログ記事をOpenAI Codexに投げて、Swift &lt;&gt; C#のテクスチャ転送をポインタ経由で行うように改善してもらった https://t.co/Lvx6TPvnGZ」 / X",
+      "url": "https://x.com/from2001vr/status/1924027093245210717"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "「Gemini 2.0 Flash」と「Whisk」による漫画作成を試したのでまとめました。   1. 作例  2. Gemini 2.0 Flash でキャラと背景と画風を作る  「Gemini 2.0 Flash」でキャラと背景と画風を作る手順は、次のとおりです。  (1) 「Google AI Studio」を開き、モデル「Gemini 2.0 Flash Preview Image Generation」を選択。  (2) メッセージボックスで絵の描画を指示。 1回では理想の絵はでないので、「追加指示」や「Return」(画像右上のGeminiマーク)で理想の絵に近づけます。 ",
+        "image": "https://assets.st-note.com/production/uploads/images/191053850/rectangle_large_type_2_63bf09ba8fb02bf963510cbba7f431e4.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Gemini 2.0 Flash と Whisk による漫画作成を試す｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n64aa75f32615"
+      },
+      "savedAt": "2025-06-01T11:05:39.009Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "メディア系等"
+      ],
+      "title": "Gemini 2.0 Flash と Whisk による漫画作成を試す｜npaka",
+      "url": "https://note.com/npaka/n/n64aa75f32615?sub_rt=share_b"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "https://connpass.com/event/353478/\n登壇資料です。\n\n- エディタ間借り型コーディングエージェントの仕組みと限界\n- 負けパターン集と、その回避対策\n- コーディングエージェントのこれから",
+        "image": "https://files.speakerdeck.com/presentations/57d1f8cd756647e0a920902a0e66ca0a/slide_0.jpg?35148656",
+        "siteName": "Speaker Deck",
+        "title": "コーディングエージェントを作ってるけどうまくいかなかった話 ～あるいは二ヶ月本気でコーディングエージェントと向き合った話～ / Two Month Agent Struggle",
+        "type": "website",
+        "url": "https://speakerdeck.com/erukiti/two-month-agent-struggle"
+      },
+      "savedAt": "2025-06-01T11:05:19.411Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "コーディングエージェントを作ってるけどうまくいかなかった話 ～あるいは二ヶ月本気でコーディングエージェントと向き合った話～ / Two Month Agent Struggle - Speaker Deck",
+      "url": "https://speakerdeck.com/erukiti/two-month-agent-struggle"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "こんにちは、コア技術本部の瀬戸です。新しいライブラリ「Instant Replay for Unity」を OSS として公開しました。 Instant Replay は Unity で実行中のゲーム画面を常時録画し、任意のタイミングで動画として書き出すことができるライブラリです。事前に指定したフレーム数を上限として画面のキャプチャを行い、上限を超えたフレームは古いものから破棄します。常に直近 N フレーム分を動画として書き出せるような仕組みです。 必要なタイミングで直近のゲーム映像を遡って保存することができるため、記録したい出来事を逃さずに録画できます。 具体的には以下のような用途で利用でき…",
+        "image": "https://ogimage.blog.st-hatena.com/6801883189098686638/6802418398341818796/1748409273",
+        "siteName": "CORETECH ENGINEER BLOG",
+        "title": "Unity で直近 N 秒のプレイ動画をいつでも保存できるライブラリを公開しました - CORETECH ENGINEER BLOG",
+        "type": "article",
+        "url": "https://blog.sge-coretech.com/entry/2025/05/20/121648"
+      },
+      "savedAt": "2025-06-01T11:04:05.314Z",
+      "tags": [
+        "XR/ゲーム"
+      ],
+      "title": "Unity で直近 N 秒のプレイ動画をいつでも保存できるライブラリを公開しました - CORETECH ENGINEER BLOG",
+      "url": "https://blog.sge-coretech.com/entry/2025/05/20/121648"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "なぜ船上ではARの位置合わせがズレまくるのか？ ARカメラマンが解説します！私は船に乗るのが大好きです。そして、船に乗ったら必ずやることがあります。それは スマホARでの撮影 です！最近では、…",
+        "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMjE4NDUlMkY4YTE0N2EzZWM0ZDM3ODQ1NTE1YWVlN2Y3ZjA3ZDU0MjVkOGFmMDNiJTJGbGFyZ2UucG5nJTNGMTYwNTM3NjcxND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0zOWVjZGU4NjFlYWFiYjk0ZDBhZTNlMGE2ODBlNTMxZQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzNjFlNmExMWNmYzI0YzQ0NjdiYmI4ZmQzYWI2M2NiZGIzNWQ2NzBlJTJGb3JpZ2luYWwuanBnJTNGMTcwNDc3MjIyMT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPWJkNjQ3MWVkM2MyNzMxNzhmZjQzYzY1ZTk5YzQ1OTQ4%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D16d89c932fd721c0d1f87b2d476ec5d7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUU4JTg4JUI5JUU0JUI4JThBJUUzJTgxJUE3JUUzJTgxJUFGQVIlRTMlODElQUUlRTQlQkQlOEQlRTclQkQlQUUlRTUlOTAlODglRTMlODIlOEYlRTMlODElOUIlRTMlODElOEMlRTMlODIlQkElRTMlODMlQUMlRTMlODElQkUlRTMlODElOEYlRTMlODIlOEIlRTMlODElQUUlRTMlODElOEIlRUYlQkMlOUYlMjBBUiVFMyU4MiVBQiVFMyU4MyVBMSVFMyU4MyVBOSVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MSU4QyVFOCVBNyVBMyVFOCVBQSVBQyVFMyU4MSU5NyVFMyU4MSVCRSVFMyU4MSU5OSVFRiVCQyU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThkYjU4NjJhNDhlMzFhYjlhNmRiYmJlNjM3N2E1ZDBl&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzZWd1ciZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTllMTI1YTRmNWNhNGMyOGJkZGQ5YzhhZDVkNjRmMzhl&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=U1RZTFksIEluYy4&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=93b3e0276f5000678467ace46ba26ac1",
+        "siteName": "Qiita",
+        "title": "なぜ船上ではARの位置合わせがズレまくるのか？ ARカメラマンが解説します！ - Qiita",
+        "type": "article",
+        "url": "https://qiita.com/segur/items/0519088eec7074230bc4"
+      },
+      "savedAt": "2025-06-01T11:03:57.179Z",
+      "tags": [
+        "XR/ゲーム"
+      ],
+      "title": "なぜ船上ではARの位置合わせがズレまくるのか？ ARカメラマンが解説します！ #STYLY - Qiita",
+      "url": "https://qiita.com/segur/items/0519088eec7074230bc4"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "2023-11-28 Developer's Jam #01 発表資料\nhttps://relic-inc.connpass.com/event/300592/\n\n後日、ProductZine(https://productzine.jp/)にて連載記事化予定。\n\nSTORES 御守 一樹\n&hellip;",
+        "image": "https://files.speakerdeck.com/presentations/fd48b087b94f44d1908cdcae6f7477b3/slide_0.jpg?27998055",
+        "siteName": "Speaker Deck",
+        "title": "優秀な人材に ”辞退されない” 面接の技術",
+        "type": "website",
+        "url": "https://speakerdeck.com/onmori/you-xiu-naren-cai-ni-ci-tui-sarenai-mian-jie-noji-shu"
+      },
+      "savedAt": "2025-06-01T11:03:48.637Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "優秀な人材に ”辞退されない” 面接の技術 - Speaker Deck",
+      "url": "https://speakerdeck.com/onmori/you-xiu-naren-cai-ni-ci-tui-sarenai-mian-jie-noji-shu"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの⚙gear machine@AIさん: 「Wan2.1のKijai氏版VICE 14Bが小刻みな動きが苦手なので、1/2倍の速度で生成してから倍のfpsにしてみた※。指先まで細かく、腕が小刻みに動き、ヌメらっちょな動きになったかと。 https://t.co/SrYqcFIXBn」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:57:04.409Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "メディア系等"
+      ],
+      "title": "Xユーザーの⚙gear machine@AIさん: 「Wan2.1のKijai氏版VICE 14Bが小刻みな動きが苦手なので、1/2倍の速度で生成してから倍のfpsにしてみた※。指先まで細かく、腕が小刻みに動き、ヌメらっちょな動きになったかと。 https://t.co/SrYqcFIXBn」 / X",
+      "url": "https://x.com/grmchn4ai/status/1924068050279825915"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのユニティ・テクノロジーズ・ジャパンさん: 「UnityとAndroid XRでスムーズな開発を実現📱✨\n\n最新記事「4 人のトップ開発者がAndroid XRとUnity 6で円滑な開発と移植を実現した方法」では、業界トップのXRスタジオ4社にインタビュー。\n\n✅ ヒット作「Job Simulator」「Demeo」の移植事例\n✅ 新作開発のポイントや課題を解説\n✅ Android https://t.co/SUxqZIL0l9」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:55:46.131Z",
+      "tags": [
+        "XR/ゲーム"
+      ],
+      "title": "Xユーザーのユニティ・テクノロジーズ・ジャパンさん: 「UnityとAndroid XRでスムーズな開発を実現📱✨ 最新記事「4 人のトップ開発者がAndroid XRとUnity 6で円滑な開発と移植を実現した方法」では、業界トップのXRスタジオ4社にインタビュー。 ✅ ヒット作「Job Simulator」「Demeo」の移植事例 ✅ 新作開発のポイントや課題を解説 ✅ Android https://t.co/SUxqZIL0l9」 / X",
+      "url": "https://x.com/unity_japan/status/1924365868320043074"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "技術選定の審美眼（2025年版）\n2025/05/14(水)\n技術選定を突き詰める〜 Online Conferenc​​e 2025〜\nhttps://findy.connpass.com/event/349580/",
+        "image": "https://files.speakerdeck.com/presentations/416ba362a8d2444bbbbfef0b94ee8dbc/slide_0.jpg?35141828",
+        "siteName": "Speaker Deck",
+        "title": "技術選定の審美眼（2025年版） / Understanding the Spiral of Technologies 2025 edition",
+        "type": "website",
+        "url": "https://speakerdeck.com/twada/understanding-the-spiral-of-technologies-2025-edition"
+      },
+      "savedAt": "2025-06-01T10:55:25.338Z",
+      "tags": [
+        "未読",
+        "Web開発"
+      ],
+      "title": "技術選定の審美眼（2025年版） / Understanding the Spiral of Technologies 2025 edition - Speaker Deck",
+      "url": "https://speakerdeck.com/twada/understanding-the-spiral-of-technologies-2025-edition"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのPark|SIerのAIエンジニアさん: 「じわじわ話題のVoltAgent\n\n同じくTypeScriptのフレームワーク\nMastraと比較してどうか?\nには公式から回答があった。👇 https://t.co/f5eGggAr3j」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:54:00.656Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "ツール・サービス"
+      ],
+      "title": "XユーザーのPark|SIerのAIエンジニアさん: 「じわじわ話題のVoltAgent 同じくTypeScriptのフレームワーク Mastraと比較してどうか? には公式から回答があった。👇 https://t.co/f5eGggAr3j」 / X",
+      "url": "https://x.com/Park_AI362489/status/1924085066671726695"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのML_Bearさん: 「MastraのCTOによるとこのコードレビューのサービスがおすすめらしい👀\n\nhttps://t.co/eP9u29tDBH」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:52:32.457Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "ツール・サービス"
+      ],
+      "title": "XユーザーのML_Bearさん: 「MastraのCTOによるとこのコードレビューのサービスがおすすめらしい👀 https://t.co/eP9u29tDBH」 / X",
+      "url": "https://x.com/MLBear2/status/1924424225244496203"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのWebARくまさん ｜ palan広報さん: 「【💻️Nianticが音声でARコンテンツを生成できる「ImaginateAR」の研究結果を発表🗣️】\n\nNiantic、ワシントン大学、ロンドン大学が、専門家でないユーザーでもARコンテンツを簡単に開発できるよう支援するツール「ImaginateAR」についての論文を発表しました！✨️ https://t.co/jDr5EpF3VU」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:52:05.210Z",
+      "tags": [
+        "XR/ゲーム"
+      ],
+      "title": "XユーザーのWebARくまさん ｜ palan広報さん: 「【💻️Nianticが音声でARコンテンツを生成できる「ImaginateAR」の研究結果を発表🗣️】 Niantic、ワシントン大学、ロンドン大学が、専門家でないユーザーでもARコンテンツを簡単に開発できるよう支援するツール「ImaginateAR」についての論文を発表しました！✨️ https://t.co/jDr5EpF3VU」 / X",
+      "url": "https://x.com/WebAR_kuma/status/1924315283965063311"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "　「AIの進化で自分の仕事はどうなってしまうのだろう」。そんな不安を抱く方にとって、ChatGPTの新機能「Codex」は、近い将来を具体的に思い描く手がかりになります。Codexは、ユーザーが「これやっといて」と語りかけるだけで数分後には成果物を提示し、「ボス、これでよろしいでしょうか？」と確認を求めるAIエージェントです。これまでプログラミングに限られていた自動化の恩恵が、経費削減提案や顧客リスト作成といった業務領域へも広がる可能性があり、PCやスマホで完結するタスクはもちろん、ロボット技術の進歩に伴い現実世界の作業までも代替される可能性が見えてきました。もしあなたが上司の立場であ",
+        "image": "https://assets.st-note.com/production/uploads/images/190869750/rectangle_large_type_2_15d06ce93a177dc09f2a9a1067a70798.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "ChatGPTの新機能『Codex』：「これ、やっといて」がAIエージェントの本質｜朱雀 | SUZACQUE",
+        "type": "article",
+        "url": "https://note.com/suzacque/n/nb558f771cbfe"
+      },
+      "savedAt": "2025-06-01T10:51:52.411Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "OpenAI",
+        "AIコーディング"
+      ],
+      "title": "ChatGPTの新機能『Codex』：「これ、やっといて」がAIエージェントの本質｜朱雀 | SUZACQUE",
+      "url": "https://note.com/suzacque/n/nb558f771cbfe?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Python で開発を始めるとき、パッケージ管理や仮想環境という言葉を耳にすることが多くなります。特に最近注目されているのが、Rust 製の超高速パッケージ管理ツール「uv」です。この記事では、Python 初心者の方向 ... ",
+        "image": "https://python-engineer.co.jp/wp-content/uploads/2025/04/ChatGPT-Image-2025年4月21日-17_13_07-e1745460793366.png",
+        "siteName": "パイソンエンジニア部",
+        "title": "Python パッケージ管理ツール「uv」とは？ – 爆速のライブラリ管理を初心者向けに解説",
+        "type": "article",
+        "url": "https://python-engineer.co.jp/uv-env/"
+      },
+      "savedAt": "2025-06-01T10:51:34.077Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Python パッケージ管理ツール「uv」とは？ – 爆速のライブラリ管理を初心者向けに解説 | パイソンエンジニア部",
+      "url": "https://python-engineer.co.jp/uv-env/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "2024 年 4～7 月頃のローカル LLM 事情は、現在につながる動きを知る上でも参考になると思われるため、以前 X にポストした内容にその後の動きを加筆してまとめました。  【謝辞】モデルの紹介には npaka さんの記事を多くリンクさせていただきました。リリース直後に素早くまとめておられるので、いつも参考にさせていただいております。   はじめに  ローカル LLM は流れが速く、ウォッチしていないと状況の把握が困難です。  ChatGPT が出てしばらく経った 2023 年初頭、まだローカルで LLM を動かすことは一般的ではありませんでした。当時は Meta が研究者向けに公",
+        "image": "https://assets.st-note.com/production/uploads/images/190966895/rectangle_large_type_2_60617870932c8daa3d6b581806285dae.jpeg?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "2024 年 4～7 月頃のローカル LLM 事情｜七誌",
+        "type": "article",
+        "url": "https://note.com/7shi/n/n0ce93cab1306"
+      },
+      "savedAt": "2025-06-01T10:51:08.933Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "記事・ポスト"
+      ],
+      "title": "2024 年 4～7 月頃のローカル LLM 事情｜七誌",
+      "url": "https://note.com/7shi/n/n0ce93cab1306"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこさん: 「Principles of Building AI Agents\n\nMastra の AI エージェント構築における原則。PDF で 93 ページ。LLM の選定からプロンプト設計、記憶、外部ツール連携、RAG、マルチエージェントシステムの設計パターン、評価など。\nhttps://t.co/Qq40NuzXgk\n#mastra_meetup https://t.co/CDwGcIsbK2」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:50:50.702Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "AIエージェント"
+      ],
+      "title": "Xユーザーのぬこぬこさん: 「Principles of Building AI Agents Mastra の AI エージェント構築における原則。PDF で 93 ページ。LLM の選定からプロンプト設計、記憶、外部ツール連携、RAG、マルチエージェントシステムの設計パターン、評価など。 https://t.co/Qq40NuzXgk #mastra_meetup https://t.co/CDwGcIsbK2」 / X",
+      "url": "https://x.com/schroneko/status/1924417721049227496"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "中国の動画共有サービス・bilibiliのチームが、1枚の画像からアニメーションを作成するAIツール「AniSora」を発表しました。",
+        "image": "https://i.gzn.jp/img/2025/05/19/anisora/00.png",
+        "siteName": "GIGAZINE",
+        "title": "オープンソースでアニメ動画を自動生成できるAIツール「AniSora」を中国・bilibiliの開発チームが発表",
+        "type": "article",
+        "url": "https://gigazine.net/news/20250519-anisora/"
+      },
+      "savedAt": "2025-06-01T10:50:35.416Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "オープンソースでアニメ動画を自動生成できるAIツール「AniSora」を中国・bilibiliの開発チームが発表 - GIGAZINE",
+      "url": "https://gigazine.net/news/20250519-anisora/?utm_source=x&utm_medium=sns&utm_campaign=x_post&utm_content=20250519-anisora"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "マイクロソフトは日本時間5月20日未明に開幕したイベント「Microsoft Build 2025」で、GitHubのIssueをAIにアサインすると、解決に向けて自律的にプログラミングを行う新機能「GitHub Copilot Codin...",
+        "image": "https://www.publickey1.jp/2025/github-codingagent-01.png",
+        "siteName": "",
+        "title": "［速報］「GitHub Copilot Coding Agent」パブリックプレビュー。AIにIssueをアサインすると、解決に向け自律的にプログラミング",
+        "type": "article",
+        "url": "https://www.publickey1.jp/blog/25/github_copilot_coding_agentaiissue.html"
+      },
+      "savedAt": "2025-06-01T10:50:27.375Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "MS/GitHub"
+      ],
+      "title": "［速報］「GitHub Copilot Coding Agent」パブリックプレビュー。AIにIssueをアサインすると、解決に向け自律的にプログラミング － Publickey",
+      "url": "https://www.publickey1.jp/blog/25/github_copilot_coding_agentaiissue.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "マイクロソフトは日本時間5月20日未明に開幕したイベント「Microsoft Build 2025」で、AIアプリケーションやエージェントとアプリケーションを連携させるプロトコルである「MCP」（Model Context Protocol...",
+        "image": "https://www.publickey1.jp/2025/windows-support-mcp02.png",
+        "siteName": "",
+        "title": "［速報］マイクロソフト、WindowsがMCPをサポートすると発表。AIエージェントでWindowsやアプリとの連携が可能に",
+        "type": "article",
+        "url": "https://www.publickey1.jp/blog/25/windowsmcpaiwindows.html"
+      },
+      "savedAt": "2025-06-01T10:47:28.809Z",
+      "tags": [
+        "未読",
+        "流し読",
+        "まとめる",
+        "MS/GitHub"
+      ],
+      "title": "［速報］マイクロソフト、WindowsがMCPをサポートすると発表。AIエージェントでWindowsやアプリとの連携が可能に － Publickey",
+      "url": "https://www.publickey1.jp/blog/25/windowsmcpaiwindows.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "マイクロソフトは日本時間5月20日未明に開幕したイベント「Microsoft Build 2025」で、WindowsおよびmacOSのローカル環境でエッジ環境に最適化されたAIモデルを実行可能にする「Azure AI Foundry Lo...",
+        "image": "https://www.publickey1.jp/2025/windows-ai-foundry02.png",
+        "siteName": "",
+        "title": "［速報］マイクロソフト、AIモデルをWindows/macOSローカルで実行可能にする「Azure AI Foundry Local」発表",
+        "type": "article",
+        "url": "https://www.publickey1.jp/blog/25/aiwindowsmacosazure_ai_foundry_local.html"
+      },
+      "savedAt": "2025-06-01T10:47:08.673Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "MS/GitHub"
+      ],
+      "title": "［速報］マイクロソフト、AIモデルをWindows/macOSローカルで実行可能にする「Azure AI Foundry Local」発表 － Publickey",
+      "url": "https://www.publickey1.jp/blog/25/aiwindowsmacosazure_ai_foundry_local.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Appleは、ARヘッドセット「Vision Pro」において、脳コンピュータインターフェース（BCI）デバイスのサポートを2025年後半から開始すると発表しました。新たに導入される「BCI HID」プロトコルにより、ユ […]",
+        "image": "https://assets.moguravr.com/uploads/2025/05/da99c71d16effb9e621ebe1db5165905-kix.9yw7o6ljtpyr-jpg.webp",
+        "siteName": "Mogura VR News",
+        "title": "考えるだけで操作 Apple Vision Proが脳コンピューターインターフェースに対応へ",
+        "type": "article",
+        "url": "https://www.moguravr.com/apple-vision-pro-bci/"
+      },
+      "savedAt": "2025-06-01T10:45:22.065Z",
+      "tags": [
+        "既読",
+        "XR/ゲーム"
+      ],
+      "title": "考えるだけで操作 Apple Vision Proが脳コンピューターインターフェースに対応へ - Mogura VR News",
+      "url": "https://www.moguravr.com/apple-vision-pro-bci/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの神威/KAMUIさん: 「GoogleがCodexやDevinの競合となるベータ版Julesを発表。\n\nこれは「開発者向けAlphaEvolve」と言っても過言ではない。\n\nつい最近GoogleがAlphaEvolveを発表したのはこの布石だったと思われる。\n\n実際Gemini」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:43:58.283Z",
+      "tags": [
+        "既読",
+        "まとめない",
+        "Google"
+      ],
+      "title": "Xユーザーの神威/KAMUIさん: 「GoogleがCodexやDevinの競合となるベータ版Julesを発表。 これは「開発者向けAlphaEvolve」と言っても過言ではない。 つい最近GoogleがAlphaEvolveを発表したのはこの布石だったと思われる。 実際Gemini」 / X",
+      "url": "https://x.com/kamui_qai/status/1924576450080079967"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのNaoto Nakaiさん: 「オライリーのサイトでpdf買った。メールでpdfをkindle（自分用のメアド）に送るとKindleのアプリで読めるので便利 https://t.co/thlnS9vKs5」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:43:35.914Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "XユーザーのNaoto Nakaiさん: 「オライリーのサイトでpdf買った。メールでpdfをkindle（自分用のメアド）に送るとKindleのアプリで読めるので便利 https://t.co/thlnS9vKs5」 / X",
+      "url": "https://x.com/NuCode/status/1924321202472206833"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=ja",
+        "siteName": "Google Cloud",
+        "title": "Cloud Run で MCP サーバーをホストする  |  Cloud Run Documentation  |  Google Cloud",
+        "type": "website",
+        "url": "https://cloud.google.com/run/docs/host-mcp-servers?hl=ja"
+      },
+      "savedAt": "2025-06-01T10:43:26.119Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "Google",
+        "MCP"
+      ],
+      "title": "Cloud Run で MCP サーバーをホストする  |  Cloud Run Documentation  |  Google Cloud",
+      "url": "https://cloud.google.com/run/docs/host-mcp-servers?hl=ja"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのeishis | palan CEOさん: 「ARスポーツのDIDIMが武蔵野総合体育館にきてた！\n知らなかったけど韓国の企業が開発したサービスなんですね。 https://t.co/Q5SAxAvO48」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:29:07.808Z",
+      "tags": [
+        "XR"
+      ],
+      "title": "Xユーザーのeishis | palan CEOさん: 「ARスポーツのDIDIMが武蔵野総合体育館にきてた！ 知らなかったけど韓国の企業が開発したサービスなんですね。 https://t.co/Q5SAxAvO48」 / X",
+      "url": "https://x.com/kinnikujst/status/1923975622898135103"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--9k9Q0MAY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25AB%25E3%2581%258D%25E3%2581%259F%25E3%2581%258B%25E3%2580%2591OpenAI%2520Codex%2520-%2520OpenAI%25E3%2581%258C%25E7%2594%259F%25E3%2581%25BF%25E5%2587%25BA%25E3%2581%2597%25E3%2581%259F%25E5%25A4%25A9%25E6%2589%258D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUdKbkpQVkFmVlBtdlVjdnVQV0liNkdTMlcwX2p6SVphSGVZNU5OWWNDNTFvRFdRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "【ついにきたか】OpenAI Codex - OpenAIが生み出した天才コーディングエージェント",
+        "type": "article",
+        "url": "https://zenn.dev/holy_fox/articles/39a03defbced35"
+      },
+      "savedAt": "2025-06-01T10:28:21.619Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "OpenAI",
+        "AIコーディング"
+      ],
+      "title": "【ついにきたか】OpenAI Codex - OpenAIが生み出した天才コーディングエージェント",
+      "url": "https://zenn.dev/holy_fox/articles/39a03defbced35"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--m4ycoKog--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2584%25E3%2582%258D%25E3%2582%2593%25E3%2581%25AA%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E8%25A6%2581%25E7%25B4%2584%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BLilysAI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258B%25E3%2582%25B1%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIyNTVkODlmMjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "いろんなソースを要約できるLilysAIを使ってみた",
+        "type": "article",
+        "url": "https://zenn.dev/nikechan/articles/759aacea4d3ef5"
+      },
+      "savedAt": "2025-06-01T10:27:37.990Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "ツール・サービス"
+      ],
+      "title": "いろんなソースを要約できるLilysAIを使ってみた",
+      "url": "https://zenn.dev/nikechan/articles/759aacea4d3ef5"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのdさん: 「OpenAIがAIコーディングエージェントの「Codex in ChatGPT」を発表\n\n・o3をソフトウェア開発向けに最適化したcodex-1を搭載\n・合格するまでコードに対して反復テスト\n・クラウド内の仮想コンピュータ上で動作\n・GitHub接続\n・複数タスクの並列実行\n・仮想チームメイトへ\n\n詳細はスレッド↓」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:27:24.635Z",
+      "tags": [
+        "未読",
+        "まとめない",
+        "OpenAI"
+      ],
+      "title": "Xユーザーのdさん: 「OpenAIがAIコーディングエージェントの「Codex in ChatGPT」を発表 ・o3をソフトウェア開発向けに最適化したcodex-1を搭載 ・合格するまでコードに対して反復テスト ・クラウド内の仮想コンピュータ上で動作 ・GitHub接続 ・複数タスクの並列実行 ・仮想チームメイトへ 詳細はスレッド↓」 / X",
+      "url": "https://x.com/d_1d2d/status/1923401196800221673"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのテツメモ｜AI図解×検証｜Newsletterさん: 「📝OpenAI Codex登場の英語中継中でも、なぜ「リアルタイム速報」ポストが出せたのか？\n\nこれ、実はNotebookLMより凄い特徴がある無料ツール「LilysAI」を使ってます\n\n- YouTubeURL投げる\n- スクリプト全文日本語翻訳\n- 詳細要約＆チャット欄で質問\n\nこれで情報整理＆発信が爆速！\n\n詳細はリプ欄へ　↓ https://t.co/3MeY8TECmQ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-06-01T10:26:33.625Z",
+      "tags": [
+        "流し読",
+        "まとめない",
+        "ツール・サービス"
+      ],
+      "title": "Xユーザーのテツメモ｜AI図解×検証｜Newsletterさん: 「📝OpenAI Codex登場の英語中継中でも、なぜ「リアルタイム速報」ポストが出せたのか？ これ、実はNotebookLMより凄い特徴がある無料ツール「LilysAI」を使ってます - YouTubeURL投げる - スクリプト全文日本語翻訳 - 詳細要約＆チャット欄で質問 これで情報整理＆発信が爆速！ 詳細はリプ欄へ　↓ https://t.co/3MeY8TECmQ」 / X",
+      "url": "https://x.com/tetumemo/status/1923577958276661532"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Codex - OpenAI API    前回 \n 1. Codex  「Codex」はクラウドベースのソフトウェアエンジニアリングエージェントです。「バグ修正」「コードレビュー」「リファクタリング」「ユーザーからのフィードバックに基づいたコード修正」などに利用できます。実世界のソフトウェア開発向けに最適化されたo3を搭載しています。  OpenAIでは、開発者が自ら主導権を握り、面倒な作業をエージェントに委任する未来を信じています。「Codex」が独自の環境で動作し、リポジトリでプルリクエストを作成していることから、この未来の",
+        "image": "https://assets.st-note.com/production/uploads/images/190465816/rectangle_large_type_2_7b7a34a15d4a79e34fd2249eea6ad8bf.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "OpenAI Codex の使い方｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/nf5b3e06eb895"
+      },
+      "savedAt": "2025-06-01T10:25:03.649Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "OpenAI",
+        "AIコーディング"
+      ],
+      "title": "OpenAI Codex の使い方｜npaka",
+      "url": "https://note.com/npaka/n/nf5b3e06eb895?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Introducing Codex    1. Codex  本日 (2025年5月16日)、クラウドベースのソフトウェアエンジニアリングエージェント「Codex」のリサーチプレビュー版をリリースします。「Codex」は、複数のタスクを並行して処理できます。「Codex」は、「機能の開発」「コードベースに関する質問への回答」「バグ修正」「レビューのためのプルリクエストの提案」といったタスクを、ユーザーに代わって実行します。各タスクは、ユーザーのリポジトリがプリロードされた専用のクラウドサンドボックス環境で実行されます。  「Cod",
+        "image": "https://assets.st-note.com/production/uploads/images/190456929/rectangle_large_type_2_66713c67d6e799ab96290fc065030215.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "OpenAI Codex の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n25f9c1be513b"
+      },
+      "savedAt": "2025-06-01T10:18:07.586Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "OpenAI"
+      ],
+      "title": "OpenAI Codex の概要｜npaka",
+      "url": "https://note.com/npaka/n/n25f9c1be513b?sub_rt=share_pw"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--qW0KTAX---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenAI%2520%25E3%2581%25AE%2520SWE%2520Agent%25E3%2580%2581Codex%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AC%25E3%2581%2593%25E3%2581%25AC%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4ZDE4NWExYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "OpenAI の SWE Agent、Codex を試してみる",
+        "type": "article",
+        "url": "https://zenn.dev/schroneko/articles/introducing-codex"
+      },
+      "savedAt": "2025-06-01T10:02:40.693Z",
+      "tags": [
+        "流し読",
+        "まとめる",
+        "OpenAI",
+        "AIコーディング"
+      ],
+      "title": "OpenAI の SWE Agent、Codex を試してみる",
+      "url": "https://zenn.dev/schroneko/articles/introducing-codex"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "表題の通りです。この本は、LLMプロダクト開発者にとって必読の教科書です。  \n\n\nLLMのプロンプトエンジニアリング\n\n\nLLMのポテンシャルを最大限活かし、期待通りの精度の高いアウトプットを引き出すためには、LLMの能力や特性を正しく評価、把\n\n\nwww.oreilly.co.jp\n\n\n\n \n 簡単にいうと、LLMの仕組みを理解してLLMの気持ちになってどういうコンテキストを与えたらうまくいくのか？どうやれば安定したLLMプロダクトを開発できるのか？というLLMプロダクト開発の基本が書かれた本です。  内容はいささか古く（おそらく2024年中頃までに書かれている）、この本から即座に",
+        "image": "https://assets.st-note.com/production/uploads/images/190595878/rectangle_large_type_2_abe0565152839e58413548698622accb.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "オライリーのLLMのプロンプトエンジニアリングは、LLMプロダクト開発者の教科書｜erukiti",
+        "type": "article",
+        "url": "https://note.com/erukiti/n/nddf9e9ccfd96"
+      },
+      "savedAt": "2025-06-01T09:56:28.690Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "AIコーディング"
+      ],
+      "title": "オライリーのLLMのプロンプトエンジニアリングは、LLMプロダクト開発者の教科書｜erukiti",
+      "url": "https://note.com/erukiti/n/nddf9e9ccfd96"
+    }
+  ],
+  "tags": [
+    "未読",
+    "流し読",
+    "既読",
+    "まとめる",
+    "まとめない",
+    "社員必読",
+    "OpenAI",
+    "Google",
+    "Anthropic",
+    "MS/GitHub",
+    "ローカルLLM",
+    "その他LLM",
+    "AIコーディング",
+    "MCP",
+    "AIエージェント",
+    "記事・ポスト",
+    "ツール・サービス",
+    "メディア系等",
+    "ロボット",
+    "Web開発",
+    "XR/ゲーム",
+    "イベント",
+    "書籍",
+    "自分用"
+  ]
+}
