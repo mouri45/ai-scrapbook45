@@ -1,6 +1,6 @@
 # このページについて
 
-- 2025/05/14 から 2025/06/02 の期間で、個人的に気になった AI ニュース/記事/ポストなどまとめたページです。
+- 2025/05/14 から 2025/06/03 の期間で、個人的に気になった AI ニュース/記事/ポストなどまとめたページです。
 - TechFirst Leaders の社内 AI 勉強会用に整理したものを公開しています。
 - Web 開発/システム開発エンジニア寄りの視点でまとめています。
 - まとめた人：[@mouri45](https://x.com/mouri45)
@@ -73,6 +73,14 @@ AI Studio または任意の MCP クライアントから Gemma やアプリを 
 
 ---
 
+### [Cloud Run GPU の概要｜ npaka](https://note.com/npaka/n/n6b26d1e47325)
+
+![Cloud Run GPU の概要｜npaka](https://assets.st-note.com/production/uploads/images/193855341/rectangle_large_type_2_5ccb7761184afe51137b03f75179e34e.png?fit=bounds&quality=85&width=1280)
+
+以下の記事が面白かったので、簡単にまとめました。 ・Cloud Run GPUs, now GA, makes running AI workloads easier for everyone 1. Cloud Run GPU 「Cloud Run」は、「Google Cloud」のサーバレスランタイムです。本日 (2025 年 6 月 3 日)、「Cloud Run」における「NVIDIA GPU」サポートの一般提供が開始されました。これにより、様々なユースケースに対応するパワフルなランタイムが実現し、コスト効率も非常に優れています。 GPU と CPU の両方で、以下のメリットを享受
+
+---
+
 ### [Google、自律型コーディングエージェント「Jules」をベータ公開](https://www.publickey1.jp/blog/25/googlejules.html)
 
 ![Google、自律型コーディングエージェント「Jules」をベータ公開](https://www.publickey1.jp/2025/jules-beta01.png)
@@ -118,6 +126,14 @@ Google が I/O 2025 で医療特化型 AI モデル「MedGemma」を発表。Gem
 ![GoogleはAIモデルをスマホにダウンロードしてローカルで実行できるアプリ「Google AI Edge Gallery」をひっそりとリリースしている](https://i.gzn.jp/img/2025/06/02/google-ai-edge-gallery/00.png)
 
 Google が、AI 開発プラットフォームの Hugging Face に公開されている AI モデルをユーザーがスマートフォンから実行できるようにするアプリ「Google AI Edge Gallery」を 2025 年 5 月 21 日に公開しています。Google AI Edge Gallery は記事作成時点で Android 版がリリースされており、iOS 版は近日登場予定となっています。
+
+---
+
+### [NotebookLM に一般公開機能　「リンクを知っていれば誰でも見られる」形で共有可能に](https://www.itmedia.co.jp/aiplus/articles/2506/03/news091.html)
+
+![NotebookLMに一般公開機能　「リンクを知っていれば誰でも見られる」形で共有可能に](https://image.itmedia.co.jp/aiplus/articles/2506/03/cover_news091.png)
+
+米 Google が、AI メモアプリ「NotebookLM」に一般公開機能を追加した。これまで、情報を集約した「ノートブック」を外部に共有する際は、閲覧権限を一人ずつ設定する必要があったが、新機能により「リンクを知っている人全員が閲覧できる」形で公開可能になった。
 
 ---
 
@@ -209,6 +225,14 @@ Visual Studio Code（VS Code）の開発チームは、今後 VS Code 本体に 
 
 ## AI コーディング/AI 駆動開発
 
+### [AI コーディングエージェント徹底比較：Google Jules、OpenAI Codex、Anthropic Claude Code Action - Qiita](https://qiita.com/shioccii/items/8842842597d2b6cd0f01)
+
+![AI コーディングエージェント徹底比較：Google Jules、OpenAI Codex、Anthropic Claude Code Action - Qiita](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYyMDk4NiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTcxMTI3MjcxND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1lODA3NDU5ZGJiNDdhYTdlYjE2ZTA3MjdkZDFiMDQ5Yw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D37e1189e43269a4b3061b971e372979a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjAlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTUlQkUlQjklRTUlQkElOTUlRTYlQUYlOTQlRTglQkMlODMlRUYlQkMlOUFHb29nbGUlMjBKdWxlcyVFMyU4MCU4MU9wZW5BSSUyMENvZGV4JUUzJTgwJTgxQW50aHJvcGljJTIwQ2xhdWRlJTIwQ29kZSUyMEFjJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzdhNjVmMDc1ZDNkNjhiNTA0ZGViZmVkZTQ3NmIwNDQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlvY2NpaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTJlNjQ1ZmIwMWNmMGVkZmFmMTVjOTljNmU2YjBiMzJi&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1e6465f9b00ea5474c0f328c7d772dea)
+
+AI コーディングエージェント徹底比較：Google Jules、OpenAI Codex、Anthropic Claude Code Action2025 年は AI コーディングエージェントの競争が…
+
+---
+
 ### [私のシンプルな Claude Code の使い方｜ニケちゃん](https://note.com/nike_cha_n/n/nee3503e7a617?sub_rt=share_pb)
 
 ![私のシンプルなClaude Codeの使い方｜ニケちゃん](https://assets.st-note.com/production/uploads/images/192562931/rectangle_large_type_2_8526339583b4ee2d5c2ab00a6720707e.png?fit=bounds&quality=85&width=1280)
@@ -272,6 +296,30 @@ Claude Code Action は Claude Code を GitHub Actions のワークフローに�
 ### [[AI 生成] Claude Code に Claude Code の Agent tool の解説を書かせた](https://zenn.dev/sushi/articles/5bf268afdaee66)
 
 ![[AI生成] Claude CodeにClaude CodeのAgent toolの解説を書かせた](https://res.cloudinary.com/zenn/image/upload/s--DALL5bft--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BAI%25E7%2594%259F%25E6%2588%2590%255D%2520Claude%2520Code%25E3%2581%25ABClaude%2520Code%25E3%2581%25AEAgent%2520tool%25E3%2581%25AE%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kuu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM5NjkzNzE0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png)
+
+---
+
+### [X ユーザーのぬこぬこさん: 「Claude Code 1.0.8 のアップデート内容 https://t.co/2yJU9lc8xL」 / X](https://x.com/schroneko/status/1929578975325495436)
+
+![Xユーザーのぬこぬこさん: 「Claude Code 1.0.8 のアップデート内容 https://t.co/2yJU9lc8xL」 / X](https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png)
+
+---
+
+### [X ユーザーのぬこぬこさん: 「しっかり考えて！！！たくさん考えて！！！考えて！！！ https://t.co/LzuMzbrmkX」 / X](https://x.com/schroneko/status/1929601929669497323)
+
+![Xユーザーのぬこぬこさん: 「しっかり考えて！！！たくさん考えて！！！考えて！！！ https://t.co/LzuMzbrmkX」 / X](https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png)
+
+---
+
+### [X ユーザーのまさお@AI 駆動開発さん: 「正直、ClaudeCode で MCP 連携するのがめんどくさい... ✅ そんなあなたにオススメのコマンドを共有します このコマンドを使うと、Claude の Desktop アプリに設定している MCP サーバーの設定を反映することができます！ `claude mcp add-from-claude-desktop` 便利なので、覚えておきたい。 https://t.co/5Adt6J9OD1」 / X](https://x.com/AI_masaou/status/1929736799003230623)
+
+![Xユーザーのまさお@AI駆動開発さん: 「正直、ClaudeCodeでMCP連携するのがめんどくさい...  ✅そんなあなたにオススメのコマンドを共有します  このコマンドを使うと、ClaudeのDesktopアプリに設定しているMCPサーバーの設定を反映することができます！  ``` claude mcp add-from-claude-desktop ```  便利なので、覚えておきたい。 https://t.co/5Adt6J9OD1」 / X](https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png)
+
+---
+
+### [X ユーザーのあいびぃさん: 「CLAUDE .md に書いておくと適当に鳴らしてくれます。 ~/.claude/setting.json に "Bash(afplay:\*)" 追加しておくと accept も不要でオススメです。 https://t.co/TpaPlfDxVb」 / X](https://x.com/ivy432hz/status/1929534887582707998)
+
+![Xユーザーのあいびぃさん: 「CLAUDE .md に書いておくと適当に鳴らしてくれます。 ~/.claude/setting.json に "Bash(afplay:*)" 追加しておくと accept も不要でオススメです。 https://t.co/TpaPlfDxVb」 / X](https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png)
 
 ---
 
@@ -577,12 +625,32 @@ huggingface.co
 
 ---
 
+### [Firebase AI Logic for Unity 発表！XR 体験に Gemini を](https://zenn.dev/hololab/articles/firebase-ai-logic-unity-androidxr)
+
+![Firebase AI Logic for Unity発表！XR体験にGeminiを](https://res.cloudinary.com/zenn/image/upload/s--W3760pwe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Firebase%2520AI%2520Logic%2520for%2520Unity%25E7%2599%25BA%25E8%25A1%25A8%25EF%25BC%2581XR%25E4%25BD%2593%25E9%25A8%2593%25E3%2581%25ABGemini%25E3%2582%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:FumiyaHr%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RkMzA4MzIwZTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%259B%25E3%2583%25AD%25E3%2583%25A9%25E3%2583%259C%25E3%2581%25AE%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dwa0c0REFqSWJBbHpvM1lJR2FkdjhMTDJLT0pnTUZmOTN5NTdoPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png)
+
+---
+
 ## その他
+
+### [ソフトウェアエンジニアから AI エンジニアへスキルチェンジ - As a Futurist...](https://blog.riywo.com/2025/06/from-software-engineer-to-ai-engineer/)
+
+![ソフトウェアエンジニアから AI エンジニアへスキルチェンジ - As a Futurist...](https://blog.riywo.com/og-image/2025/06/from-software-engineer-to-ai-engineer/image.png)
+
+AI 始めました！というと、ミーハーな感じがありますが、15 年ほどやってきたソフトウェアエンジニアとしてのキャリアは終わりにして、2 カ月程前から AI エンジニアになりました。ここ 5 年程は、過去の経験の切り売りしかしていない感じがずっとあったのですが、全く新しいことを始めて 1 から勉強し直しているところでとても楽しいです。
+
+---
 
 ### [コーディングエージェントの現状の整理とエンジニアの仕事の変化について](https://azukiazusa.dev/blog/coding-agents-and-developers-work/)
 
 ![コーディングエージェントの現状の整理とエンジニアの仕事の変化について](https://azukiazusa.dev/blog/ogp/coding-agents-and-developers-work.png)
 
 AI によるコーディングの支援はコード補完型からチャット型、そして自律型へと進化しています。この記事では現時点で主流となっているコーディングエージェントの種類とその特徴を整理したうえで、エンジニアの仕事の変化について考察します。
+
+---
+
+### [「AI エージェント疲れ」の原因と対策](https://zenn.dev/tellernovel_inc/articles/ai-agent-fatigue)
+
+![「AIエージェント疲れ」の原因と対策](https://res.cloudinary.com/zenn/image/upload/s--2lkgbhMk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E7%2596%25B2%25E3%2582%258C%25E3%2580%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25A8%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25B7%259D%25E5%25B0%25BB%25E4%25BA%25AE%25E7%259C%259F%2520%2528Ryoma%2520Kawajiri%2529%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1MmQ1TEtsTDFvLVJUaXI0cjQzVnd5S2w0RHJWZDZKV082MDgtaGY9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png)
 
 ---
