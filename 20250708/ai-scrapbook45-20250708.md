@@ -22,7 +22,7 @@
 
 ## 押さえておきたい話
 
-- Andrej Karpathy: Software Is Changing : https://www.youtube.com/watch?v=LCEmiRjPEtQ&ab_channel=YCombinator
+- [Andrej Karpathy: Software Is Changing](./ai-scrapbook45-20250708-Andrej-Karpathy-Software-Is-Changing.md)
 
 ---
 
