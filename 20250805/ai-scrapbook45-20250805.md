@@ -1,6 +1,6 @@
 # このページについて
 
-- 2025/07/09 から 2025/08/05 の期間で、個人的に気になった AI ニュース/記事/ポストなどまとめたページです。
+- 2025/07/09 から 2025/08/07 の期間で、個人的に気になった AI ニュース/記事/ポストなどまとめたページです。
 - TechFirst Leaders の社内 AI 勉強会用に整理したものを公開しています。
 - Web 開発/システム開発エンジニア寄りの視点でまとめています。
 - まとめた人：[@mouri45](https://x.com/mouri45)
@@ -104,6 +104,14 @@ Google は 2025 年 7 月 30 日、非構造化テキストから構造化デー
 
 ---
 
+### [Google、非同期コーディングエージェント「Jules」を一般公開 ～無償でも利用可能／「GitHub」と統合、「Gemini 2.5 Pro」で計画・解決](https://forest.watch.impress.co.jp/docs/news/2037539.html)
+
+![Google、非同期コーディングエージェント「Jules」を一般公開 ～無償でも利用可能／「GitHub」と統合、「Gemini 2.5 Pro」で計画・解決](https://forest.watch.impress.co.jp/img/wf/list/2037/539/jules.png)
+
+米 Google は 8 月 6 日（現地時間）、非同期コーディングエージェント「Jules」を一般公開した。これまでベータ版としてテストが続けられていたが、「Gemini 2.5」を搭載して正式に提供されることになった。
+
+---
+
 ## Anthropic
 
 ### [Anthropic が「Claude Opus 4.1」をリリース、コーディング能力が向上](https://gigazine.net/news/20250806-anthropic-claude-opus-4-1/)
@@ -111,6 +119,14 @@ Google は 2025 年 7 月 30 日、非構造化テキストから構造化デー
 ![Anthropicが「Claude Opus 4.1」をリリース、コーディング能力が向上](https://i.gzn.jp/img/2025/08/06/anthropic-claude-opus-4-1/00.png)
 
 AI 企業の Anthropic が、推論能力やコーディング能力に優れた AI モデル「Claude Opus 4.1」をリリースしました。
+
+---
+
+### [Anthropic、「Claude Code」に自動セキュリティレビュー機能を導入](https://japan.zdnet.com/article/35236436/)
+
+![Anthropic、「Claude Code」に自動セキュリティレビュー機能を導入](https://japan.zdnet.com/storage/2025/08/07/d73f9c3e33b8347c9f76e640c898ce36/anthropic-claude-code_1280.jpg)
+
+Anthropic が「Claude Code」に新機能を実装した。セキュリティ上の問題を、より簡単に発見し修正できるセキュリティレビュー機能だ。
 
 ---
 
