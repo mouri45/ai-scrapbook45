@@ -703,15 +703,3 @@ https://connpass.com/event/360553/
 この記事は音声入力した内容を AI に整形してもらった上で再度人力で校正しています。 はじめに （遅ればせながら）今期から AI エージェントの受託開発の営業を開始しました。 結論、引きはあるので商談は取れるが、その先の本開発フェーズに進むことは中々難しいということが分かってきました。複数社と話す中で、共通のパターンもある程度見えてきたので、（まだ数ヶ月の試行錯誤なので解像度は浅いかとも思いますが）思考の整理も兼ねて書き記します。 注意：ここでいう「AI エージェント」とは、完全自立型ではなく、「AI ワークフロー」「Agentic ワークフロー」のことを指しています。 時短したい方向けの
 
 ---
-
-### [フォワードデプロイドエンジニア（FDE）とは何か](https://zenn.dev/hellorusk/articles/f75f6d41b0a30c)
-
-![フォワードデプロイドエンジニア（FDE）とは何か](https://res.cloudinary.com/zenn/image/upload/s--W8Kl2ajx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25EF%25BC%2588FDE%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaito%2520Sugimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYxMTZhZmU1YmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png)
-
----
-
-### [Forward Deployed Engineer: AI 時代の新しいエンジニアリング職を深掘りする](https://zenn.dev/kimkiyong/articles/f29adc1809c10c)
-
-![Forward Deployed Engineer: AI時代の新しいエンジニアリング職を深掘りする](https://res.cloudinary.com/zenn/image/upload/s--xFFUeneP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Forward%2520Deployed%2520Engineer%253A%2520AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E8%2581%25B7%25E3%2582%2592%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258D%25E3%2582%2587%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZlNGVhN2QzODAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png)
-
----
