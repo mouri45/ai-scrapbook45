@@ -5,8 +5,12 @@
 - Web 開発/システム開発エンジニア寄りの視点でまとめています。
 - まとめた人：[@mouri45](https://x.com/mouri45)
 
-気になる
-Jujutsu、Serena MCP、Kiro、FDE、Claude agents/conteiner
+# 気になるトピック
+
+- Amazon から AI コーディングエディタの Kiro がリリースされ、仕様駆動開発が注目されました。その流れを受け、Claude Code で仕様駆動開発を行う取り組みをしている人が AI コーディング界隈で多くみられました。
+- Claude Code にサブエージェントやコンテナの機能が追加されました。
+- OpenAI の gpt-oss や Alibaba の Qwen-Coder などオープンなモデルがリリースされローカルでの LLM 利用が注目を集めました。
+- その他個人的に、コンフリクトを許容する AI コーディングと相性のいいソースコードバージョン管理システムの Jujutsu とプロジェクトを意味的に理解して AI コーディングエージェントを効率化する Serena MCP が気になりました。
 
 # カテゴリ
 
@@ -472,17 +476,19 @@ Critical: Claude Code context amnesia causes silent code deletion · Issue #4487
 
 ![Vibe coding コードレビュー](https://files.speakerdeck.com/presentations/bd6f717017b34e07928ad2caf012861b/slide_0.jpg?36114815)
 
+---
+
+### [AI エージェントのためのコンテキストエンジニアリング：Manus 構築から得た教訓](https://manus.im/ja/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
+
+![AIエージェントのためのコンテキストエンジニアリング：Manus構築から得た教訓](https://files.manuscdn.com/assets/dashboard/materials/2025/07/18/eaafe9e6a174b29458c314ccc225dbdd39a7c9d66e60786235165d9aba23f578.webp)
+
+この投稿は、私たち自身の「SGD」を通じて Manus が到達した局所的最適解を共有しています。あなたが自分自身の AI エージェントを構築している場合、これらの原則があなたのより速い収束に役立つことを願っています。
+
+---
+
 ### [X ユーザーのテツメモ｜ AI 図解 × 検証｜ Newsletter さん: 「📝 いや、これ公開して良いの？と思うレベルで有益 Manus が「AI エージェントのためのコンテキストエンジニアリング：Manus 構築から得た教訓」を大公開 なぜ Manus がユーザーの指示（目的）を忠実に実行して理想のゴールに導くことができるのか 6 つのスライドでまとめました　 👇️ https://t.co/zpZUFwzKPM」 / X](https://x.com/tetumemo/status/1946555324875575474)
 
 ![Xユーザーのテツメモ｜AI図解×検証｜Newsletterさん: 「📝いや、これ公開して良いの？と思うレベルで有益  Manusが「AIエージェントのためのコンテキストエンジニアリング：Manus構築から得た教訓」を大公開  なぜManusがユーザーの指示（目的）を忠実に実行して理想のゴールに導くことができるのか  6つのスライドでまとめました　👇️ https://t.co/zpZUFwzKPM」 / X](https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png)
-
----
-
----
-
-### [X ユーザーのえいと｜ n8n 効率化職人さん: 「個人開発者は絶対これ使って。Claude Code が 10 倍強力になります。「Code Context」は、Claude Code・Gemini CLI などに深い文脈理解と正確なコード生成を与える MCP プラグインです。しかも 100%オープンソース。具体的な活用例を紹介するので絶対保存して 👇 https://t.co/P0l1bQFas5」 / X](https://x.com/7_eito_7/status/1950051185559323032)
-
-![Xユーザーのえいと｜n8n効率化職人さん: 「個人開発者は絶対これ使って。Claude Codeが10倍強力になります。「Code Context」は、Claude Code・Gemini CLIなどに深い文脈理解と正確なコード生成を与えるMCPプラグインです。しかも100%オープンソース。具体的な活用例を紹介するので絶対保存して👇 https://t.co/P0l1bQFas5」 / X](https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png)
 
 ---
 
@@ -523,6 +529,12 @@ AI を使ってコーディングをしていると、こんな風に感じた�
 ### [Claude Code を 10 倍賢くする無料ツール「Serena」の威力とトークン効率化術](https://zenn.dev/sc30gsw/articles/ff81891959aaef)
 
 ![Claude Codeを10倍賢くする無料ツール「Serena」の威力とトークン効率化術](https://res.cloudinary.com/zenn/image/upload/s--yHQtMoEe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%259210%25E5%2580%258D%25E8%25B3%25A2%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%25E7%2584%25A1%25E6%2596%2599%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258CSerena%25E3%2580%258D%25E3%2581%25AE%25E5%25A8%2581%25E5%258A%259B%25E3%2581%25A8%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA5ZmViMGZmOGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png)
+
+---
+
+### [X ユーザーのえいと｜ n8n 効率化職人さん: 「個人開発者は絶対これ使って。Claude Code が 10 倍強力になります。「Code Context」は、Claude Code・Gemini CLI などに深い文脈理解と正確なコード生成を与える MCP プラグインです。しかも 100%オープンソース。具体的な活用例を紹介するので絶対保存して 👇 https://t.co/P0l1bQFas5」 / X](https://x.com/7_eito_7/status/1950051185559323032)
+
+![Xユーザーのえいと｜n8n効率化職人さん: 「個人開発者は絶対これ使って。Claude Codeが10倍強力になります。「Code Context」は、Claude Code・Gemini CLIなどに深い文脈理解と正確なコード生成を与えるMCPプラグインです。しかも100%オープンソース。具体的な活用例を紹介するので絶対保存して👇 https://t.co/P0l1bQFas5」 / X](https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png)
 
 ---
 
