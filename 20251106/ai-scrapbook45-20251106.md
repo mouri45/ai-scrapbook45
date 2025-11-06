@@ -94,6 +94,12 @@ Google は 2025 年 10 月 21 日、Google AI Studio において、Vibe Coding 
 
 ---
 
+### [[ADK] What's new in 1.18.0 ~ 公式 ADK Visual Agent Builder 登場 ~](https://zenn.dev/soundtricker/articles/d1be0f63286126)
+
+![[ADK] What's new in 1.18.0 ~ 公式ADK Visual Agent Builder登場 ~](https://res.cloudinary.com/zenn/image/upload/s--nDuuTQ4y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BADK%255D%2520What%2527s%2520new%2520in%25201.18.0%2520%7E%2520%25E5%2585%25AC%25E5%25BC%258FADK%2520Visual%2520Agent%2520Builder%25E7%2599%25BB%25E5%25A0%25B4%2520%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Keisuke%2520Oohashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2gzVXhkWXNLcWpLdFhESXlXRk50UHZyZUxmN2dXaFVsOWNBSVRHLVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT)
+
+---
+
 ### [Google、誰でも学べる AI 学習サイト「Google Skills」を正式公開 ──Cloud・DeepMind・教育部門を横断する 3000 講座を展開 | Ledge.ai](https://ledge.ai/articles/google_skills_ai_learning_platform_launch)
 
 ![Google、誰でも学べるAI学習サイト「Google Skills」を正式公開──Cloud・DeepMind・教育部門を横断する3000講座を展開 | Ledge.ai](https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Keyword_blog_header_2096x1182_width_1200_format_webp_539cc78549/Keyword_blog_header_2096x1182_width_1200_format_webp_539cc78549.webp)
@@ -273,5 +279,9 @@ AI エージェントの概念を簡潔に解説し、特に「ReAct (Reasoning 
 ### [Claude Code 導入 3 ヶ月後の社内アンケートから分かったこと](https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07)
 
 ![Claude Code導入3ヶ月後の社内アンケートから分かったこと](https://res.cloudinary.com/zenn/image/upload/s--mjaA3Zfm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E5%25B0%258E%25E5%2585%25A53%25E3%2583%25B6%25E6%259C%2588%25E5%25BE%258C%25E3%2581%25AE%25E7%25A4%25BE%25E5%2586%2585%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589%25E5%2588%2586%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:resqnet%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4NzU2YzZmODkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:READYFOR%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pPSm1Xd01qOGxqcUhGRlh0ZEZSRnZGNU1sbERONjRCMV9NdjlQckE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT)
+
+---
+
+### [エージェント型 AI：生成 AI の新領域](https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2025/assets/pdf/agentic-ai-the-new-frontier-in-genai.pdf)
 
 ---
