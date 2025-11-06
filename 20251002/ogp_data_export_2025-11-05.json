@@ -1,0 +1,1523 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-11-05T06:06:23.744Z",
+  "description": "",
+  "ogpData": [
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--XIv8TsJa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AB%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2520vs%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:r.kagaya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FlZTNjYzY3MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "シングルエージェント vs マルチエージェントを整理してみる",
+        "type": "article",
+        "url": "https://zenn.dev/r_kaga/articles/ea7119d22d4d3c"
+      },
+      "savedAt": "2025-10-02T08:16:58.403Z",
+      "tags": [
+        "まとめた",
+        "AIエージェント",
+        "記事・ポスト"
+      ],
+      "title": "シングルエージェント vs マルチエージェントを整理してみる",
+      "url": "https://zenn.dev/r_kaga/articles/ea7119d22d4d3c"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--j7X6svl3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%2520CLI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2599%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E6%25A9%259F%25E8%2583%25BD%25E3%2583%25BB%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25A9%25E3%2582%25AF%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YwODYxOWQxYzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Codex CLIを使いこなすための機能・設定まとめ",
+        "type": "article",
+        "url": "https://zenn.dev/dely_jp/articles/codex-cli-matome"
+      },
+      "savedAt": "2025-10-02T08:16:25.364Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Codex CLIを使いこなすための機能・設定まとめ",
+      "url": "https://zenn.dev/dely_jp/articles/codex-cli-matome"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "大規模言語モデル（LLM）を活用した実践的なアプリケーション開発へと繋がる、知識、テクニック、ツールの包括的な解説書。\n著者自身によるLLMを用いた数々の実験と、800本を超える論文の知見に基づき、モデルの構造や限界、活用手法、応用パターンを体系的に紹介することで、直感的な理解と応用力を身につけられるように構成されています。\nLLMがどんなデータを用いて、どんな目的で訓練されているかといった原理的な側面から、ファインチューニング、推論の最適化、RAG（検索拡張生成）といった応用的な側面まで、PoC（概念実証）から一歩踏み出したアプリケーションの構築を目指す方に気づきを与える一冊です。",
+        "image": "https://www.oreilly.co.jp/books/images/picture_large978-4-8144-0131-4.jpeg",
+        "siteName": "",
+        "title": "実践 LLMアプリケーション開発 ",
+        "type": "article",
+        "url": "https://www.oreilly.co.jp/books/9784814401314/"
+      },
+      "savedAt": "2025-10-02T08:16:06.075Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "実践 LLMアプリケーション開発 - O'Reilly Japan",
+      "url": "https://www.oreilly.co.jp/books/9784814401314/?utm_source=feed&utm_mediun=referral&utm_content=new_book"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのCGWORLD.jpさん: 「╭━━━━━━━━━━━━━━╮\n　アニメルックの構成要素とは？\n╰━━ｖ━━━━━━━━━━━╯\n\n🗓️今月9/26(金)オンライン開催\n『アニメルックステップアップ講座』\n\n普段のモデルがよりアニメらしい見た目になるための手がかりを解説。\n\n⏬詳細はこちら\nhttps://t.co/pYcM6XYGmB」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T08:15:59.368Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "XユーザーのCGWORLD.jpさん: 「╭━━━━━━━━━━━━━━╮ 　アニメルックの構成要素とは？ ╰━━ｖ━━━━━━━━━━━╯ 🗓️今月9/26(金)オンライン開催 『アニメルックステップアップ講座』 普段のモデルがよりアニメらしい見た目になるための手がかりを解説。 ⏬詳細はこちら https://t.co/pYcM6XYGmB」 / X",
+      "url": "https://x.com/CGWjp/status/1962810849141342648"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの五十嵐さん: 「イーロンの企業構築の手法。非常に勉強になる。 https://t.co/QBzP1EsHL7」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T08:15:24.969Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーの五十嵐さん: 「イーロンの企業構築の手法。非常に勉強になる。 https://t.co/QBzP1EsHL7」 / X",
+      "url": "https://x.com/biz_fx50/status/1963179159284592660"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "はじめに 昨今のAIエージェント界隈の競争が激化していることは周知の事実だと思います。 先日リリースされたCodex CLIによりClaude Codeが押され気味であることは否めません。 しかし！！そんなClaude Codeが確実に優っている点があります！！！ はい。...",
+        "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMzgzMTUwJTJGNDYzZWEyZjc4ZDE2YzU0MGVmZWQzMTRhOGY5MDY0MjgxM2M1ZDFmOCUyRmxhcmdlLnBuZyUzRjE3MDI5NjY0NjU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWVlNjgyOGU5MjFlZjAwNGEwYjVjMjZlN2IxNTNhODBl%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY3YjI3YmYxYWM0ZmMwMzA4MzY2NDk3MTVjMTcwZTRkNDk0MDI3YjFjJTJGb3JpZ2luYWwuanBnJTNGMTY1OTUxNjQ0Nz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz05ZGE3NjQ5MjlhZjI5MjY4NjgxZDRhOGUxNzg3YTRhMw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D1172f2d5e26af96f672d5bc0ed71b1dc?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MiU5MiVFMyU4MiU4OCVFMyU4MiU4QSVFNCVCRSVCRiVFNSU4OCVBOSVFMyU4MyVCQiVFNSVCQyVCNyVFNSU4QSU5QiVFMyU4MSVBQiVFNCVCRCVCRiVFMyU4MSU4NiVFMyU4MSU5RiVFMyU4MiU4MSVFMyU4MSVBRSVFMyU4MyU4NCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY1YzkxZWI4NDdjYTEzNzQ4ZjJkMjY3Y2UzYjU3OWVi&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmbG93ZXJub3Rmb3VuZCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTMyMjUxZjJjNmUyYzFiOTVlY2U5YjhiOGM2OTBjNzVk&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-44GG44KL44KL&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=dd643a2176601218e7d6f7a11bab70dd",
+        "siteName": "Qiita",
+        "title": "Claude Codeをより便利・強力に使うためのツールまとめ - Qiita",
+        "type": "article",
+        "url": "https://qiita.com/flowernotfound/items/649711de6fe8caf1eac2"
+      },
+      "savedAt": "2025-10-02T08:14:19.462Z",
+      "tags": [
+        "まとめる",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト",
+        "自分用"
+      ],
+      "title": "Claude Codeをより便利・強力に使うためのツールまとめ #AI - Qiita",
+      "url": "https://qiita.com/flowernotfound/items/649711de6fe8caf1eac2"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこ | NUKOさん: 「OpenAI Cookbook に Context Engineering のページが追加\n\nコンテキストはモデルが一度に取り扱うことのできる入出力トークンの合計のこと。GPT-5 では 400k、それでも AI エージェントにおける継続的なマルチターンの対話ではコンテキスト管理が必要。\nhttps://t.co/DfA51S4Z4y」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T08:12:44.209Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Xユーザーのぬこぬこ | NUKOさん: 「OpenAI Cookbook に Context Engineering のページが追加 コンテキストはモデルが一度に取り扱うことのできる入出力トークンの合計のこと。GPT-5 では 400k、それでも AI エージェントにおける継続的なマルチターンの対話ではコンテキスト管理が必要。 https://t.co/DfA51S4Z4y」 / X",
+      "url": "https://x.com/schroneko/status/1965911753885360152"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「【AnthropicのWeb fetchツールがついに登場！AIがWebページを直接読み込めるようになったのでメモシェア〜🌐 \"検索\"から\"取得\"へ、情報収集の次元が変わります👀】\n\n📊 Claude Web Fetch Tool - AI時代の情報取得革命\n\n■ 1. Web fetchツールの概要と特徴 🚀\n\n  ▸ 1.1 基本機能と対応モデル\n    •」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T08:12:15.012Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "ニュース"
+      ],
+      "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「【AnthropicのWeb fetchツールがついに登場！AIがWebページを直接読み込めるようになったのでメモシェア〜🌐 \"検索\"から\"取得\"へ、情報収集の次元が変わります👀】 📊 Claude Web Fetch Tool - AI時代の情報取得革命 ■ 1. Web fetchツールの概要と特徴 🚀 ▸ 1.1 基本機能と対応モデル •」 / X",
+      "url": "https://x.com/akira_papa_IT/status/1965908514309812460"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "更新情報（2025年4月5日） 37万回以上の閲覧、1,500件を超える「いいね」、そして1,700件以上のストックをいただき、心より感謝申し上げます。 多くの方に読んでいただいたことで、現場での活用や共感の声を多数いただきました。 今回の更新では、読者の皆様から寄せら...",
+        "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNDE5MDklMkY1ZGU1MmRjNTAzODc4N2IzNWZjOTJkODhiNDY4ZmM3YTI2OTM2NjI1JTJGeF9sYXJnZS5wbmclM0YxNjY0NzYzNzQ4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wMWQ5N2I2MTkzM2RhYmMxODNkOGRlYmI3ZmFiOTBkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De63cbc0e90588ee773256464ed72cf53?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCRG9jJTVEJTIwJUU4JUE2JTgxJUU0JUJCJUI2JUU1JUFFJTlBJUU3JUJFJUE5JUU2JTlCJUI4JUUzJTgzJTg2JUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgzJUJCJUU4JUE2JTgxJUU0JUJCJUI2JUU1JUFFJTlBJUU3JUJFJUE5JUU2JTlCJUI4JUUzJTgxJUFFJUU2JTlCJUI4JUUzJTgxJThEJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NzE1Zjc2MTRjYTk2OWVlNzc2NmYxOTk5OTQzYjQzNjc&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzeWFudGllbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTMxZDY5NThkZmJiYTlkYzBlZGMxNjBjN2I2ZTY5Mzg0&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bea8cd64dcc9f57665930f9e48a48e89",
+        "siteName": "Qiita",
+        "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方 - Qiita",
+        "type": "article",
+        "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7"
+      },
+      "savedAt": "2025-10-02T08:10:56.230Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "[Doc] 要件定義書テンプレート・要件定義書の書き方 #ドキュメントテンプレート - Qiita",
+      "url": "https://qiita.com/syantien/items/9a8a7cbaeca2be3ef0d7"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "ByteDanceから発表された最新画像生成AI「Seedream4.0」   「Seedream4.0」日本語生成  公式サイトにイラストや図表・手順書の作成ができると書いてあったので、レシピを作ってもらいました🍆  ガチャ必須ですが、かなりいいですね！😳 出力サイズ指示も守ってくれるからサムネもChatGPTより楽に生成できそう pic.twitter.com/sVF1rShr9B — GENEL | 動画生成AI (@genel_ai) September 10, 2025 \n\n\n  画像生成AI「Seedream4.0」でサムネイル生成  ・修正なし ・16：9出力 https",
+        "image": "https://assets.st-note.com/production/uploads/images/214412034/rectangle_large_type_2_57bd855654ad41396868b58f72190868.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "最新画像生成AI「Seedream4.0」の使い方とプロンプトのコツ｜日本語対応の画像生成AIを徹底解説｜GENEL ｜ AI動画制作",
+        "type": "article",
+        "url": "https://note.com/genel/n/n97c215fddc7c"
+      },
+      "savedAt": "2025-10-02T08:09:21.799Z",
+      "tags": [
+        "まとめた",
+        "ニュース",
+        "記事・ポスト",
+        "ツール・サービス",
+        "メディア系等"
+      ],
+      "title": "最新画像生成AI「Seedream4.0」の使い方とプロンプトのコツ｜日本語対応の画像生成AIを徹底解説｜GENEL ｜ AI動画制作",
+      "url": "https://note.com/genel/n/n97c215fddc7c"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community&#39;s develop...",
+        "image": "https://opengraph.githubassets.com/267fe4adf126dce3756f45d77f20397f6f3c6969a6d5ac2d35f7d4a7bfacb1f8/PicoTrex/Awesome-Nano-Banana-images",
+        "siteName": "GitHub",
+        "title": "Awesome-Nano-Banana-images/README_ja.md at main · PicoTrex/Awesome-Nano-Banana-images",
+        "type": "object",
+        "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md"
+      },
+      "savedAt": "2025-10-02T08:06:22.000Z",
+      "tags": [
+        "まとめた",
+        "Google",
+        "メディア系等",
+        "nano-banana"
+      ],
+      "title": "Awesome-Nano-Banana-images/README_ja.md at main · PicoTrex/Awesome-Nano-Banana-images",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_ja.md"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのAssetSaleLove @汗人柱さん: 「キャラに生きてる感をプラスしたいならコレ！\n転んでもぶつかっても、滑らかにアニメーションと物理がつながるアクティブラグドール\n\nまるで命が宿ったような動きがつくれちゃう\n\n『PuppetMaster』\n$99.00 =&gt; $49.50    50%オフ ⚡️9月13日 23:59まで\nhttps://t.co/Y1IDInfwEF\n#Unity ゲーム開発」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T08:06:14.023Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "XユーザーのAssetSaleLove @汗人柱さん: 「キャラに生きてる感をプラスしたいならコレ！ 転んでもぶつかっても、滑らかにアニメーションと物理がつながるアクティブラグドール まるで命が宿ったような動きがつくれちゃう 『PuppetMaster』 $99.00 =&gt; $49.50 50%オフ ⚡️9月13日 23:59まで https://t.co/Y1IDInfwEF #Unity ゲーム開発」 / X",
+      "url": "https://x.com/AssetLove/status/1966758747310637297"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--q4IoXNPV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:nano-banana%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AAUI%25E3%2583%25A2%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Oikon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYyMTkzODY4NjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "type": "article",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock"
+      },
+      "savedAt": "2025-10-02T08:05:44.776Z",
+      "tags": [
+        "まとめた",
+        "Google",
+        "AIコーディング",
+        "メディア系等",
+        "nano-banana"
+      ],
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの堤修一 / Shuichi Tsutsumiさん: 「音楽生成サンプルを追加しました。APIキーを用意すればすぐ試せます。\n\nshu223/iOS-GenAI-Sampler: A collection of Generative AI examples on iOS. \nhttps://t.co/2dw3NCg2d0」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T08:05:23.745Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーの堤修一 / Shuichi Tsutsumiさん: 「音楽生成サンプルを追加しました。APIキーを用意すればすぐ試せます。 shu223/iOS-GenAI-Sampler: A collection of Generative AI examples on iOS. https://t.co/2dw3NCg2d0」 / X",
+      "url": "https://x.com/shu223/status/1967343906217251059"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Introducing upgrades to Codex    1. GPT-5-Codex  「GPT-5-Codex」は、「Codex」のエージェントソフトウェアエンジニアリング向けにさらに最適化された「GPT-5」です。ゼロからプロジェクト全体を構築する、機能やテストを追加する、デバッグを行う、大規模なリファクタリングを実行する、コードレビューを行うといった、複雑で現実的なエンジニアリングタスクを想定して学習しています。より柔軟に操作でき、「AGENTS.md」の指示に忠実に従い、より高品質なコードを生成します。  「GP",
+        "image": "https://assets.st-note.com/production/uploads/images/215674833/rectangle_large_type_2_176ab000515da124f7e3ecdaa576bccf.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "GPT‑5-Codex の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n8538f2ad7004"
+      },
+      "savedAt": "2025-10-02T08:04:21.169Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "AIコーディング",
+        "ツール・サービス",
+        "メディア系等"
+      ],
+      "title": "GPT‑5-Codex の概要｜npaka",
+      "url": "https://note.com/npaka/n/n8538f2ad7004?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--onsBLNf1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Anthropic%25E3%2581%25AB%25E5%25AD%25A6%25E3%2581%25B6%25EF%25BC%259AAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%2590%2591%25E3%2581%2591%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AE5%25E5%258E%259F%25E5%2589%2587%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ML_Bear%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YzMzQ3NmZjMjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Anthropicに学ぶ：AIエージェント向けツール設計の5原則",
+        "type": "article",
+        "url": "https://zenn.dev/ml_bear/articles/7e315756ccd31a"
+      },
+      "savedAt": "2025-10-02T08:03:51.770Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Anthropicに学ぶ：AIエージェント向けツール設計の5原則",
+      "url": "https://zenn.dev/ml_bear/articles/7e315756ccd31a"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://files.speakerdeck.com/presentations/64196290a04c43d991f56259e36cd607/slide_0.jpg?36602383",
+        "siteName": "Speaker Deck",
+        "title": "2025/09/16 仕様駆動開発とAI-DLCが導くAI駆動開発の新フェーズ",
+        "type": "website",
+        "url": "https://speakerdeck.com/masahiro_okamura/16-shi-yang-qu-dong-kai-fa-toai-dlckadao-kuaiqu-dong-kai-fa-noxin-huesu"
+      },
+      "savedAt": "2025-10-02T08:02:16.372Z",
+      "tags": [
+        "まとめた",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "2025/09/16 仕様駆動開発とAI-DLCが導くAI駆動開発の新フェーズ - Speaker Deck",
+      "url": "https://speakerdeck.com/masahiro_okamura/16-shi-yang-qu-dong-kai-fa-toai-dlckadao-kuaiqu-dong-kai-fa-noxin-huesu"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Zennの開発チームは、エンジニア3人で開発しています。わたしたちがAIコーディングエージェントのClaude Codeを、単なる便利なツールとしてではなく、開発に不可欠な同僚として迎え入れるにはなにが必要か、をTipsとして紹介しました。\n\nClaude Code の力を最大限発揮するには、「あと&hellip;",
+        "image": "https://files.speakerdeck.com/presentations/7833e2d304ba4452a302748a9be32f08/slide_0.jpg?36608705",
+        "siteName": "Speaker Deck",
+        "title": "Claude Code でアプリ開発をオートパイロットにするためのTips集 Zennの場合 / Claude Code Tips in Zenn",
+        "type": "website",
+        "url": "https://speakerdeck.com/wadayusuke/claude-code-tips-in-zenn"
+      },
+      "savedAt": "2025-10-02T08:00:22.525Z",
+      "tags": [
+        "まとめた",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claude Code でアプリ開発をオートパイロットにするためのTips集 Zennの場合 / Claude Code Tips in Zenn - Speaker Deck",
+      "url": "https://speakerdeck.com/wadayusuke/claude-code-tips-in-zenn"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--2JhFSY5G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CAI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E6%2599%2582%25E4%25BB%25A3%25E3%2580%258D%25E3%2581%25A0%25E3%2581%258B%25E3%2582%2589%25E3%2581%2593%25E3%2581%259D%25E3%2580%258C%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25A8%25E3%2581%2599%25E3%2582%258B%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tarunon%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1ODhkZWNjYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2520ELYZA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dQbnZudUtmX1FRMC02eGo3NlYxbVFlUlN2cWR4WFJjejM5NHdKX3o4PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "「AIコーディング時代」だからこそ「ちゃんとする」",
+        "type": "article",
+        "url": "https://zenn.dev/elyza/articles/abb1866b8152fd"
+      },
+      "savedAt": "2025-10-02T07:59:16.034Z",
+      "tags": [
+        "まとめた",
+        "AIコーディング"
+      ],
+      "title": "「AIコーディング時代」だからこそ「ちゃんとする」",
+      "url": "https://zenn.dev/elyza/articles/abb1866b8152fd"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--A4ENsOXx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CodeRabbit%2520CLI%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8Claude%2520Code%25E3%2581%25A8%25E3%2581%25AE%25E7%25B5%25B1%25E5%2590%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Oikon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYyMTkzODY4NjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "CodeRabbit CLIのレビューとClaude Codeとの統合",
+        "type": "article",
+        "url": "https://zenn.dev/oikon/articles/coderabbit-cli"
+      },
+      "savedAt": "2025-10-02T07:58:26.919Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "ツール・サービス"
+      ],
+      "title": "CodeRabbit CLIのレビューとClaude Codeとの統合",
+      "url": "https://zenn.dev/oikon/articles/coderabbit-cli"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "現状の決済システムでは人間が信頼できる画面上で直接購入ボタンをクリックすることを前提としており、自立型の AI エージェントがユーザーに代わって決済することは想定されていません。そこで Google により Agent Payments Protocol (AP2) と呼ばれる新しいプロトコルが提案されました。プラットフォーム間でエージェント主導の決済を安全に開始・処理することを可能にします。この記事では AP2 のサンプルコードを実際に試してみた手順を紹介します。",
+        "image": "https://azukiazusa.dev/blog/ogp/trying-agent-payments-protocol-ap2.png",
+        "siteName": "azukiazusaのテックブログ2",
+        "title": "AI エージェントのための Agent Payments Protocol (AP2) を試してみた",
+        "type": "article",
+        "url": "https://azukiazusa.dev/blog/trying-agent-payments-protocol-ap2"
+      },
+      "savedAt": "2025-10-02T07:56:34.411Z",
+      "tags": [
+        "まとめた",
+        "Google",
+        "AIエージェント",
+        "ニュース",
+        "記事・ポスト"
+      ],
+      "title": "AI エージェントのための Agent Payments Protocol (AP2) を試してみた",
+      "url": "https://azukiazusa.dev/blog/trying-agent-payments-protocol-ap2/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "GPT-5の文章、正確で鋭いけど文章として読みにくいですよね。o3の時からですがGPT-5も以下のような傾向があると思います。    情報圧縮が強くて可読性が低い文章    すぐ箇条書きを使う    動詞を名詞化して多用する     こちらのカスタムインストラクション、ChatGPTのo3の箇条書きで簡潔になりがちなのを防いで文章で回答させるのに役立っていそうです！ https://t.co/tv3OuU2zUL — 限界助教|ChatGPT/Claude/Geminiで論文作成と科研費申請 (@genkAIjokyo) July 20, 2025 \n\n\n これらはGPTの個性とも言え",
+        "image": "https://assets.st-note.com/production/uploads/images/216532826/rectangle_large_type_2_378c2e2a422e65cc20980b7961b9d1c6.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "GPT-5の悪癖を矯正！可読性を向上させるカスタムインストラクション｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請",
+        "type": "article",
+        "url": "https://note.com/genkaijokyo/n/nbc5658201af7"
+      },
+      "savedAt": "2025-10-02T07:56:13.499Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "GPT-5の悪癖を矯正！可読性を向上させるカスタムインストラクション｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請",
+      "url": "https://note.com/genkaijokyo/n/nbc5658201af7"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのM.Kさん: 「Vulkan実践入門　グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで https://t.co/gDna3cPOeJ #Amazon @Amazonより \n\nおぉ\n楽しみ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T07:35:47.368Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "XユーザーのM.Kさん: 「Vulkan実践入門　グラフィックスの基礎からレイトレーシング、メッシュシェーダーまで https://t.co/gDna3cPOeJ #Amazon @Amazonより おぉ 楽しみ」 / X",
+      "url": "https://x.com/ryutorion/status/1968441605724971059"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの布留川英一 / Hidekazu Furukawaさん: 「とうやさんのキャラクターシート作成方法をおためし中。\n良い感じ。 https://t.co/JeZHhcLnga」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T07:33:58.559Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーの布留川英一 / Hidekazu Furukawaさん: 「とうやさんのキャラクターシート作成方法をおためし中。 良い感じ。 https://t.co/JeZHhcLnga」 / X",
+      "url": "https://x.com/npaka123/status/1969675759657894348"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "フロントエンドカンファレンス東京 2025の発表資料です\nhttps://fec-tokyo.connpass.com/event/352581/",
+        "image": "https://files.speakerdeck.com/presentations/c62a9d383c024be88436611079594e47/slide_0.jpg?36659921",
+        "siteName": "Speaker Deck",
+        "title": "実践AIチャットボットUI実装入門",
+        "type": "website",
+        "url": "https://speakerdeck.com/syumai/practical-ai-chat-bot-ui-implementation"
+      },
+      "savedAt": "2025-10-02T07:32:44.154Z",
+      "tags": [
+        "まとめる",
+        "AIエージェント",
+        "記事・ポスト",
+        "自分用"
+      ],
+      "title": "実践AIチャットボットUI実装入門 - Speaker Deck",
+      "url": "https://speakerdeck.com/syumai/practical-ai-chat-bot-ui-implementation"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "ここ1年~2年でエンジニアやプロダクトマネージャーにおける仕事の進め方、考え方が大きく変わったように思います。  そんな中、「プロダクトマネージャーはエンジニアリングをどこまで理解すべきか？」という相談を受ける機会が増えてきました。  このnoteでは「AI時代のプロダクトマネージャーはエンジニアリングについてどこまで理解しておくと良いか？」を僕自身の主観で書いていきます。  結論  僕の答えは「コードは書けなくても良いが、AIがどこまでやれるか試すことができたり、サービスの運用やコードベースを理解した上でエンジニアが詰まるポイントは理解すべき」です。  プロダクトマネージャーとは利益",
+        "image": "https://assets.st-note.com/production/uploads/images/214847743/rectangle_large_type_2_e4c70abdce68bea8b04ff2f79d9d44be.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "AI時代のプロダクトマネージャーにエンジニアリングは必要？｜すてぃお",
+        "type": "article",
+        "url": "https://note.com/suthio/n/n89f393fd73c2"
+      },
+      "savedAt": "2025-10-02T07:31:01.310Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "AI時代のプロダクトマネージャーにエンジニアリングは必要？｜すてぃお",
+      "url": "https://note.com/suthio/n/n89f393fd73c2?sub_rt=share_pb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "こんにちは、Algomatic AXの大塚（@ootsuka_techs）です。 本記事では、いま話題の仕様駆動開発（Spec Driven Development; SDD）を調べ、社内で試した学びをまとめます。 今回は以下の4つのツールを使用し、それぞれの特徴や使い勝手を詳しく検証しました。 Kiro Spec Kit spec-workflow-mcp cc-sdd 比較した結果は以下の通りです。 機能比較表 機能 Kiro Spec Kit spec-workflow-mcp cc-sdd 日本語対応 △ △ ○ ◎ 承認フロー ○ ○ ◎ ○ プロジェクトガバナンス ○ ◎ ○ ○ …",
+        "image": "https://cdn.image.st-hatena.com/image/scale/5211188586c9e209709a5adf35687014545107b9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Footsuka_techs%2F20250922%2F20250922144819.png",
+        "siteName": "Algomatic Tech Blog",
+        "title": "仕様書がコードを生む時代：話題のSDDを試してみた - Algomatic Tech Blog",
+        "type": "article",
+        "url": "https://tech.algomatic.jp/entry/2025/09/22/143931"
+      },
+      "savedAt": "2025-10-02T07:28:54.594Z",
+      "tags": [
+        "まとめた",
+        "社員必読",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "仕様書がコードを生む時代：話題のSDDを試してみた - Algomatic Tech Blog",
+      "url": "https://tech.algomatic.jp/entry/2025/09/22/143931"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの爆速起業ゼミさん: 「新規事業を立ち上げまくっているサイバーエージェントも、撤退ラインを明確に設定している。\n\n撤退ラインが完全に科学されているのが、サイバーの強み。\n\n撤退ラインを決めているからこそ「ここまでのコストはかけていい」という安心感が生まれ、ガンガン新しいことに取り組むことができる。 https://t.co/CzKGiPt7IZ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T07:23:43.564Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーの爆速起業ゼミさん: 「新規事業を立ち上げまくっているサイバーエージェントも、撤退ラインを明確に設定している。 撤退ラインが完全に科学されているのが、サイバーの強み。 撤退ラインを決めているからこそ「ここまでのコストはかけていい」という安心感が生まれ、ガンガン新しいことに取り組むことができる。 https://t.co/CzKGiPt7IZ」 / X",
+      "url": "https://x.com/bakusoku_kigyo/status/1969198429822701865"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "GitHubは2025年9月2日、コーディングエージェントを利用した仕様駆動開発（Spec-Driven Development）のためのツールキット「Spec Kit」を開発し、公式ブログで紹介した。",
+        "image": "https://gihyo.jp/assets/images/ICON/2025/2620_github-spec-kit.jpg",
+        "siteName": "gihyo.jp",
+        "title": "GitHub、仕様駆動開発ツールキット「Spec Kit」を紹介 ——コーディングエージェントを利用して仕様を解釈し、開発計画・タスク分解・実装をおこなう | gihyo.jp",
+        "type": "article",
+        "url": "https://gihyo.jp/article/2025/09/github-spec-kit"
+      },
+      "savedAt": "2025-10-02T07:19:37.205Z",
+      "tags": [
+        "まとめた",
+        "MS/GitHub",
+        "AIコーディング",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "GitHub、仕様駆動開発ツールキット「Spec Kit」を紹介 ——コーディングエージェントを利用して仕様を解釈し、開発計画・タスク分解・実装をおこなう | gihyo.jp",
+      "url": "https://gihyo.jp/article/2025/09/github-spec-kit"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "通常、「ChatGPT」を使うには、ユーザーが自ら話しかける必要がある。しかし、新たに登場した「ChatGPT Pulse」という機能では、その流れが逆転し、AIの方から毎日パーソナライズされたアップデートを届けてくれる。",
+        "image": "https://japan.zdnet.com/storage/2025/09/29/d87300c658f5929bf3505ec4755a8a0c/pulse_l.jpg",
+        "siteName": "ZDNET Japan",
+        "title": "OpenAI、新機能「ChatGPT Pulse」を発表--ユーザーに合った情報を毎朝配信",
+        "type": "article",
+        "url": "https://japan.zdnet.com/article/35238529/"
+      },
+      "savedAt": "2025-10-02T07:04:03.982Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "ツール・サービス"
+      ],
+      "title": "OpenAI、新機能「ChatGPT Pulse」を発表--ユーザーに合った情報を毎朝配信 - ZDNET Japan",
+      "url": "https://japan.zdnet.com/article/35238529/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Googleは2025年9月23日、AIコーディングエージェント向けに Chrome DevTools MCPサーバーの公開プレビューを開始した。\n",
+        "image": "https://gihyo.jp/assets/images/ICON/2025/2642_chrome-devtools-mcp-server.png",
+        "siteName": "gihyo.jp",
+        "title": "Chrome DevTools MCPサーバー、コーディングエージェント向けに公開プレビュー開始 | gihyo.jp",
+        "type": "article",
+        "url": "https://gihyo.jp/article/2025/09/chrome-devtools-mcp-server"
+      },
+      "savedAt": "2025-10-02T07:02:31.265Z",
+      "tags": [
+        "まとめた",
+        "Google",
+        "AIコーディング",
+        "ニュース"
+      ],
+      "title": "Chrome DevTools MCPサーバー、コーディングエージェント向けに公開プレビュー開始 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2025/09/chrome-devtools-mcp-server"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのmatsuuさん: 「2025年11月25日発売。興味あるな / “実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで | 翔泳社” https://t.co/3mv3m7WkLq」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T07:01:44.307Z",
+      "tags": [
+        "Web開発",
+        "自分用"
+      ],
+      "title": "Xユーザーのmatsuuさん: 「2025年11月25日発売。興味あるな / “実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで | 翔泳社” https://t.co/3mv3m7WkLq」 / X",
+      "url": "https://x.com/matsuu/status/1970338804449063052"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Go behind the browser with Chrome’s new AI features    1. はじめに  本日、「Chrome」に史上最大のアップグレードを行いました。最新の「Google AI」を活用して、ブラウジング体験を向上させます。    2. Gemini in Chrome  本日より、米国のMacおよびWindowsユーザーに、「Gemini in Chrome」を英語設定でリリースします。これにより、閲覧中のWebページ (複数ページ可) の複雑な情報を「Gemini」に読み上げてもらうことが",
+        "image": "https://assets.st-note.com/production/uploads/images/216366826/rectangle_large_type_2_3ca9312383e73d7b67433e9e8ca8c958.jpeg?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Gemini in Chrome の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/nb9143f70e353"
+      },
+      "savedAt": "2025-10-02T07:00:04.486Z",
+      "tags": [
+        "まとめた",
+        "Google",
+        "ツール・サービス"
+      ],
+      "title": "Gemini in Chrome の概要｜npaka",
+      "url": "https://note.com/npaka/n/nb9143f70e353"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこ | NUKOさん: 「Gemini Live API が大幅アプデ。ネイティブオーディオモデルで Function calling の信頼性が 2 倍向上、ツールが 10 個以上ある状況でも性能が大幅に改善。プロアクティブオーディオ機能により、ユーザーの中断や自然な間、背景の雑談を適切に処理し、会話の流れが自然に。\nhttps://t.co/Hk7bPd4YWA」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:53:09.958Z",
+      "tags": [
+        "まとめた",
+        "Google",
+        "ニュース",
+        "メディア系等"
+      ],
+      "title": "Xユーザーのぬこぬこ | NUKOさん: 「Gemini Live API が大幅アプデ。ネイティブオーディオモデルで Function calling の信頼性が 2 倍向上、ツールが 10 個以上ある状況でも性能が大幅に改善。プロアクティブオーディオ機能により、ユーザーの中断や自然な間、背景の雑談を適切に処理し、会話の流れが自然に。 https://t.co/Hk7bPd4YWA」 / X",
+      "url": "https://x.com/schroneko/status/1970550101803442681"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのML_Bearさん: 「OpenAIがGPT-5-Codexのプロンプトガイドを公開しました👀 コーディング特化型モデルという特性を理解し、従来のGPT-5向けプロンプトとは少し変えた方が良いとのこと。\n\n1. GPT-5-Codexへの指示は「少ない方が効果的」\n2. 従来のプロンプトから変えるべき点\n\nこの2点をスレで簡単に説明します📝 https://t.co/LYPYpP1cOr」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:52:49.350Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "XユーザーのML_Bearさん: 「OpenAIがGPT-5-Codexのプロンプトガイドを公開しました👀 コーディング特化型モデルという特性を理解し、従来のGPT-5向けプロンプトとは少し変えた方が良いとのこと。 1. GPT-5-Codexへの指示は「少ない方が効果的」 2. 従来のプロンプトから変えるべき点 この2点をスレで簡単に説明します📝 https://t.co/LYPYpP1cOr」 / X",
+      "url": "https://x.com/MLBear2/status/1970550856799133782"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこ | NUKOさん: 「忙しい方向け？Qwen の怒涛の発表まとめ\n\n---\n\nQwen3-TTS-Flash\n\n複数話者・多言語（日本語含む）・方言対応の音声合成モデル。SeedTTS や MiniMax、GPT-4o-Audio-Preview を超える性能。97ms で生成。入力テキストに応じてトーンを自動調整。Qwen API 経由で利用可能。\n\nhttps://t.co/5PNXsahxg0\n\n---」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:52:03.988Z",
+      "tags": [
+        "まとめた",
+        "その他LLM",
+        "ニュース"
+      ],
+      "title": "Xユーザーのぬこぬこ | NUKOさん: 「忙しい方向け？Qwen の怒涛の発表まとめ --- Qwen3-TTS-Flash 複数話者・多言語（日本語含む）・方言対応の音声合成モデル。SeedTTS や MiniMax、GPT-4o-Audio-Preview を超える性能。97ms で生成。入力テキストに応じてトーンを自動調整。Qwen API 経由で利用可能。 https://t.co/5PNXsahxg0 ---」 / X",
+      "url": "https://x.com/schroneko/status/1970620039096373538"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこ | NUKOさん: 「去年の講義資料はこちらです！\nhttps://t.co/5ZNX4PfdUV」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:50:32.154Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーのぬこぬこ | NUKOさん: 「去年の講義資料はこちらです！ https://t.co/5ZNX4PfdUV」 / X",
+      "url": "https://x.com/schroneko/status/1970698099053269476"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのGota@Data Analystさん: 「Claude Codeの構築方法\n\n有料だがそれ以上に価値ある記事だった！超オススメ！\n\nClaude Codeを立ち上げたAnthropicのエンジニアが語るプロトタイプからリリースまでの秘話やそれに紐づく意思決定の背景、実際の開発方法、AIファーストな開発の未来などが書かれている！\n\nhttps://t.co/JPI081Mbc6」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:50:02.425Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "XユーザーのGota@Data Analystさん: 「Claude Codeの構築方法 有料だがそれ以上に価値ある記事だった！超オススメ！ Claude Codeを立ち上げたAnthropicのエンジニアが語るプロトタイプからリリースまでの秘話やそれに紐づく意思決定の背景、実際の開発方法、AIファーストな開発の未来などが書かれている！ https://t.co/JPI081Mbc6」 / X",
+      "url": "https://x.com/gota_bara/status/1970592329062068268"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "米NVIDIAは、日本語の合成データセット「Nemotron-Personas-Japan」を、Hugging Face上で公開した。ライセンスは、商用利用も可能な「CC BY 4.0」。",
+        "image": "https://image.itmedia.co.jp/aiplus/articles/2509/24/cover_news097.jpg",
+        "siteName": "ITmedia AI＋",
+        "title": "NVIDIA、日本語データセットを公開　日本文化など反映した合成ペルソナ600万件　商用利用も可能",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/aiplus/articles/2509/24/news097.html"
+      },
+      "savedAt": "2025-10-02T06:49:29.764Z",
+      "tags": [
+        "まとめた",
+        "ニュース"
+      ],
+      "title": "NVIDIA、日本語データセットを公開　日本文化など反映した合成ペルソナ600万件　商用利用も可能 - ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2509/24/news097.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのnuskeyさん: 「ブラウザで動く軽量 &amp; 高機能なGLSLエディタ『VJCode』をリリースしました🎉\n\nMIDI・ゲームパッド・カメラ・マイクなどの様々な入力を取得できるほか、頂点シェーダーや複数パスにも対応してます。シェーダーの学習だけでなく、VJやライブコーディングにも最適のツールです！\n\nhttps://t.co/MayIuULbmJ https://t.co/oS0QJDRSVC」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:48:31.044Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーのnuskeyさん: 「ブラウザで動く軽量 &amp; 高機能なGLSLエディタ『VJCode』をリリースしました🎉 MIDI・ゲームパッド・カメラ・マイクなどの様々な入力を取得できるほか、頂点シェーダーや複数パスにも対応してます。シェーダーの学習だけでなく、VJやライブコーディングにも最適のツールです！ https://t.co/MayIuULbmJ https://t.co/oS0QJDRSVC」 / X",
+      "url": "https://x.com/nuskey8/status/1967877312768365000"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのスモビジ開発ラボさん: 「10億円で個人開発のWebサービスを売却した、Skeb創業者が語る『ヒットプロダクトの作り方』が参考になりすぎる。\n\n「Skeb」はイラストコミッションサービスで、 なんと創業者たった1人で企画・開発・運営を行なっていたそう。 https://t.co/FlnJ7arJ5F」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:46:51.042Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーのスモビジ開発ラボさん: 「10億円で個人開発のWebサービスを売却した、Skeb創業者が語る『ヒットプロダクトの作り方』が参考になりすぎる。 「Skeb」はイラストコミッションサービスで、 なんと創業者たった1人で企画・開発・運営を行なっていたそう。 https://t.co/FlnJ7arJ5F」 / X",
+      "url": "https://x.com/yoshio_nocode/status/1971119827281641695"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの賢木イオ🍀AIイラストさん: 「Photoshopβ版にNanoBananaが搭載されました。全部終わった感がすごい･･･。\n\n①適当にキャンバスを広げる\n②Nanobananaで「背景を消して」\n③Nanobananaで「背景に休日の穏やかなキッチンを描いて」\n④「調和（ハーモナイズ）」 https://t.co/wmOkltSTM4」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:44:11.140Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーの賢木イオ🍀AIイラストさん: 「Photoshopβ版にNanoBananaが搭載されました。全部終わった感がすごい･･･。 ①適当にキャンバスを広げる ②Nanobananaで「背景を消して」 ③Nanobananaで「背景に休日の穏やかなキッチンを描いて」 ④「調和（ハーモナイズ）」 https://t.co/wmOkltSTM4」 / X",
+      "url": "https://x.com/studiomasakaki/status/1971479195810398638"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--MeNfPehH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25B1%25BA%25E5%25AE%259A%25E8%25AB%2596%25E7%259A%2584%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25A8%25E9%259D%259E%25E6%25B1%25BA%25E5%25AE%259A%25E8%25AB%2596%25E7%259A%2584AI%2520Agent%25E3%2581%25AE%25E6%258E%25A5%25E5%2590%2588%25E7%2582%25B9%25EF%25BC%259AOSS%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AFEmbabel%25E3%2581%258C%25E6%258B%2593%25E3%2581%258F%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E9%2596%258B...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hiroshi%2520Ito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2o4el9OWkhnaC03WGpBcUhFZm1saXA2LVJUcGt2UFAxSGxpZFRqMkE9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "決定論的システムと非決定論的AI Agentの接合点：OSSフレームワークEmbabelが拓く新しいソフトウェア開発の可能性",
+        "type": "article",
+        "url": "https://zenn.dev/loglass/articles/e6525e7e8b7a69"
+      },
+      "savedAt": "2025-10-02T06:43:28.981Z",
+      "tags": [
+        "まとめた",
+        "社員必読",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "決定論的システムと非決定論的AI Agentの接合点：OSSフレームワークEmbabelが拓く新しいソフトウェア開発の可能性",
+      "url": "https://zenn.dev/loglass/articles/e6525e7e8b7a69"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの田中義弘 | taziku CEO / AI × Creativeさん: 「選択的生成──ついに実現!?\n\nSuperPicture AIなら、画像の一部だけを直接編集可能。長文プロンプトも不要、Nano Bananaのように2〜3回試行する手間もゼロ。\n\n「狙った部分だけ」を、一発で直す時代へ。リンクは🧵\nhttps://t.co/e4sXrDbaXn」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:34:20.366Z",
+      "tags": [
+        "まとめる",
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "Xユーザーの田中義弘 | taziku CEO / AI × Creativeさん: 「選択的生成──ついに実現!? SuperPicture AIなら、画像の一部だけを直接編集可能。長文プロンプトも不要、Nano Bananaのように2〜3回試行する手間もゼロ。 「狙った部分だけ」を、一発で直す時代へ。リンクは🧵 https://t.co/e4sXrDbaXn」 / X",
+      "url": "https://x.com/taziku_co/status/1971936596074418276"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの森 泰輝｜MAGI-C CEOさん: 「全員マーケターとは言わないけど、サンリオのKPIは頭に入れておいたほうがいい。「現代社会は可処分時間の奪い合いが起きていて、可処分時間を奪うことが売上利益に直結する」ということを深く理解している。PL思考を内包したBS思考であり、中長期で売上利益をつくれる本質的な目標設定。IPを育てるこ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:34:07.382Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーの森 泰輝｜MAGI-C CEOさん: 「全員マーケターとは言わないけど、サンリオのKPIは頭に入れておいたほうがいい。「現代社会は可処分時間の奪い合いが起きていて、可処分時間を奪うことが売上利益に直結する」ということを深く理解している。PL思考を内包したBS思考であり、中長期で売上利益をつくれる本質的な目標設定。IPを育てるこ」 / X",
+      "url": "https://x.com/taiki_Pien/status/1972230047395418258"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの田中義弘 | taziku CEO / AI × Creativeさん: 「「これ本当にAI生成か？」と言われる3D生成AI\n\n@tripoai v3.0 Ultra Mode がリリース。\n従来の弱点だったテクスチャ精度を改善し、マテリアル再現度も飛躍的に向上。\n\n「もう手直し不要」の3D生成が現実に近づいてきてる。\nhttps://t.co/PXZMFtQmJw」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:33:45.107Z",
+      "tags": [
+        "まとめる",
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "Xユーザーの田中義弘 | taziku CEO / AI × Creativeさん: 「「これ本当にAI生成か？」と言われる3D生成AI @tripoai v3.0 Ultra Mode がリリース。 従来の弱点だったテクスチャ精度を改善し、マテリアル再現度も飛躍的に向上。 「もう手直し不要」の3D生成が現実に近づいてきてる。 https://t.co/PXZMFtQmJw」 / X",
+      "url": "https://x.com/taziku_co/status/1971723344535081351"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "こちらの書籍ですが、ありがたいことに監訳の金本さん（@kkatsuyoshi）からご献本いただきました！金本さんとは『AI王〜クイズAI日本一決定戦』というイベントでお世話になったことがあり、金本さんが参加者、私が運営委員という感じの関係です。  AI王 は ChatGPT が登場する以前の RAG コンペティション（具体的には、選択肢付き機械読解、オープンドメイン質問応答、etc…）です。当時から興味深い手法を試されており、特に言語モデルが苦手とする固有表現の知識獲得に対する post-hoc なアプローチが勉強になったことを覚えてます。  \n\n\n実践 LLMアプリケーション開発\n\n",
+        "image": "https://assets.st-note.com/production/uploads/images/218277875/rectangle_large_type_2_70f499363b3385bfc38828195f3308bd.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "【書評】 実践LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き｜s-miyawaki",
+        "type": "article",
+        "url": "https://note.com/catshun_/n/n66701e7563ee"
+      },
+      "savedAt": "2025-10-02T06:33:10.298Z",
+      "tags": [
+        "まとめた",
+        "記事・ポスト"
+      ],
+      "title": "【書評】 実践LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き｜s-miyawaki",
+      "url": "https://note.com/catshun_/n/n66701e7563ee"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--dSU71DPH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2581%25AEAI%25E7%2594%259F%25E6%2588%2590%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2580%2581%25E5%2585%25A8%25E9%2583%25A8%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B%25EF%25BC%259F%25E5%2585%25A8%25E9%2583%25A8%25E4%25BF%25A1%25E3%2581%2598%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:r.kagaya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FlZTNjYzY3MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "そのAI生成コード、全部レビューしますか？全部信じますか？",
+        "type": "article",
+        "url": "https://zenn.dev/r_kaga/articles/66c190413d3ab9"
+      },
+      "savedAt": "2025-10-02T06:31:50.676Z",
+      "tags": [
+        "まとめた",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "そのAI生成コード、全部レビューしますか？全部信じますか？",
+      "url": "https://zenn.dev/r_kaga/articles/66c190413d3ab9"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "コマンドラインから生成AIによるコーディングの支援を得られる「GitHub Copilot CLI」がパブリックプレビューとなりました。 GitHub MCPサーバと一緒に提供 GitHub Copilot CLIはコマンドラインにネイティ...",
+        "image": "https://www.publickey1.jp/2025/copilot-cli-01.png",
+        "siteName": "",
+        "title": "GitHub Copilot CLIがパブリックプレビューとして公開。Linux、macOS、Windowsに対応。GitHub MCPサーバも同梱",
+        "type": "article",
+        "url": "https://www.publickey1.jp/blog/25/github_copilot_clilinuxmacoswindowsgithub_mcp.html"
+      },
+      "savedAt": "2025-10-02T06:29:38.812Z",
+      "tags": [
+        "まとめた",
+        "MS/GitHub",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "GitHub Copilot CLIがパブリックプレビューとして公開。Linux、macOS、Windowsに対応。GitHub MCPサーバも同梱 － Publickey",
+      "url": "https://www.publickey1.jp/blog/25/github_copilot_clilinuxmacoswindowsgithub_mcp.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのLangChainJPさん: 「【Cloudflare「Code Mode」: MCPをTypeScript API化してコードで呼ぶ新方式】\n\nCloudflareは、MCP（Model Context Protocol）を従来の「LLMが直接ツール呼び出し」ではなく、MCPツールをTypeScriptのAPIとしてエージェントに提供し、LLMにそのAPIを呼ぶコードを書かせる「Code https://t.co/UB5pWon5af」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:28:36.328Z",
+      "tags": [
+        "まとめた",
+        "MCP",
+        "ツール・サービス"
+      ],
+      "title": "XユーザーのLangChainJPさん: 「【Cloudflare「Code Mode」: MCPをTypeScript API化してコードで呼ぶ新方式】 Cloudflareは、MCP（Model Context Protocol）を従来の「LLMが直接ツール呼び出し」ではなく、MCPツールをTypeScriptのAPIとしてエージェントに提供し、LLMにそのAPIを呼ぶコードを書かせる「Code https://t.co/UB5pWon5af」 / X",
+      "url": "https://x.com/LangChainJP/status/1971945453743726627"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのゆーへー　事業戦略の人 koujitsu/爾今/一絲/DIG/知足 代表さん: 「あなたの会社の売り上げが伸びない理由、ほぼ全部書いてあります https://t.co/KWLyaRmCWW」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:27:40.579Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーのゆーへー　事業戦略の人 koujitsu/爾今/一絲/DIG/知足 代表さん: 「あなたの会社の売り上げが伸びない理由、ほぼ全部書いてあります https://t.co/KWLyaRmCWW」 / X",
+      "url": "https://x.com/yuuuu19860221/status/1972236608310255985"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのShin@プログラミングチュートリアルさん: 「Claude Codeではサブエージェント×カスタムスラッシュコマンド×MCPを使った開発体験が良くて、たとえば\n\n・.claude/agents/codebase-refactor.md\n⇨ リファクタリング専門のサブエージェント作成\n\n・.claude/commands/refactor.md\n⇨ Claude Codeで「/refactor」で簡単に呼び出せる状態にする https://t.co/swzfeUL4rS」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:27:34.148Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "XユーザーのShin@プログラミングチュートリアルさん: 「Claude Codeではサブエージェント×カスタムスラッシュコマンド×MCPを使った開発体験が良くて、たとえば ・.claude/agents/codebase-refactor.md ⇨ リファクタリング専門のサブエージェント作成 ・.claude/commands/refactor.md ⇨ Claude Codeで「/refactor」で簡単に呼び出せる状態にする https://t.co/swzfeUL4rS」 / X",
+      "url": "https://x.com/Shin_Engineer/status/1972538888217591953"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの鹿野 壮 Takeshi Kanoさん: 「Claude Codeのsubagent機能がとても好き。\nイチから作るのは面倒なので、私はVoltAgentが作ってくれたsubagent集を流用している。\n\nhttps://t.co/d0v3k91JUM\n\n解説\nhttps://t.co/LuSUGYevLM https://t.co/zMTALT0Rpk」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:27:07.207Z",
+      "tags": [
+        "まとめる",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト",
+        "自分用"
+      ],
+      "title": "Xユーザーの鹿野 壮 Takeshi Kanoさん: 「Claude Codeのsubagent機能がとても好き。 イチから作るのは面倒なので、私はVoltAgentが作ってくれたsubagent集を流用している。 https://t.co/d0v3k91JUM 解説 https://t.co/LuSUGYevLM https://t.co/zMTALT0Rpk」 / X",
+      "url": "https://x.com/tonkotsuboy_com/status/1972640536839520609"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのKANAさん: 「Hunyuan 3D Studio 機能テスト・第二弾\nテスト内容：画像→3Dモデル、Auto Part Split、ポリゴン削減、UV展開、自動テクスチャ生成。\n🐰参照画像を1枚用意して生成をクリックするだけ\n🐰ハイポリは良好\n🐰ポリゴン削減では三角面より四角面の方が良く、三角面だと一部欠落する https://t.co/KtW3xy6Ni3」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:26:38.239Z",
+      "tags": [
+        "まとめる",
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "XユーザーのKANAさん: 「Hunyuan 3D Studio 機能テスト・第二弾 テスト内容：画像→3Dモデル、Auto Part Split、ポリゴン削減、UV展開、自動テクスチャ生成。 🐰参照画像を1枚用意して生成をクリックするだけ 🐰ハイポリは良好 🐰ポリゴン削減では三角面より四角面の方が良く、三角面だと一部欠落する https://t.co/KtW3xy6Ni3」 / X",
+      "url": "https://x.com/KanaWorks_AI/status/1972174132700672166"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのyachimat - AI Short Animeさん: 「このプロンプトはこれ\n\n{\n  \"cuts\": [\n    {\n      \"cut\": 1,\n      \"title\": \"Focus and Work\",\n      \"scenes\": [\n        {\n          \"time\": \"0:00 - 0:01\",\n          \"prompt\": \"High-angle close-up shot of a dark room. A person is hunched over a desk, intensely drawing on a glowing」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:26:21.758Z",
+      "tags": [
+        "Sora2"
+      ],
+      "title": "Xユーザーのyachimat - AI Short Animeさん: 「このプロンプトはこれ { \"cuts\": [ { \"cut\": 1, \"title\": \"Focus and Work\", \"scenes\": [ { \"time\": \"0:00 - 0:01\", \"prompt\": \"High-angle close-up shot of a dark room. A person is hunched over a desk, intensely drawing on a glowing」 / X",
+      "url": "https://x.com/yachimat_manga/status/1973484948846715347"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのyachimat - AI Short Animeさん: 「Sora2 板野サーカス\n動きに関してはもはやt2v一択だな…\n\nプロンプトはご自由にお使いください\n\nJapanese anime, itano_circus_sequence:\n  - second: 1\n    shot: Wide Shot – Aerial Chaos\n    description: Countless smoking missiles spiral and curve through the night sky, weaving around the https://t.co/T4tb1vJMzY」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:26:19.634Z",
+      "tags": [
+        "Sora2"
+      ],
+      "title": "Xユーザーのyachimat - AI Short Animeさん: 「Sora2 板野サーカス 動きに関してはもはやt2v一択だな… プロンプトはご自由にお使いください Japanese anime, itano_circus_sequence: - second: 1 shot: Wide Shot – Aerial Chaos description: Countless smoking missiles spiral and curve through the night sky, weaving around the https://t.co/T4tb1vJMzY」 / X",
+      "url": "https://x.com/yachimat_manga/status/1973501488480567408"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのとうやさん: 「こちらも引用元のプロンプトででました\nほんとにすごい　#sora https://t.co/cY5YCjGen9」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:26:16.985Z",
+      "tags": [
+        "Sora2"
+      ],
+      "title": "Xユーザーのとうやさん: 「こちらも引用元のプロンプトででました ほんとにすごい　#sora https://t.co/cY5YCjGen9」 / X",
+      "url": "https://x.com/towya_aillust/status/1973347973598945376"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのテックトークナビゲーター@AIコンテンツクリエイターさん: 「どのくらいの長さのプロンプトまで行けるのだろうか #sora2 は🐈\n\n試しにやってみた\n\n「ルアーフィッシング」\n\n1300文字程度版\n\nプロンプトはリプ欄に置いておきます https://t.co/7bQHhGGXYP」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:26:14.060Z",
+      "tags": [
+        "Sora2"
+      ],
+      "title": "Xユーザーのテックトークナビゲーター@AIコンテンツクリエイターさん: 「どのくらいの長さのプロンプトまで行けるのだろうか #sora2 は🐈 試しにやってみた 「ルアーフィッシング」 1300文字程度版 プロンプトはリプ欄に置いておきます https://t.co/7bQHhGGXYP」 / X",
+      "url": "https://x.com/TechTalkNAVI/status/1973377643577008283"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのyachimat - AI Short Animeさん: 「これ何がすごいか言ってませんでした\n\nこれだけガッツリしたプロンプトでさえ通るってことです！\n\n{\n  \"shot\": {\n    \"type\": \"two_person_dialogue_sequence\",\n    \"camera_position\": \"alternating between medium two-shot and opposing close-ups\",\n    \"camera_motion_primary\": \"slow push-in」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:26:10.474Z",
+      "tags": [
+        "Sora2"
+      ],
+      "title": "Xユーザーのyachimat - AI Short Animeさん: 「これ何がすごいか言ってませんでした これだけガッツリしたプロンプトでさえ通るってことです！ { \"shot\": { \"type\": \"two_person_dialogue_sequence\", \"camera_position\": \"alternating between medium two-shot and opposing close-ups\", \"camera_motion_primary\": \"slow push-in」 / X",
+      "url": "https://x.com/yachimat_manga/status/1973371123875065889"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのiwashi / Yoshimasa Iwaseさん: 「Anthropicの \"Effective context engineering for AI agents\" という記事からメモ。良い記事だった。\n\nコンテキストエンジニアリングとは：\n・AIエージェントの性能はコンテキストに依存するが、コンテキストは有限なリソースである」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:25:47.897Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Xユーザーのiwashi / Yoshimasa Iwaseさん: 「Anthropicの \"Effective context engineering for AI agents\" という記事からメモ。良い記事だった。 コンテキストエンジニアリングとは： ・AIエージェントの性能はコンテキストに依存するが、コンテキストは有限なリソースである」 / X",
+      "url": "https://x.com/iwashi86/status/1972714732387016955"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの田中義弘 | taziku CEO / AI × Creativeさん: 「「もうモーションキャプチャスタジオはいらない!?」\n\n@cyanpuppetsから新しいAIアニメーションプラグインが登場。Webカメラ映像をリアルタイムで3D骨格データ化し、MetaHumanに自動リターゲット。\n\nUEでのアニメ制作ワークフローが劇的に短縮される。\nhttps://t.co/QEbc5nNulc」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T06:24:07.091Z",
+      "tags": [
+        "メディア系等",
+        "自分用"
+      ],
+      "title": "Xユーザーの田中義弘 | taziku CEO / AI × Creativeさん: 「「もうモーションキャプチャスタジオはいらない!?」 @cyanpuppetsから新しいAIアニメーションプラグインが登場。Webカメラ映像をリアルタイムで3D骨格データ化し、MetaHumanに自動リターゲット。 UEでのアニメ制作ワークフローが劇的に短縮される。 https://t.co/QEbc5nNulc」 / X",
+      "url": "https://x.com/taziku_co/status/1972598311027957940"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--6nEaACtn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Sonnet%25204.5%2520%25E7%2599%25BA%25E8%25A1%25A8%25E9%2596%25A2%25E9%2580%25A3%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AC%25E3%2581%2593%25E3%2581%25AC%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4ZDE4NWExYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Claude Sonnet 4.5 発表関連情報まとめ",
+        "type": "article",
+        "url": "https://zenn.dev/schroneko/articles/claude-sonnet-4-5"
+      },
+      "savedAt": "2025-10-02T06:22:20.982Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "AIエージェント",
+        "ニュース",
+        "記事・ポスト"
+      ],
+      "title": "Claude Sonnet 4.5 発表関連情報まとめ",
+      "url": "https://zenn.dev/schroneko/articles/claude-sonnet-4-5"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Agentic Commerce Protocol    1. Agentic Commerce Protocol  「OpenAI」と「Stripe」は、「Agentic Commerce Protocol」を以下の目標で構築しました。   ・強力 AI製品の何百万人ものユーザーとつながり、直接的な顧客関係を構築します。  ・導入の容易さ 既存のコマースシステムに簡単に接続できるため、最小限の労力で注文受付を開始できます。  ・柔軟性 決済処理業者、プラットフォーム、購入タイプ、業種を問わず機能します。OpenAIとStripe",
+        "image": "https://assets.st-note.com/production/uploads/images/219023391/rectangle_large_type_2_2f0f55620dbb79da18f6ffeb2e79796c.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Agentic Commerce Protocol (ACP) ガイド｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/ne569dacb6f75"
+      },
+      "savedAt": "2025-10-02T06:03:24.653Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "AIエージェント",
+        "記事・ポスト",
+        "ツール・サービス"
+      ],
+      "title": "Agentic Commerce Protocol (ACP) ガイド｜npaka",
+      "url": "https://note.com/npaka/n/ne569dacb6f75"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol    1. はじめに  本日、Stripeと共同で構築した「Agentic Commerce Protocol」を搭載した「Instant Checkout」を皮切りに、ChatGPTで人々の購買をサポートするための第一歩を踏み出します。  米国のChatGPT Plus、Pro、Freeユーザーは、チャット内で米国の「Etsy」から直接購入できるようになりました。Glossier、SKIMS",
+        "image": "https://assets.st-note.com/production/uploads/images/219023200/rectangle_large_type_2_38c0abf5b60f97854f2503c4edfa7f1d.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "OpenAI の Instant Checkout と Agentic Commerce Protocol (ACP) の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n14e65f6d77f1"
+      },
+      "savedAt": "2025-10-02T06:03:04.503Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "AIエージェント",
+        "記事・ポスト"
+      ],
+      "title": "OpenAI の Instant Checkout と Agentic Commerce Protocol (ACP) の概要｜npaka",
+      "url": "https://note.com/npaka/n/n14e65f6d77f1"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "OpenAIは2025年9月29日、ChatGPTにAIエージェントコマースに便利な機能であるインスタントチェックアウト機能を導入し、米国のChatGPTユーザーが利用できるようになったことを発表した。",
+        "image": "https://gihyo.jp/assets/images/ICON/2025/2649_agentic-commerce-protocol.png",
+        "siteName": "gihyo.jp",
+        "title": "OpenAI、ChatGPTにACP（Agentic Commerce Protocol）をベースとしたインスタントチェックアウト機能を導入 ―ACPはオープンソースとして公開 | gihyo.jp",
+        "type": "article",
+        "url": "https://gihyo.jp/article/2025/09/agentic-commerce-protocol"
+      },
+      "savedAt": "2025-10-02T05:53:50.560Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "AIエージェント",
+        "ツール・サービス"
+      ],
+      "title": "OpenAI、ChatGPTにACP（Agentic Commerce Protocol）をベースとしたインスタントチェックアウト機能を導入 ―ACPはオープンソースとして公開 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2025/09/agentic-commerce-protocol"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのMaki@Sunwood AI Labs.さん: 「Claude Agent SDK が熱そう！！！！！\nこれは遊ばねば！！！\n\nーーー\n【Claude Agent SDK】\n\n 本番環境コアを内包\n　🔧 エラーハンドリング・セッション管理・モニタリングが標準装備\n　📈 数ヶ月分の基盤開発をスキップ可能\n\n自動コンテキスト管理\n　✨ 圧縮＋管理を自動化 → https://t.co/wFdYTHSF93」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T05:49:52.601Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "AIエージェント",
+        "記事・ポスト"
+      ],
+      "title": "XユーザーのMaki@Sunwood AI Labs.さん: 「Claude Agent SDK が熱そう！！！！！ これは遊ばねば！！！ ーーー 【Claude Agent SDK】 本番環境コアを内包 　🔧 エラーハンドリング・セッション管理・モニタリングが標準装備 　📈 数ヶ月分の基盤開発をスキップ可能 自動コンテキスト管理 　✨ 圧縮＋管理を自動化 → https://t.co/wFdYTHSF93」 / X",
+      "url": "https://x.com/hAru_mAki_ch/status/1972867948751769743"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Claude Agent SDKでカスタムAIエージェントを構築する",
+        "image": "https://anthropic-claude-docs.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DAgent%2BSDK%26appearance%3Dlight%26title%3DAgent%2BSDK%25E6%25A6%2582%25E8%25A6%2581%26description%3DClaude%2BAgent%2BSDK%25E3%2581%25A7%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2599%25E3%2582%258B%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fanthropic-claude-docs%252FDcI2Ybid7ZEnFaf0%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DDcI2Ybid7ZEnFaf0%2526q%253D85%2526s%253Dc877c45432515ee69194cb19e9f983a2%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fanthropic-claude-docs%252FDcI2Ybid7ZEnFaf0%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DDcI2Ybid7ZEnFaf0%2526q%253D85%2526s%253Df5bb877be0cb3cba86cf6d7c88185216%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&w=1200&q=100",
+        "siteName": "",
+        "title": "Agent SDK概要 - Claude Docs",
+        "type": "website",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T05:49:25.479Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "Agent SDK概要 - Claude Docs",
+      "url": "https://docs.claude.com/ja/api/agent-sdk/overview"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのチャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》さん: 「【⚡️速報】Lovableがプロンプトだけで本格AIアプリを開発できる新機能「Cloud &amp; AI」を公開。開発から公開までが一瞬に\n\n・APIキーや複雑なバックエンド構築不要\n・プロンプトのみでフルスタックアプリ構築\n・ログイン・DB・ファイルアップ機能も完備\n\nLovableで既に3社が年商1億円超え達成\n\n↓詳細 https://t.co/fKK3Ifl90p」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T05:33:53.096Z",
+      "tags": [
+        "まとめた",
+        "AIコーディング",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "Xユーザーのチャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》さん: 「【⚡️速報】Lovableがプロンプトだけで本格AIアプリを開発できる新機能「Cloud &amp; AI」を公開。開発から公開までが一瞬に ・APIキーや複雑なバックエンド構築不要 ・プロンプトのみでフルスタックアプリ構築 ・ログイン・DB・ファイルアップ機能も完備 Lovableで既に3社が年商1億円超え達成 ↓詳細 https://t.co/fKK3Ifl90p」 / X",
+      "url": "https://x.com/masahirochaen/status/1972806147506900994"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "　PC Watch編集部の担当者から、ゲームグラフィックス技術において、「歩行アニメーション技術について解説してほしい」という打診があった。担当編集者は、このあたりの話題を取り扱った下記の動画を見て大きな関心を抱いたようだ。",
+        "image": "https://pc.watch.impress.co.jp/img/pcw/list/2050/437/1.jpg",
+        "siteName": "PC Watch",
+        "title": "【特集】 地味にスゴイ。「脚が階段にめり込んで興ざめ」を防ぐ3D技術たち  ",
+        "type": "article",
+        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2050437.html"
+      },
+      "savedAt": "2025-10-02T05:31:07.130Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "【特集】地味にスゴイ。「脚が階段にめり込んで興ざめ」を防ぐ3D技術たち - PC Watch",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2050437.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのまさお@AI駆動開発さん: 「✅ Claude Sonnet 4.5 『実際に使ってみての評価』\n\nいくつかコーディングや質問を通しての感想をまとめます\n\n【結論】Sランク: 『絶対試してみた方が良い』\n\n✔︎ ポイント\n・必要なツールを自分で見つけて上手に呼び出す（並列実行や要約の挟み込みも上手） https://t.co/mrDemmIxJy」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T05:30:11.912Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Xユーザーのまさお@AI駆動開発さん: 「✅ Claude Sonnet 4.5 『実際に使ってみての評価』 いくつかコーディングや質問を通しての感想をまとめます 【結論】Sランク: 『絶対試してみた方が良い』 ✔︎ ポイント ・必要なツールを自分で見つけて上手に呼び出す（並列実行や要約の挟み込みも上手） https://t.co/mrDemmIxJy」 / X",
+      "url": "https://x.com/AI_masaou/status/1972973680386019521"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--dA9Mk9pw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Imagine%2520with%2520Claude%25E3%2580%2591%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E7%2594%259F%25E6%2588%2590%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E5%2588%25B0%25E6%259D%25A5%25EF%25BC%2581%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shinya.hara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzNHaEJfbzM5alNTMWxRQ1V3QmpjZnBRQmx1bF9aVVZHYldIczNSUXVWRDBTN2F3PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "【Imagine with Claude】リアルタイムアプリ生成時代の到来！？",
+        "type": "article",
+        "url": "https://zenn.dev/acntechjp/articles/9b95e2e7ac8cb1"
+      },
+      "savedAt": "2025-10-02T05:26:14.341Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "ツール・サービス"
+      ],
+      "title": "【Imagine with Claude】リアルタイムアプリ生成時代の到来！？",
+      "url": "https://zenn.dev/acntechjp/articles/9b95e2e7ac8cb1"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Ask Claude to make interfaces on the fly and explore prompts in an imagined workspace.",
+        "image": "https://claude.ai/imagine/unfurl.png",
+        "siteName": "",
+        "title": "Imagine with Claude",
+        "type": "website",
+        "url": "https://claude.ai/imagine"
+      },
+      "savedAt": "2025-10-02T05:23:47.851Z",
+      "tags": [
+        "まとめた",
+        "Anthropic"
+      ],
+      "title": "Imagine with Claude",
+      "url": "https://claude.ai/imagine/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーの石川陽太 Yota Ishikawaさん: 「え、やばい。Cursor Browserめっちゃいいんだが。簡単な指示だけでかなり自律的に動いてくれた。\n1. ブラウザを開いてスクショを取得\n2. UIの改善点を列挙して実装\n3. ボタンが正常に動作するかを実際クリックして確認\n4. 最後はブラウザでJS実行してダークモードのUI確認まで...！ https://t.co/Tw85Xhr5zy」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T05:06:52.311Z",
+      "tags": [
+        "まとめた",
+        "AIコーディング",
+        "ニュース"
+      ],
+      "title": "Xユーザーの石川陽太 Yota Ishikawaさん: 「え、やばい。Cursor Browserめっちゃいいんだが。簡単な指示だけでかなり自律的に動いてくれた。 1. ブラウザを開いてスクショを取得 2. UIの改善点を列挙して実装 3. ボタンが正常に動作するかを実際クリックして確認 4. 最後はブラウザでJS実行してダークモードのUI確認まで...！ https://t.co/Tw85Xhr5zy」 / X",
+      "url": "https://x.com/ytiskw/status/1972936882066784267"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AnthropicのCPO、マイク・クリーガー氏がClaude Sonnet 4.5のリリースとエージェント機能の展開についてポッドキャスト「Latent Space」で語った。    ローンチ初日で前モデルを超えるトラフィックを記録  Instagramの共同創業者として知られるマイク・クリーガー氏は、現在AnthropicでCPO（最高製品責任者）を務めている。Claude Sonnet 4.5のリリースについて、クリーガー氏は手応えを感じている様子だ。  モデルリリース前の数日間は、社内で集中的にテストを行う期間となる。Claude CodeなどのAnthropicの内部サービス",
+        "image": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ee754810d9ab6fe4a251bad6905a5d005bc53a4f.png",
+        "siteName": "note（ノート）",
+        "title": "Anthropic CPOに学ぶ：Claude Sonnet 4.5のリリースとエージェントの未来｜d",
+        "type": "article",
+        "url": "https://note.com/d_1d2d/n/n0749cd2f71dd"
+      },
+      "savedAt": "2025-10-02T04:57:15.945Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Anthropic CPOに学ぶ：Claude Sonnet 4.5のリリースとエージェントの未来｜d",
+      "url": "https://note.com/d_1d2d/n/n0749cd2f71dd?sub_rt=share_pb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--jhd5ofeR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Sora%25202%2520%25E7%2599%25BA%25E8%25A1%25A8%25E9%2596%25A2%25E9%2580%25A3%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AC%25E3%2581%2593%25E3%2581%25AC%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4ZDE4NWExYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "Sora 2 発表関連情報まとめ",
+        "type": "article",
+        "url": "https://zenn.dev/schroneko/articles/openai-sora-2"
+      },
+      "savedAt": "2025-10-02T04:54:53.368Z",
+      "tags": [
+        "まとめた",
+        "OpenAI",
+        "メディア系等",
+        "Sora2"
+      ],
+      "title": "Sora 2 発表関連情報まとめ",
+      "url": "https://zenn.dev/schroneko/articles/openai-sora-2"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "米NVIDIAが推進する「フィジカルAI」。その仕組みや実現への課題、今、注目されている理由などを、AI開発企業Laboro.AI代表の椎橋徹夫氏に聞いた。",
+        "image": "https://image.itmedia.co.jp/aiplus/articles/2510/01/cover_news013.jpg",
+        "siteName": "ITmedia AI＋",
+        "title": "LLMの“次に来るAI”？　NVIDIAが推進する「フィジカルAI」とは何か、識者に聞いた",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news013.html"
+      },
+      "savedAt": "2025-10-02T04:48:00.971Z",
+      "tags": [
+        "まとめた",
+        "記事・ポスト"
+      ],
+      "title": "LLMの“次に来るAI”？　NVIDIAが推進する「フィジカルAI」とは何か、識者に聞いた（1/3 ページ） - ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2510/01/news013.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「【AnthropicのContext Engineering解説が超実践的だったのでメモシェア〜🎵\"プロンプト工学\"から\"コンテキスト工学\"の時代へ！AIエージェント構築の新常識👀】\n\n📊 Anthropic Applied AIチームによる効果的なAIエージェント構築法\n\n■ 1. Context Engineeringって何？ 🧠\n\n  ▸ 1.1 パラダイムシフト」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-10-02T04:43:57.782Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "AIコーディング"
+      ],
+      "title": "Xユーザーのあきらパパ【生成AI活用エンジニア&３児のパパ】さん: 「【AnthropicのContext Engineering解説が超実践的だったのでメモシェア〜🎵\"プロンプト工学\"から\"コンテキスト工学\"の時代へ！AIエージェント構築の新常識👀】 📊 Anthropic Applied AIチームによる効果的なAIエージェント構築法 ■ 1. Context Engineeringって何？ 🧠 ▸ 1.1 パラダイムシフト」 / X",
+      "url": "https://x.com/akira_papa_IT/status/1973118006436962683"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--3_PqLufA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2582%2582AI%25E3%2581%25A7%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%25E7%25A8%25BC%25E3%2581%2592%25E3%2582%258B%25EF%25BC%2581%25EF%25BC%2581%25E3%2580%258D%25E3%2581%25AB%25E8%25B9%25B4%25E3%2582%258A%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%2582%7EYoutube%25E5%258B%2595%25E7%2594%25BB%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E9%2581%2593%25E3%2581%25AE%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:keita%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzMDdmZjAyYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2588%25E4%25BA%25AC%25E9%2583%25BD%25E8%258A%25B8%25E8%25A1%2593%25E5%25A4%25A7%25E5%25AD%25A6%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQyODFkMjRmNjEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+        "siteName": "Zenn",
+        "title": "「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり",
+        "type": "article",
+        "url": "https://zenn.dev/xtm_blog/articles/da1eba90525f91"
+      },
+      "savedAt": "2025-10-02T04:43:23.395Z",
+      "tags": [
+        "まとめない",
+        "自分用"
+      ],
+      "title": "「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり",
+      "url": "https://zenn.dev/xtm_blog/articles/da1eba90525f91"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Anthropicは1日(米国時間)、AIサービスの「Claude」において「Slack」に対応した。SlackのDMを通じてClaudeとチャットしたり、スレッドで@Claudeをタグ付けしたり、AIアシスタントパネルからWeb検索やドキュメント分析などが可能となる。",
+        "image": "https://www.watch.impress.co.jp/img/ipw/list/2051/852/cl2.jpg",
+        "siteName": "Impress Watch",
+        "title": "ClaudeとSlackが連携　チャンネルやDMでClaudeに相談",
+        "type": "article",
+        "url": "https://www.watch.impress.co.jp/docs/news/2051852.html"
+      },
+      "savedAt": "2025-10-02T04:42:34.070Z",
+      "tags": [
+        "まとめた",
+        "Anthropic",
+        "ニュース"
+      ],
+      "title": "ClaudeとSlackが連携　チャンネルやDMでClaudeに相談 - Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/news/2051852.html"
+    }
+  ],
+  "tags": [
+    "未読",
+    "流し読",
+    "既読",
+    "まとめる",
+    "まとめた",
+    "まとめない",
+    "社員必読",
+    "OpenAI",
+    "Google",
+    "Anthropic",
+    "MS/GitHub",
+    "Amazon",
+    "ローカルLLM",
+    "その他LLM",
+    "AIコーディング",
+    "MCP",
+    "AIエージェント",
+    "ニュース",
+    "記事・ポスト",
+    "ツール・サービス",
+    "メディア系等",
+    "ロボット",
+    "Web開発",
+    "XR/ゲーム",
+    "イベント",
+    "書籍",
+    "自分用",
+    "nano-banana",
+    "Sora2"
+  ]
+}
