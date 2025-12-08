@@ -1,0 +1,1027 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-12-07T09:30:25.411Z",
+  "description": "",
+  "ogpData": [
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--nDuuTQ4y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BADK%255D%2520What%2527s%2520new%2520in%25201.18.0%2520%7E%2520%25E5%2585%25AC%25E5%25BC%258FADK%2520Visual%2520Agent%2520Builder%25E7%2599%25BB%25E5%25A0%25B4%2520%7E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Keisuke%2520Oohashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2gzVXhkWXNLcWpLdFhESXlXRk50UHZyZUxmN2dXaFVsOWNBSVRHLVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "[ADK] What's new in 1.18.0 ~ 公式ADK Visual Agent Builder登場 ~",
+        "type": "article",
+        "url": "https://zenn.dev/soundtricker/articles/d1be0f63286126"
+      },
+      "savedAt": "2025-11-06T08:54:11.911Z",
+      "tags": [
+        "まとめる",
+        "Google",
+        "AIエージェント"
+      ],
+      "title": "[ADK] What's new in 1.18.0 ~ 公式ADK Visual Agent Builder登場 ~",
+      "url": "https://zenn.dev/soundtricker/articles/d1be0f63286126"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "",
+        "siteName": "",
+        "title": "",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-06T08:51:20.130Z",
+      "tags": [
+        "まとめる"
+      ],
+      "title": "エージェント型AI：生成AIの新領域",
+      "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2025/assets/pdf/agentic-ai-the-new-frontier-in-genai.pdf"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Introducing the Gemini 2.5 Computer Use model    1. Gemini 2.5 Computer Use  「Gemini 2.5 Computer use」は、「Gemini 2.5 Pro」の視覚理解・Reasoning機能を基盤として構築された、UIを操作できるエージェントを実現する新しい専用モデルです。このモデルは、複数のWebおよびモバイル制御ベンチマークにおいて、主要な代替モデルを凌駕し、しかも低レイテンシを実現しています。  2. 仕組み  このモデルのコア機能は、「Ge",
+        "image": "https://assets.st-note.com/production/uploads/images/220749522/rectangle_large_type_2_6c5e9e19e9ac6d848689b752f592a024.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Gemini 2.5 Computer Use の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n3104d25dae88"
+      },
+      "savedAt": "2025-11-06T07:28:22.662Z",
+      "tags": [
+        "まとめる",
+        "Google",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "Gemini 2.5 Computer Use の概要｜npaka",
+      "url": "https://note.com/npaka/n/n3104d25dae88"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Google DeepMindは、PC操作を自動化するAIエージェント「Gemini 2.5 Computer Use」のプレビュー版を公開した。画面を見てUI要素を認識し、function_callを通じてクリックや入力を自律実行する。最安フライトを検索し、予約を実行するような複雑な指示も可能という。ただし、購入などの高リスク操作には人間による確認が必須だ。",
+        "image": "https://image.itmedia.co.jp/aiplus/articles/2510/08/cover_news061.jpg",
+        "siteName": "ITmedia AI＋",
+        "title": "Google、PC操作を自動化するAI「Gemini 2.5 Computer Use」のプレビュー版公開",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/aiplus/articles/2510/08/news061.html"
+      },
+      "savedAt": "2025-11-06T07:22:04.472Z",
+      "tags": [
+        "まとめる",
+        "Google",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "Google、PC操作を自動化するAI「Gemini 2.5 Computer Use」のプレビュー版公開 - ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2510/08/news061.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Googleは2025年10月21日、Google AI Studioにおいて、Vibe CodingでAIアプリを作成するための新しいユーザーエクスペリエンスを提供開始した。\n",
+        "image": "https://gihyo.jp/assets/images/ICON/2025/2671_vibe-coding-ai-app-using-google-ai-studio-build-mode.png",
+        "siteName": "gihyo.jp",
+        "title": "Google AI Studio、ビルドモードでAIアプリをVibe Codingするための新しいUXを提供 | gihyo.jp",
+        "type": "article",
+        "url": "https://gihyo.jp/article/2025/10/vibe-coding-ai-app-using-google-ai-studio-build-mode"
+      },
+      "savedAt": "2025-11-06T07:18:45.478Z",
+      "tags": [
+        "まとめる",
+        "Google",
+        "AIコーディング",
+        "ニュース"
+      ],
+      "title": "Google AI Studio、ビルドモードでAIアプリをVibe Codingするための新しいUXを提供 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2025/10/vibe-coding-ai-app-using-google-ai-studio-build-mode"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Anthropicは、Claudeを特定タスクの専門家に変えるという新機能「Skills for Claude」をリリースした。指示やコードをまとめた「Skills」を自動で読み込み、Excel操作や独自ガイドラインの順守など、専門的な作業の精度を高める。API経由でも利用可能だ。",
+        "image": "https://image.itmedia.co.jp/aiplus/articles/2510/17/cover_news060.jpg",
+        "siteName": "ITmedia AI＋",
+        "title": "Anthropic、Claudeのカスタマイズ機能「Skills for Claude」リリース",
+        "type": "article",
+        "url": "https://www.itmedia.co.jp/aiplus/articles/2510/17/news060.html"
+      },
+      "savedAt": "2025-11-05T10:39:35.956Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "ニュース"
+      ],
+      "title": "Anthropic、Claudeのカスタマイズ機能「Skills for Claude」リリース - ITmedia AI＋",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2510/17/news060.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Anthropicは2025年10月21日、AIコーディングエージェントClaude CodeをWebから操作できる「Claude Code on the web」をリサーチプレビュー版としてリリースした。",
+        "image": "https://gihyo.jp/assets/images/article/2025/10/claude-code-on-the-web/001.png",
+        "siteName": "gihyo.jp",
+        "title": "Web上でClaude Codeを実行できる「Claude Code on the web」リサーチプレビュー版で提供開始 | gihyo.jp",
+        "type": "article",
+        "url": "https://gihyo.jp/article/2025/10/claude-code-on-the-web"
+      },
+      "savedAt": "2025-11-05T10:31:28.671Z",
+      "tags": [
+        "既読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "ニュース"
+      ],
+      "title": "Web上でClaude Codeを実行できる「Claude Code on the web」リサーチプレビュー版で提供開始 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2025/10/claude-code-on-the-web"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Web 上のどこでも ChatGPT を利用できます。",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/7C3BcyFP7a5ND61x2LaS0Q/96c45b882ff992f9deca082f51c0585f/Atlas_Blog_OpenGraph_Image.png?w=1600&h=900&fit=fill",
+        "siteName": "",
+        "title": "ChatGPT 搭載のブラウザー、ChatGPT Atlas が登場",
+        "type": "website",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T10:11:26.566Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "OpenAI",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "ChatGPT 搭載のブラウザー、ChatGPT Atlas が登場 | OpenAI",
+      "url": "https://openai.com/ja-JP/index/introducing-chatgpt-atlas/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": " アドレスバーに悪意のコマンドが勝手に入力されるんだって。Google Chromeに対抗して、OpenAIがリリースしたAIブラウザ｢ChatGPT Atlas｣（現在Mac版のみ）に、さっそくセキュリティの穴が見つかり、セキュリティ需要の高い情報を取り扱わないよう専門家たちが警鐘を鳴らしています。個人情報覚えすぎAtlasブラウザでは、｢Memories｣というWeb使用履歴保存機能を組み入れ",
+        "image": "https://media.loom-app.com/gizmodo/dist/images/2025/11/04/shutterstock_2693164977.jpg?w=1280&h=630&f=jpg",
+        "siteName": "",
+        "title": "AIブラウザ｢ChatGPT Atlas｣に脆弱性発覚。専門家が注意を喚起",
+        "type": "article",
+        "url": "https://www.gizmodo.jp/2025/11/vulnerability-discovered-in-chatgpt-atlas.html"
+      },
+      "savedAt": "2025-11-05T10:09:58.246Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "OpenAI",
+        "ツール・サービス"
+      ],
+      "title": "AIブラウザ｢ChatGPT Atlas｣に脆弱性発覚。専門家が注意を喚起 | ギズモード・ジャパン",
+      "url": "https://www.gizmodo.jp/2025/11/vulnerability-discovered-in-chatgpt-atlas.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--hq9jEe4y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenAI%2520AgentKit%25E3%2581%25AE%25E6%25A6%2582%25E8%25A6%2581%25E3%2581%25A8%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%25E3%2580%2590Agent%2520Builder%2520%252F%2520ChatKit%2520%252F%2520Connecto...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BE%25E3%2581%2599%25E3%2581%25BF%2520%252F%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ExNzA3YjIxM2QuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Galirage%2520Inc.%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M5ZDA3ZmI1ZGEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "OpenAI AgentKitの概要と使い方【Agent Builder / ChatKit / Connector Registry】",
+        "type": "article",
+        "url": "https://zenn.dev/galirage/articles/openai-agentkit"
+      },
+      "savedAt": "2025-11-05T10:08:44.801Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "OpenAI",
+        "AIエージェント",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "OpenAI AgentKitの概要と使い方【Agent Builder / ChatKit / Connector Registry】",
+      "url": "https://zenn.dev/galirage/articles/openai-agentkit"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Apps in ChatGPT は ChatGPT のチャット内で会話の流れに応じて外部のアプリを呼び出し、インタラクティブな操作を可能にする機能です。アプリごとに独自の UI コンポーネントを提供し、ユーザーはチャット画面からシームレスな体験でアプリを操作できます。この記事では Apps SDK を使用して、実際に ChatGPT 内で動作するシンプルなアプリを作成する手順を紹介します。",
+        "image": "https://azukiazusa.dev/blog/ogp/chatgpt-apps-sdk.png",
+        "siteName": "azukiazusaのテックブログ2",
+        "title": "ChatGPT 内でアプリを直接操作する Apps SDK に自作のアプリを接続する",
+        "type": "article",
+        "url": "https://azukiazusa.dev/blog/chatgpt-apps-sdk"
+      },
+      "savedAt": "2025-11-05T10:06:33.617Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "OpenAI",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "ChatGPT 内でアプリを直接操作する Apps SDK に自作のアプリを接続する",
+      "url": "https://azukiazusa.dev/blog/chatgpt-apps-sdk/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Introducing Claude Skills    1. Claude Skills の概要  「Skills」は、「Claude」が必要に応じて読み込むことができる「指示」「スクリプト」「リソース」を含むフォルダです。  「Claude」は、手元のタスクに関連する場合にのみ「Skills」にアクセスします。「Skills」を使用すると、Excel での作業や組織のブランドガイドラインの遵守といった特殊なタスクをより効率的に実行できるようになります。    Claudeアプリでは、スプレッドシートやプレゼンテーションなどのフ",
+        "image": "https://assets.st-note.com/production/uploads/images/222820946/rectangle_large_type_2_9d262e23c5657b1f3c718f697bebf29f.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Claude Skills の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n6e221d209d90"
+      },
+      "savedAt": "2025-11-05T09:04:23.088Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "Anthropic",
+        "AIコーディング",
+        "ニュース",
+        "記事・ポスト"
+      ],
+      "title": "Claude Skills の概要｜npaka",
+      "url": "https://note.com/npaka/n/n6e221d209d90"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Anthropicが、開発支援AI「Claude Code」のWeb版を公開した。ブラウザー上の単一インターフェースから、複数のリポジトリにまたがる複数のタスクを並行して実行できる。",
+        "image": "https://news.mynavi.jp/techplus/article/20251021-3571643/index_images/index.jpg",
+        "siteName": "TECH+（テックプラス）",
+        "title": "Anthropic、「Claude Code」Web版を発表、安全なサンドボックス環境で同時実行に対応",
+        "type": "article",
+        "url": "https://news.mynavi.jp/techplus/article/20251021-3571643/"
+      },
+      "savedAt": "2025-11-05T09:04:01.649Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "AIコーディング",
+        "ニュース"
+      ],
+      "title": "Anthropic、「Claude Code」Web版を発表、安全なサンドボックス環境で同時実行に対応 | TECH+（テックプラス）",
+      "url": "https://news.mynavi.jp/techplus/article/20251021-3571643/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのKinopeeさん: 「Anthropic の Skills リポジトリ。サンプルファイルが多数公開されています。\nhttps://t.co/hwgTxqhHGJ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T09:03:12.539Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "XユーザーのKinopeeさん: 「Anthropic の Skills リポジトリ。サンプルファイルが多数公開されています。 https://t.co/hwgTxqhHGJ」 / X",
+      "url": "https://x.com/kinopee_ai/status/1978861091296780732"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "属人化をやめたい。品質を揃えたい。スピードは落とさない。 Agent Skillsは、現場のノウハウを「再現可能な資産」に変えます。プロンプトではなく標準手順×コードで積み上げるから、新人でもベテランと同じ結果に。それを実現するのが、Anthropicの画期的な機能、「Agent Skills」です。  この記事は、導入判断に必要な安全性・運用設計・環境別のリスクと効率、そして即導入できるサンプルまで一気通貫で解説し、あなたが今日からでも「AIを育てる」ための、実践的な設計図を提供します。    1. そもそもAgent Skillsって何？ - AIの新しい「引き出し」術 🗄️  A",
+        "image": "https://assets.st-note.com/production/uploads/images/222783048/rectangle_large_type_2_a0a019bd0aacd23127f022921615c836.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Claudeを\"育てる\"新常識！ Agent Skills徹底解説 - あなたの仕事を自動化する魔法のレシピ ✨｜Kyutaro",
+        "type": "article",
+        "url": "https://note.com/kyutaro15/n/nfcc15522626f"
+      },
+      "savedAt": "2025-11-05T09:02:42.624Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claudeを\"育てる\"新常識！ Agent Skills徹底解説 - あなたの仕事を自動化する魔法のレシピ ✨｜Kyutaro",
+      "url": "https://note.com/kyutaro15/n/nfcc15522626f?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのOikonさん: 「Claude Skills ちょっと分かってきた。\n\nSkillsの情報を外に出して概要のみを保持することで、コンテキストの消費量を削減するだけでなく、効率的にツールを利用が出来る機能。\n\n① Skillsの概要 (YAML形式のメタデータ)\n② Skillsの中身\n③ Skillsに付随する追加情報\n\n① -&gt; ② (-&gt; ③) https://t.co/fOdNzCyuU0」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T09:02:28.782Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "XユーザーのOikonさん: 「Claude Skills ちょっと分かってきた。 Skillsの情報を外に出して概要のみを保持することで、コンテキストの消費量を削減するだけでなく、効率的にツールを利用が出来る機能。 ① Skillsの概要 (YAML形式のメタデータ) ② Skillsの中身 ③ Skillsに付随する追加情報 ① -&gt; ② (-&gt; ③) https://t.co/fOdNzCyuU0」 / X",
+      "url": "https://x.com/oikon48/status/1979014705617473650"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Claude Code on the web    1. Web版 Claude Code  本日、Web版 Claude Code をリリースしました。ブラウザから直接コーディングタスクを委任できる新しい方法です。  現在、リサーチプレビューとしてベータ版を提供しており、Anthropicが管理するクラウド上で実行される Claude に、複数のコーディングタスクを割り当てることができます。これにより、バグ修正のバックログ対応や定期的なメンテナンス、並行開発の効率化に最適です。  2. コーディングタスクの並行実行  Web版 ",
+        "image": "https://assets.st-note.com/production/uploads/images/223717695/rectangle_large_type_2_ae9942585bc52530d6ecc47ed18c076a.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Web版 Claude Code の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n946509504d6a"
+      },
+      "savedAt": "2025-11-05T09:01:23.676Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "Anthropic",
+        "AIコーディング",
+        "ニュース",
+        "記事・ポスト"
+      ],
+      "title": "Web版 Claude Code の概要｜npaka",
+      "url": "https://note.com/npaka/n/n946509504d6a"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--mjaA3Zfm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E5%25B0%258E%25E5%2585%25A53%25E3%2583%25B6%25E6%259C%2588%25E5%25BE%258C%25E3%2581%25AE%25E7%25A4%25BE%25E5%2586%2585%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589%25E5%2588%2586%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:resqnet%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4NzU2YzZmODkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:READYFOR%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pPSm1Xd01qOGxqcUhGRlh0ZEZSRnZGNU1sbERONjRCMV9NdjlQckE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "Claude Code導入3ヶ月後の社内アンケートから分かったこと",
+        "type": "article",
+        "url": "https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07"
+      },
+      "savedAt": "2025-11-05T08:58:42.051Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claude Code導入3ヶ月後の社内アンケートから分かったこと",
+      "url": "https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Introducing vibe coding in Google AI Studio    前回 \n 1. Google AI Studio のバイブコーディング機能  「Google AI Studio」に全く新しいAIを活用したコーディング体験が可能なバイブコーディング機能をリリースしました。APIキーの管理やモデルの連携方法を考える必要なく、プロンプトを入力するだけで数分以内に動作するAIアプリを作成できるように設計されています。  2. 1つのプロンプトでAIを活用したアプリを作成  1つのプロンプトでAIを活用したアプ",
+        "image": "https://assets.st-note.com/production/uploads/images/225082597/rectangle_large_type_2_aaee383bcb91e0fde3f39a8186b1af2b.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "Google AI Studio のバイブコーディング機能の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n9c5ebcc5a897"
+      },
+      "savedAt": "2025-11-05T08:52:24.720Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Google",
+        "AIコーディング",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "Google AI Studio のバイブコーディング機能の概要｜npaka",
+      "url": "https://note.com/npaka/n/n9c5ebcc5a897?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのITmedia AI＋さん: 「OpenAI、ChatGPTにSlackやGoogleドライブに分散する情報を横断検索する「company knowledge」追加\nhttps://t.co/PHCrDuY57W」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:48:35.877Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "OpenAI",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "XユーザーのITmedia AI＋さん: 「OpenAI、ChatGPTにSlackやGoogleドライブに分散する情報を横断検索する「company knowledge」追加 https://t.co/PHCrDuY57W」 / X",
+      "url": "https://x.com/itm_aiplus/status/1982570448677400633"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこ | NUKOさん: 「Claude Haiku 4.5 が公開\n\nSonnet 4 と比べてコーディングで同等性能、コストは 3 分の 1、速度は 2 倍以上。特定のタスクでは Sonnet 4 を超える。API では claude-haiku-4-5。価格は 100 万トークンあたり入力 $1、出力 $5。最も安全なモデル。Bedrock と Vertex AI でも。\nhttps://t.co/WRvkkgI9QO」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:47:27.445Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "ニュース"
+      ],
+      "title": "Xユーザーのぬこぬこ | NUKOさん: 「Claude Haiku 4.5 が公開 Sonnet 4 と比べてコーディングで同等性能、コストは 3 分の 1、速度は 2 倍以上。特定のタスクでは Sonnet 4 を超える。API では claude-haiku-4-5。価格は 100 万トークンあたり入力 $1、出力 $5。最も安全なモデル。Bedrock と Vertex AI でも。 https://t.co/WRvkkgI9QO」 / X",
+      "url": "https://x.com/schroneko/status/1978549989002608640"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのChatGPT研究所さん: 「【速報】Googleが最新動画生成AI Veo 3.1およびVeo 3.1 Fastを発表！ \n\n・音声の表現力が向上\n・映像精度アップ\n・参照動画を元に生成\n・開始、終了フレームを指定可能に\n・動画延長機能\n\nAPI, Flow, Geminiアプリ,Vertex AIから使用可能。既に使えました！\nhttps://t.co/3yB4XAiyxZ」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:47:13.546Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Google",
+        "メディア系等"
+      ],
+      "title": "XユーザーのChatGPT研究所さん: 「【速報】Googleが最新動画生成AI Veo 3.1およびVeo 3.1 Fastを発表！ ・音声の表現力が向上 ・映像精度アップ ・参照動画を元に生成 ・開始、終了フレームを指定可能に ・動画延長機能 API, Flow, Geminiアプリ,Vertex AIから使用可能。既に使えました！ https://t.co/3yB4XAiyxZ」 / X",
+      "url": "https://x.com/ctgptlb/status/1978516786174644251"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのごくう@AI×育休さん: 「これ、知らんかった自分を殴りたい、、、\n\nGrokってアカウントを分析したりできるんだね。\nめちゃ詳細に分析してくれるし。\nなんでこれまで使ってこなかったんやねん。\n\n↓プロンプト↓ https://t.co/sWhyNZ8IHa」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:45:06.496Z",
+      "tags": [
+        "自分用"
+      ],
+      "title": "Xユーザーのごくう@AI×育休さん: 「これ、知らんかった自分を殴りたい、、、 Grokってアカウントを分析したりできるんだね。 めちゃ詳細に分析してくれるし。 なんでこれまで使ってこなかったんやねん。 ↓プロンプト↓ https://t.co/sWhyNZ8IHa」 / X",
+      "url": "https://x.com/ComagerTon79278/status/1976622164884566157"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--VHL1JDWM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2583%2590%25E3%2582%25A4%25E3%2583%2596%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E3%2582%2581%25E3%2581%2590%25E3%2582%258B%25E8%25AD%25B0%25E8%25AB%2596%25E3%2581%25AF%25E5%2599%259B%25E3%2581%25BF%25E5%2590%2588%25E3%2582%258F%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shintake%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDBvaE01ZERCWDhCM3dkTTVvaW1nLTZqZWtUNHlHdVA5YW15OGM3ME1GN0RSNnNBPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
+        "type": "article",
+        "url": "https://zenn.dev/shintake/articles/cc4779fb80dea7"
+      },
+      "savedAt": "2025-11-05T08:42:18.114Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
+      "url": "https://zenn.dev/shintake/articles/cc4779fb80dea7"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのOikonさん: 「【Claude Code の新機能 Pluginシステム】\n\nClaude Code拡張機能として、以下を配布できるようになった\n\n・Slash commands\n・Agents (Subagents)\n・MCPサーバー\n・Hooks\n\n `/plugin` コマンドで実行可能。\n\n基本的な流れ: \n1. Marketplace に Pluginを追加\n2. PluginをInstall\n3. Pluginを利用 https://t.co/Lo7aVbfsaV」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:39:30.733Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "ニュース"
+      ],
+      "title": "XユーザーのOikonさん: 「【Claude Code の新機能 Pluginシステム】 Claude Code拡張機能として、以下を配布できるようになった ・Slash commands ・Agents (Subagents) ・MCPサーバー ・Hooks `/plugin` コマンドで実行可能。 基本的な流れ: 1. Marketplace に Pluginを追加 2. PluginをInstall 3. Pluginを利用 https://t.co/Lo7aVbfsaV」 / X",
+      "url": "https://x.com/oikon48/status/1976456500714635691"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--NiTuF-zW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCP%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E6%25A3%259A%25E5%258D%25B8%25E3%2581%2597%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258BClaude%2520Code%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yuta%2520Takahashi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5YTVhMjE3YTguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25A1%25E3%2583%2589%25E3%2583%25AC%25E3%2583%25BC%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYzOTI2MjI2ZTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "MCPツール棚卸しによるClaude Codeのコンテキスト最適化",
+        "type": "article",
+        "url": "https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit"
+      },
+      "savedAt": "2025-11-05T08:39:05.193Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "MCPツール棚卸しによるClaude Codeのコンテキスト最適化",
+      "url": "https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのぬこぬこ | NUKOさん: 「Gemini 2.5 Computer Use\n\nGemini 2.5 Pro ベースのウェブやモバイル UI の制御に特化したモデル。クリック、入力、スクロールなど。安全対策済み。Google AI Studio と Vertex AI にて。パブリックプレビュー。」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:38:25.724Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Google",
+        "AIコーディング",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "Xユーザーのぬこぬこ | NUKOさん: 「Gemini 2.5 Computer Use Gemini 2.5 Pro ベースのウェブやモバイル UI の制御に特化したモデル。クリック、入力、スクロールなど。安全対策済み。Google AI Studio と Vertex AI にて。パブリックプレビュー。」 / X",
+      "url": "https://x.com/schroneko/status/1975705511656816974"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--i_BdwPX9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenAI%2520DevDay%25202025%2520%25E7%2599%25BA%25E8%25A1%25A8%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AC%25E3%2581%2593%25E3%2581%25AC%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4ZDE4NWExYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "OpenAI DevDay 2025 発表まとめ",
+        "type": "article",
+        "url": "https://zenn.dev/schroneko/articles/openai-devday-2025"
+      },
+      "savedAt": "2025-11-05T08:37:27.552Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "OpenAI",
+        "AIコーディング",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "OpenAI DevDay 2025 発表まとめ",
+      "url": "https://zenn.dev/schroneko/articles/openai-devday-2025"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "以下の記事が面白かったので、簡単にまとめました。   ・Introducing AgentKit    1. はじめに  「AgentKit」は、エージェントを構築・展開・最適化するための包括的なツールセットです。エージェントの構築には、断片化されたツールを巧みに組み合わせる必要がありました。バージョン管理のない複雑なオーケストレーション、カスタムコネクタ、手動による評価パイプライン、プロンプトチューニング、リリース前の数週間に及ぶフロントエンド作業などです。「AgentKit」を使用すると、開発者はワークフローを視覚的に設計し、次のような新しいビルディングブロックを使用して、エージェ",
+        "image": "https://assets.st-note.com/production/uploads/images/220525162/rectangle_large_type_2_ce4388698b5c15d49c24081f894fac40.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "AgentKit の概要｜npaka",
+        "type": "article",
+        "url": "https://note.com/npaka/n/n778ab510cf10"
+      },
+      "savedAt": "2025-11-05T08:37:01.938Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "OpenAI",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "AgentKit の概要｜npaka",
+      "url": "https://note.com/npaka/n/n778ab510cf10?sub_rt=share_sb"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "マイクロソフトは、MCP（Model Context Protocol）やA2A（Agent to Agent）プロトコルなどの業界標準に対応したAIエージェントや、複数のAIエージェントのオーケストレーションの開発を容易にする「Micro...",
+        "image": "https://www.publickey1.jp/2025/ms-agent-framework-prev01.png",
+        "siteName": "",
+        "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開",
+        "type": "article",
+        "url": "https://www.publickey1.jp/blog/25/mcpa2aaimicrosoft_agent_framewok.html"
+      },
+      "savedAt": "2025-11-05T08:36:29.561Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "MS/GitHub",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "マイクロソフト、MCPやA2Aプロトコルに対応したAIエージェント開発を容易にする「Microsoft Agent Framewok」プレビュー公開 － Publickey",
+      "url": "https://www.publickey1.jp/blog/25/mcpa2aaimicrosoft_agent_framewok.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--CL6R4odc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25202.0.0%2520%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Oikon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYyMTkzODY4NjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "Claude Code 2.0.0 のメジャーアップデートについて",
+        "type": "article",
+        "url": "https://zenn.dev/oikon/articles/claude-code-2"
+      },
+      "savedAt": "2025-11-05T08:35:59.904Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claude Code 2.0.0 のメジャーアップデートについて",
+      "url": "https://zenn.dev/oikon/articles/claude-code-2"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Anthropic からコンテキストエンジニアリングの良い記事が出ましたので、翻訳にしました。  \n\n\nEffective context engineering for AI agents\n\n\nAnthropic is an AI safety and research company that's working\n\n\nwww.anthropic.com\n\n\n\n \n  要旨  LLM活用の重心がプロンプト作成から「コンテキストエンジニアリング」へ移行していることを示し、Transformer由来の注意予算やコンテキストロットによる性能劣化を前提に、高シグナル最小トークン集合を設計・維",
+        "image": "https://assets.st-note.com/production/uploads/images/219453991/rectangle_large_type_2_efba7e98976a671c9e4fd328241a74c8.png?fit=bounds&quality=85&width=1280",
+        "siteName": "note（ノート）",
+        "title": "AIエージェントのための効果的なコンテキストエンジニアリング｜sutoh",
+        "type": "article",
+        "url": "https://note.com/lab_bit__sutoh/n/n7796b223fe13"
+      },
+      "savedAt": "2025-11-05T08:24:18.019Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIエージェント",
+        "記事・ポスト"
+      ],
+      "title": "AIエージェントのための効果的なコンテキストエンジニアリング｜sutoh",
+      "url": "https://note.com/lab_bit__sutoh/n/n7796b223fe13"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--L4Xhcw9Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:cc-sdd%25E3%2581%25A7%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kuwano%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvay5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "cc-sddで仕様駆動開発を試してみた",
+        "type": "article",
+        "url": "https://zenn.dev/canly/articles/c77bf9f7a67582"
+      },
+      "savedAt": "2025-11-05T08:22:31.116Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "AIコーディング",
+        "記事・ポスト",
+        "ツール・サービス"
+      ],
+      "title": "cc-sddで仕様駆動開発を試してみた",
+      "url": "https://zenn.dev/canly/articles/c77bf9f7a67582"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "XユーザーのOikonさん: 「Anthropicのエンジニアの登壇\n\n【Mastering Claude Code】\n\n・AIに理解してもらえるようドキュメントの更新は重要\n・Claude Core からの通知をオンにするのは、最初の設定の一歩としてオススメ\n・文字起こし機能をオンにするのもオススメ\n・CI/CDパイプラインでClaude GitHub Actionsを使う https://t.co/Qm6afKe45w」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:21:38.299Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "XユーザーのOikonさん: 「Anthropicのエンジニアの登壇 【Mastering Claude Code】 ・AIに理解してもらえるようドキュメントの更新は重要 ・Claude Core からの通知をオンにするのは、最初の設定の一歩としてオススメ ・文字起こし機能をオンにするのもオススメ ・CI/CDパイプラインでClaude GitHub Actionsを使う https://t.co/Qm6afKe45w」 / X",
+      "url": "https://x.com/oikon48/status/1984110545470099907"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのまさお@AI駆動開発さん: 「🚨 コーディングの常識、変わりつつあります\n\n本日 AIエディタ『Cursor 2.0』が正式に公開されました！\n\nこれは開発者の仕事を根底から変えつつあります…  \n\n細かい実装はAIに任せ「何を作るか」に集中できるAgent中心の設計へ進化\n\n押さえておきたい内容をまとめました👇 https://t.co/n9Ok3wMQ4V」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:21:06.208Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "AIコーディング",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "Xユーザーのまさお@AI駆動開発さん: 「🚨 コーディングの常識、変わりつつあります 本日 AIエディタ『Cursor 2.0』が正式に公開されました！ これは開発者の仕事を根底から変えつつあります… 細かい実装はAIに任せ「何を作るか」に集中できるAgent中心の設計へ進化 押さえておきたい内容をまとめました👇 https://t.co/n9Ok3wMQ4V」 / X",
+      "url": "https://x.com/AI_masaou/status/1983675140362862887"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのすぐる | ChatGPTガチ勢 𝕏さん: 「Alibabaが公開した「Wan2.2」の\nディープフェイク技術がすごいな…。\nhttps://t.co/AjeVYhGnKJ\n自分が話している動画と、同じレンズで撮影した誰かの写真さえあれば「顔出しせず」にその人物として動画出演が可能になる。」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:20:29.252Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "メディア系等"
+      ],
+      "title": "Xユーザーのすぐる | ChatGPTガチ勢 𝕏さん: 「Alibabaが公開した「Wan2.2」の ディープフェイク技術がすごいな…。 https://t.co/AjeVYhGnKJ 自分が話している動画と、同じレンズで撮影した誰かの写真さえあれば「顔出しせず」にその人物として動画出演が可能になる。」 / X",
+      "url": "https://x.com/SuguruKun_ai/status/1983874423997235255"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI エージェントの概念を簡潔に解説し、特に「ReAct (Reasoning and Acting) エージェント」に焦点を当てて、その仕組みと実装方法について詳しく説明します。",
+        "image": "https://developer-blogs.nvidia.com/ja-jp/wp-content/uploads/sites/6/2025/10/llm-social-chat-labs-blog-5-tw-1200x675-1-660x370.jpg",
+        "siteName": "NVIDIA 技術ブログ",
+        "title": "LangGraph と NeMo Agent Toolkit ではじめる ReAct エージェント",
+        "type": "article",
+        "url": "https://developer.nvidia.com/ja-jp/blog/practical-tutorial-on-react-langgraph-nemo-agent-toolkit/"
+      },
+      "savedAt": "2025-11-05T08:19:58.892Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "AIエージェント",
+        "記事・ポスト"
+      ],
+      "title": "LangGraph と NeMo Agent Toolkit ではじめる ReAct エージェント - NVIDIA 技術ブログ",
+      "url": "https://developer.nvidia.com/ja-jp/blog/practical-tutorial-on-react-langgraph-nemo-agent-toolkit/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "ChatGPTを開発・提供するOpenAIは、10月21日にWebブラウザーソフト「ChatGPT Atlas」を発表しました。",
+        "image": "https://www.watch.impress.co.jp/img/ipw/list/2058/953/00.jpg",
+        "siteName": "Impress Watch",
+        "title": "AIブラウザの本命登場　OpenAI「ChatGPT Atlas」を使う",
+        "type": "article",
+        "url": "https://www.watch.impress.co.jp/docs/topic/2058953.html"
+      },
+      "savedAt": "2025-11-05T08:19:22.225Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "OpenAI",
+        "ニュース",
+        "ツール・サービス"
+      ],
+      "title": "AIブラウザの本命登場　OpenAI「ChatGPT Atlas」を使う - Impress Watch",
+      "url": "https://www.watch.impress.co.jp/docs/topic/2058953.html"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "siteName": "X (formerly Twitter)",
+        "title": "Xユーザーのオカムラ | 株式会社メイク・ア・チェンジさん: 「Cursor 2.0 のBrowser機能すごい。エレメントを指定して指示できるのでUI修正がはかどる。\n\n以下の手順ですぐに試せます。\n\n①Cursorチャット欄のWebアイコン（地球アイコン？）から「Browser Tab」を選択\n\n②アドレスバーにURL（http://localhost:5173/ など）を入力\n\n③ Browser Tabの右上の「Select https://t.co/o3OaISr7kV」 / X",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:17:09.555Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "AIコーディング",
+        "記事・ポスト",
+        "ツール・サービス"
+      ],
+      "title": "Xユーザーのオカムラ | 株式会社メイク・ア・チェンジさん: 「Cursor 2.0 のBrowser機能すごい。エレメントを指定して指示できるのでUI修正がはかどる。 以下の手順ですぐに試せます。 ①Cursorチャット欄のWebアイコン（地球アイコン？）から「Browser Tab」を選択 ②アドレスバーにURL（http://localhost:5173/ など）を入力 ③ Browser Tabの右上の「Select https://t.co/o3OaISr7kV」 / X",
+      "url": "https://x.com/masa_oka108/status/1984927616097534261"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "",
+        "siteName": "",
+        "title": "",
+        "type": "",
+        "url": ""
+      },
+      "savedAt": "2025-11-05T08:16:39.678Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "OpenAI",
+        "AIエージェント",
+        "ニュース"
+      ],
+      "title": "エージェント構築実践ガイド.pdf",
+      "url": "https://cdn.openai.com/pdf/37dce0c6-b190-4cf6-b6b9-2651fe6af98a/%E3%82%A8%E3%83%BC%E3%82%B7%E3%82%99%E3%82%A7%E3%83%B3%E3%83%88%E6%A7%8B%E7%AF%89%E5%AE%9F%E8%B7%B5%E3%82%AB%E3%82%99%E3%82%A4%E3%83%88%E3%82%99.pdf"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+        "image": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Keyword_blog_header_2096x1182_width_1200_format_webp_539cc78549/Keyword_blog_header_2096x1182_width_1200_format_webp_539cc78549.webp",
+        "siteName": "Ledge.ai",
+        "title": "Google、誰でも学べるAI学習サイト「Google Skills」を正式公開──Cloud・DeepMind・教育部門を横断する3000講座を展開 | Ledge.ai",
+        "type": "website",
+        "url": "https://ledge.ai/articles/google_skills_ai_learning_platform_launch"
+      },
+      "savedAt": "2025-11-05T08:16:11.103Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Google",
+        "ニュース"
+      ],
+      "title": "Google、誰でも学べるAI学習サイト「Google Skills」を正式公開──Cloud・DeepMind・教育部門を横断する3000講座を展開 | Ledge.ai",
+      "url": "https://ledge.ai/articles/google_skills_ai_learning_platform_launch"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Claude CodeのSubagentsを再入門。Subagentsが独自のコンテキストウィンドウを利用するために起きるコンテキスト損失という落とし穴を軸に、READ系の適材適所、Write系の設計注意、エージェント数の最小化と明確なdescription、巨大文脈のファイル委任、Taskツールのログ&hellip;",
+        "image": "https://files.speakerdeck.com/presentations/cd4536704070441ebe1c7a48d64ad0c0/slide_0.jpg?37007375",
+        "siteName": "Speaker Deck",
+        "title": "Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~",
+        "type": "website",
+        "url": "https://speakerdeck.com/gotalab555/claude-code-subagents-zai-ru-men-cc-sddnoshi-zhuang-dexue-ndakoto"
+      },
+      "savedAt": "2025-11-05T08:15:51.309Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~ - Speaker Deck",
+      "url": "https://speakerdeck.com/gotalab555/claude-code-subagents-zai-ru-men-cc-sddnoshi-zhuang-dexue-ndakoto"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--5GwLbxcz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%258F%25E3%2581%259F%25E3%2581%2597%2520Cursor%2520%25E3%2581%25AB%25E4%25B9%2597%25E3%2582%258A%25E6%258F%259B%25E3%2581%2588%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NmYmQxNTQyNjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "わたし Cursor に乗り換えます",
+        "type": "article",
+        "url": "https://zenn.dev/mohupor03/articles/58a37e9b56066a"
+      },
+      "savedAt": "2025-11-05T08:15:21.042Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめない",
+        "AIコーディング",
+        "記事・ポスト",
+        "ツール・サービス"
+      ],
+      "title": "わたし Cursor に乗り換えます",
+      "url": "https://zenn.dev/mohupor03/articles/58a37e9b56066a"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "Claude Code をはじめとする AI コーディングエージェントは、コマンドを実行するたびにユーザーの承認を求める仕組みが備わっていますが、これには開発サイクルの低下や承認疲れといった問題があります。Claude Code のサンドボックス機能は、ファイルシステムやネットワークへのアクセスを制限し、安全に動作させるための仕組みです。この記事では、Claude Code のサンドボックス機能の仕組みと利用方法について解説します。",
+        "image": "https://azukiazusa.dev/blog/ogp/claude-code-sandbox-feature.png",
+        "siteName": "azukiazusaのテックブログ2",
+        "title": "Claude Code のサンドボックス機能を試してみた",
+        "type": "article",
+        "url": "https://azukiazusa.dev/blog/claude-code-sandbox-feature"
+      },
+      "savedAt": "2025-11-05T08:14:16.823Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claude Code のサンドボックス機能を試してみた",
+      "url": "https://azukiazusa.dev/blog/claude-code-sandbox-feature/"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--Ea8Y9bes--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520on%2520the%2520Web%25E3%2581%25AE%25E4%25BB%2595%25E6%25A7%2598%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E8%25A7%25A3%25E5%2589%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Oikon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYyMTkzODY4NjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "Claude Code on the Webの仕様を徹底解剖",
+        "type": "article",
+        "url": "https://zenn.dev/oikon/articles/claude-code-web-sandbox"
+      },
+      "savedAt": "2025-11-05T08:13:58.451Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claude Code on the Webの仕様を徹底解剖",
+      "url": "https://zenn.dev/oikon/articles/claude-code-web-sandbox"
+    },
+    {
+      "memo": "",
+      "ogp": {
+        "description": "",
+        "image": "https://res.cloudinary.com/zenn/image/upload/s--PQtJfEpy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520on%2520the%2520web%25E3%2582%2592%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B3%25E3%2583%25BC%25E3%2581%2590%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FkMjNkMTdmZTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+        "siteName": "Zenn",
+        "title": "Claude Code on the webを触ってみた",
+        "type": "article",
+        "url": "https://zenn.dev/beagle/articles/bc6ef88dd68615"
+      },
+      "savedAt": "2025-11-05T08:13:21.377Z",
+      "tags": [
+        "未読",
+        "まとめる",
+        "まとめた",
+        "Anthropic",
+        "AIコーディング",
+        "記事・ポスト"
+      ],
+      "title": "Claude Code on the webを触ってみた",
+      "url": "https://zenn.dev/beagle/articles/bc6ef88dd68615"
+    }
+  ],
+  "tags": [
+    "未読",
+    "流し読",
+    "既読",
+    "まとめる",
+    "まとめた",
+    "まとめない",
+    "社員必読",
+    "OpenAI",
+    "Google",
+    "Anthropic",
+    "MS/GitHub",
+    "Amazon",
+    "ローカルLLM",
+    "その他LLM",
+    "AIコーディング",
+    "MCP",
+    "AIエージェント",
+    "ニュース",
+    "記事・ポスト",
+    "ツール・サービス",
+    "メディア系等",
+    "ロボット",
+    "Web開発",
+    "XR/ゲーム",
+    "イベント",
+    "書籍",
+    "自分用",
+    "nano-banana",
+    "Sora2"
+  ]
+}
