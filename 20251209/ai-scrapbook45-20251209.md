@@ -7,8 +7,8 @@
 
 # 気になるトピック
 
-- Claude Opus 4.5 がリリース 観測している範囲だとなんだかんだで Claude Code が人気な様子
-- Google の AI コーディングエディタ Antigravity がリリース
+- Claude Opus 4.5 がリリース AI コーディングエージェントとしては、観測している範囲だとなんだかんだで Claude Code が人気な様子
+- Google の AI コーディングエディタ Antigravity がリリース その他 Nano Banana Pro や File Search in Gemini API など有用なツールを続々リリース。
 
 # カテゴリ
 
